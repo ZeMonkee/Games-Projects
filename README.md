@@ -1,4 +1,4 @@
-# Projet jeux vidéo (lycée)
+# Projets : Jeux vidéo (lycée)
 
 Bataille Navale (2 joueurs):
 - Téléchargez tous les fichiers et les placers dans un dossier.
