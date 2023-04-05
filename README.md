@@ -11,4 +11,6 @@ Pokémon (Actuellement en développement, 2 joueurs) :
 - Exécutez les fichiers, puis lancez dans la console la fonction jeu().
 
 ----------
-Léo PERIOU
+> Crédits : \
+> Bataille Navale : Léo Periou, Alessandro Gadaleta, Titouan Barel \
+> Pokémon : Léo Periou, Benjamin Robert
