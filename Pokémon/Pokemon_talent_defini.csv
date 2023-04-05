@@ -1,0 +1,165 @@
+Absentéisme,Ce Pokémon ne peut attaquer qu'un tour sur deux.
+Absorb-Eau,"Ce Pokémon est immunisé aux attaques de type Eau et récupère 1/4 de ses PVs maximums, arrondis à l'unité inférieure, quand il est touché par une attaque de type Eau."
+Absorb-Volt,"Ce Pokémon est immunisé aux attaques Électrik et récupère 1/4 de ses PVs maximums, arrondis à l'unité inférieure quand il est touché par une attaque Électrik."
+Acharné,L’Attaque de ce Pokémon est augmentée de 2 crans pour chaque statistique diminuée par l’adversaire.
+Adaptabilité,"Les attaques du même type que ce Pokémon ont un bonus de puissance (STAB) de 2 au lieu de 1,5."
+Agitation,"Ce Pokémon a son Attaque multipliée par 1,5 (augmentée de 50%) et la précision de ses attaques physiques est divisée par 0,8 (réduite de 20%)."
+Air-Lock,"Lorsque ce Pokémon est sur le terrain, les effets des climats sont désactivés."
+Alerte-Neige,"Lors du switch-in, ce Pokemon invoque Grêle."
+Analyste,"La puissance de l’attaque de ce Pokémon est multipliée par 1,3 s’il est le dernier à agir dans un tour. N’affecte pas Voeu Destructeur et Prescience."
+Annule-Garde,Tous les coups utilisés par ou contre ce Pokemon seront toujours réussis.
+Anti-Bruit,"Ce Pokémon est immunisé contre les attaques sonores, y compris Glas de Soin."
+Anticipation,"A son arrivée sur le terrain, ce Pokémon est alerté si un Pokémon adverse a une attaque super efficace sur lui, ou une capacité OHKO. Riposte, Fulmifer et Voile Miroir sont considérés comme des attaques de leurs types respectifs, tandis que Puissance Cachée, Jugement, Don Naturel, Techno-Buster, et Ball'Météo comme des attaques de type Normal."
+Armumagma,Ce Pokémon ne peut pas être gelé. Obtenir ce talent guérit tout Pokémon gelé.
+Armurbaston,Ce Pokémon ne peut pas être frappé par un coup critique.
+Armurouillée,"Lorsqu'un Pokémon est touché par une attaque physique, sa Défense diminue d'un niveau, alors que sa Vitesse en augmente d'un."
+Attention,Ce Pokémon ne peut pas être apeuré.
+Baigne-Sable,"Si Tempête de Sable est actif, la vitesse de ce Pokemon est doublée. Ce Pokemon ne subit aucun dommage de Tempête de Sable."
+Benêt,Ce Pokémon est insensible à Provoc et Attraction. Obtenir ce talent annule instantanément les effets d'attraction et de provocation.
+Boom-Final,"Si ce Pokémon est mis K.O par une attaque de contact, l’utilisateur de l’attaque perd 1/4 de ses PV maximums, arrondis à l’inférieur. Si un Pokémon sur le terrain possède le talent Moiteur, cet effet est annulé."
+Brasier,"Lorsque ce Pokémon a 1/3 ou moins de ses PVs maximums, arrondis à l’unité inférieure, la puissance de ses attaques de type Feu est multipliée par 1,5 (augmentée de 50%)."
+Brise-Moule,"Les coups de ce Pokemon et leurs effets ignorent certaines Capacités d'autres Pokemon. Les capacités qui peuvent être annulées sont Armurbaston, Cœur de Coq, Corps Sain, Contestation, Moiteur, Peau Sèche, Filtre, Torche, Don Floral, Garde Amie, Ignifugé, Heavy Metal, Hyper Coupeter, Vaccin, Attention, Insomnie, Regard Vif, Feuille Garde, Lévitation, Light Metal, Paratonnerre, Échauffement, Miroir Magik, Armumagma, Écaille Spéciale, Motorisé, Multiécaille, Benêt, Tempo Perso, Voile Sable, Herbivore, Coque Armure, Écran Poudre, Simple, Rideau Neige, Solide Roc, Anti-Bruit, Glue, Lavabo, Fermeté, Ventouse, Pieds Confus, Télépathe, Isograisse, Inconscient, Esprit Vital, Vole-Vie Volt, Vole-Vie Eau, Ignifu-Voile, Écran Fumée, Garde Mystik, et Peau Miracle. Cela affecte tous les autres Pokemon sur le terrain, qu'ils soient ou non la cible du coup de ce Pokemon, et que leur Capacité soit bénéfique ou non à ce Pokemon."
+Calque,"Ce Pokémon copie le talent d'un autre Pokémon adjacent aléatoire. S'il n'y a pas de talent ou aucun qui puisse être copié sur les Pokémon adjacents à ce moment-là, cette capacité s'active dès qu'un talent peut être copié. Les talents qui ne peuvent pas être copiés sont: Don Floral, Météo, Illusion, Imposteur, Multitype, Calque, et Mode Transe."
+Chanceux,Le ratio de coups critiques de ce Pokemon est augmenté d'un niveau.
+Cherche-Miel,Pas d'utilisation compétitive.
+Chlorophylle,"Si Zenith est actif, la Vitesse de ce Pokémon est doublée."
+Ciel-Gris,"Lorsque ce Pokémon est sur le terrain, les effets des climats sont désactivés."
+Coeur-de-Coq,Empêche les autres Pokémon de baisser la Défense de ce Pokémon.
+Coeur-Noble,L'attaque de ce Pokemon est augmentée d'un niveau après qu'il ait subi des dégâts par un coup de Ténèbres.
+Coeur-Soin,Il y a 30% de chances de guérir l'état non-volatile d'un allié adjacent à la fin de chaque tour.
+Colérique,"Si ce Pokémon, mais pas son clone, est frappé par un coup critique, son Attaque est augmentée de 12 stades."
+Coloforce,L'Attaque de ce Pokémon est doublée.
+Contestation,Inverse les changements de statistiques du Pokémon.
+Coque-Armure,Ce Pokemon ne peut pas être frappé par un coup critique.
+Corps-Ardent,Ce Pokémon a 30% de chances de brûler un attaquant en cas de contact direct.
+Corps-Gel,"Si Grêle est actif, ce Pokemon restaure 1/16 de ses HP maximum, arrondi à l'inférieur, à la fin de chaque tour. Ce Pokemon ne subit aucun dommage de Grêle."
+Corps-Maudit,"Si ce Pokémon est frappé par une attaque, il y a 30% de chances que cette attaque soit entravée, sauf si une autre attaque de l’attaquant est déjà sous entrave."
+Corps-Sain,Empêche les autres Pokémon de baisser les statistiques de ce Pokémon.
+Crachin,"Lorsque ce Pokémon arrive sur le terrain, il invoque la Danse Pluie."
+Cran,"Si ce Pokémon a un problème de statut, son attaque est multipliée par 1,5 (augmentée de 50%). Il ignore la réduction de l'Attaque causée par la brûlure."
+Cuvette,"Si Danse Pluie est actif, ce Pokémon restaure 1/16 de ses PVs maximums, arrondis à l'unité inférieure, à la fin de chaque tour."
+Début-Calme,"Lorsqu'il arrive sur le terrain, l'Attaque et la Vitesse de ce Pokémon sont réduites de moitié pendant 5 tours."
+Défaitiste,"Lorsque ce Pokémon a la moitié ou moins de ses PVs totaux, son Attaque et son Attaque Spéciale sont réduites de moitié."
+Déguisement,"Le type de ce Pokémon change pour correspondre au type de la dernière attaque l’ayant touché, sauf si ce type est déjà l’un de ses types. Cet effet s’applique après tous les coups d’une attaque à coups multiples. Le talent Sans Limite l’empêche de s’activer si l’attaque a un effet secondaire."
+Délestage,"Si ce Pokemon perd l'objet qu'il tient pour une raison quelconque, sa vitesse est doublée. Ce boost est perdu s'il échange ou gagne un nouvel objet ou une nouvelle capacité."
+Don-Floral,"Si Zénith est actif, l'attaque et la défense spéciale de ce Pokemon et de ses alliés sont multipliées par 1,5."
+Écaille-Spéciale,"Si ce Pokémon a un problème de statut, sa Défense est multipliée par 1,5 (augmentée de 50%)."
+Échauffement,Ce Pokémon ne peut pas être paralysé. Obtenir cette capacité si un Pokémon est paralysé le guérit.
+Écran-Fumée,Empêche les autres Pokémon d'abaisser les statistiques de ce Pokémon.
+Écran-Poudre,Ce Pokémon n'est pas affecté par les effets secondaires de l'attaque d'un autre Pokémon.
+Engrais,"Lorsque ce Pokémon a 1/3 ou moins de ses PVs maximums, arrondis à l’unité inférieure, la puissance offensive du Pokémon est multipliée par 1,5 (augmentée de 50%) lorsqu’il utilise une attaque de type Plante."
+Envelocape,Ce Pokemon est immunisé contre les dégâts de Tempête de Sable ou de Grêle.
+Épine-de-Fer,"Les Pokemon qui entrent en contact avec ce Pokemon perdent 1/8 de leurs HP maximum, arrondi à l'inférieur."
+Esprit-Vital,Ce Pokémon ne peut pas s'endormir. Obtenir ce talent réveille instantanément un Pokémon endormi.
+Essaim,"Lorsque ce Pokémon a 1/3 ou moins de ses PVs maximums, arrondis à l'unité inférieure, sa statistique d'Attaque est multipliée par 1,5 (augmentée de 50%) lorsqu'il utilise une attaque de type Insecte."
+Farceur,Les attaques non offensives du Pokémon qui a ce talent voient leur priorité augmentée de 1.
+Fermeté,"Si ce Pokémon a tous ses PVs, il survit à un coup avec au moins 1 PV. Les attaques qui OHKO échouent lorsqu'elles sont utilisées contre ce Pokémon."
+Feuille-Garde,"Si Zénith est actif ce Pokémon ne peut pas avoir de problème de statut, et la capacité Repos échoue. Si ce Pokémon a un problème de statut celui-ci est guéri par la présence du climat Zénith."
+Filtre,Ce Pokémon reçoit 3/4 des dégâts des attaques super efficaces.
+Force-Pure,L'Attaque de ce Pokémon est doublée.
+Force-Sable,"Si Tempête de Sable est actif, les attaques de type Sol, Roche et Acier de ce Pokémon voient leur puissance multipliée par 1,3 (augmentée de 30%). Ce Pokémon ne subit aucun dommage de Tempête de Sable."
+Force-Soleil,"Si Zénith est actif, l'Attaque Spéciale de ce Pokémon est multipliée par 1,5 (augmentée de 50%) et il perd 1/8 de ses PVs maximums, arrondis à l'unité inférieure, à la fin de chaque tour."
+Fouille,"Lorsqu'il arrive sur le terrain, ce Pokémon identifie les objets détenus par l'un des Pokémon adverses au hasard."
+Frein,"Ce Pokémon attaque en dernier, peu importe la priorité des capacités utilisées par les autres Pokémon pendant le tour."
+Fuite,Pas d'utilisation compétitive.(Ce talent permet au Pokémon de ne pas être piégé sur le terrain que ce soit par un talent ou une capacité adverse.)
+Garde-Amie,Les alliés de ce Pokémon lorsqu'ils sont attaqués par les Pokémon adverses ne reçoivent que 3/4 des dégâts.
+Garde-Magik,"Ce Pokémon ne peut subir des dégâts que par des attaques directes. L'utilisation de Clonage, de Malédiction, de Cognobidon, de Balance, le recul de Lutte, et les dégâts de confusion sont considérés comme des dégâts directs. Ce Pokémon n'est pas affecté par les dégâts de Picots, Pics Toxik, et Piège de Roc lorsqu'il arrive sur le terrain. Il est également immunisé aux dégâts du climat, des capacités piégeant les Pokémon sur le terrain comme Vortex Magma, et des contrecoups des capacités ou de l'Orbe Vie."
+Garde-Mystik,"Ce Pokémon ne peut subir des dégâts que par des attaques super efficaces, et des dégâts indirects : les problèmes de statut, le climat, ainsi que les Picots, Pics Toxik, Piège de Roc."
+Glissade,"Si Danse Pluie est actif, la Vitesse de ce Pokémon est doublée."
+Gloutonnerie,"Lorsque ce Pokémon a la moitié ou moins de ses PVs maximums, il utilise les baies augmentant les statistiques plus tôt (normalement ces baies s'activent uniquement si les PVs tombent à 25%)."
+Glue,Ce Pokémon ne peut pas perdre l'objet qu'il tient à cause de l'attaque d'un autre Pokémon.
+Heavy-Metal,Le poids de ce Pokemon est doublé.
+Herbivore,Ce Pokémon est immunisé aux attaques de type Plante et voit son Attaque augmenter d'1 cran lorsqu'il est touché par une attaque de type Plante.
+Hydratation,Ce Pokémon voit son problème de statut guéri à la fin de chaque tour si Danse Pluie est actif.
+Hyper-Cutter,L'Attaque de ce Pokémon ne peut pas être baissée.
+Ignifu-Voile,Ce Pokémon ne peut pas être brûlé. Obtenir ce talent guérit instantanément la brûlure.
+Ignifugé,Contre ce Pokémon la puissance des attaques de type Feu et les dégâts de la brûlure sont réduits de moitié.
+Illusion,"Lorsque ce Pokémon entre au combat, il apparaît comme le dernier Pokémon de l'équipe jusqu'à ce qu'il subisse des dégâts directs de l'attaque d'un autre Pokémon. Le niveau et les PVs réels de ce Pokémon sont affichés à la place de ceux du Pokémon imité."
+Impassible,"Si ce Pokémon est apeuré, sa Vitesse est augmentée d'1 cran."
+Imposteur,"Lorsqu'il arrive sur le terrain, ce Pokémon se transforme en le Pokémon adverse qui lui fait face. S'il n'y a pas de Pokémon à cette position, il ne se transforme pas."
+Impudence,L'Attaque de ce Pokémon est augmentée d'1 cran s'il attaque et met KO un autre Pokémon.
+Inconscient,"Ce Pokémon ignore les changements de stats d'Attaque, d'Attaque Spéciale et de Précision des autres Pokémon lorsqu'il subit des dégâts, et ignore les changements de stats de Défense, de Défense spéciale et d'Esquive des autres Pokémon lorsqu'il inflige des dégâts."
+Infiltration,"Les attaques de ce Pokémon ignorent les clones et les Protection, Mur Lumière, Rune Protect, et Brume de l'adversaire."
+Insomnia,Ce Pokémon ne peut pas s'endormir. Obtenir ce talent réveille instantanément un Pokémon endormi.
+Intimidation,"Lorsqu'il arrive sur le terrain, ce Pokémon diminue l'Attaque des Pokémon adverses adjacents d'1 cran. Les Pokémon avec les talents: Attention, Benêt, Tempo Perso, Querelleur, et ceux se trouvant derrière un clone sont immunisés."
+Isograisse,Contre ce Pokémon la puissance des attaques de type Feu et Glace est réduite de moitié.
+Joli-Sourire,"Si ce Pokémon est touché par une attaque de contact et par un adversaire du sexe opposé, celui-ci a 30% de chances d'en tomber amoureux."
+Lavabo,"Ce Pokémon est immunisé aux attaques de type Eau et il augmente son Attaque Spéciale d'1 cran lorsqu'il est touché par une de ces attaques. Si ce Pokémon n'est pas la cible d'une attaque de type Eau utilisée par un autre Pokémon, l'attaque est redirigée vers le Pokémon qui a Lavabo s'il est à portée."
+Lentiteintée,"Lorsqu'une attaque de ce Pokémon n'est pas très efficace sur une cible, les dégâts infligés par cette capacité sont doublés."
+Lévitation,"Ce Pokémon est immunisé aux attaques de type Sol et aux effets de Picots, Pics Toxik, Toile Gluante, et le talent Piège Sable. Les effets de Gravité, Racines, Anti-Air, et Balle Fer annulent cette immunité."
+Light-Metal,Le poids de ce Pokemon est réduit de moitié.
+Lumiattirance,Pas d'utilisation compétitive.
+Lunatique,Ce Pokémon a une statistique aléatoire augmentée de 2 crans et une autre statistique diminuée d'1 cran à la fin de chaque tour.
+Magnépiège,"Cette attaque empêche les Pokémon adjacents de type Acier de quitter le terrain, sauf s'ils tiennent la Carapace Mue ou qu'ils utilisent Demi-Tour, Change Éclair, ou Téléport. Si le Pokémon piégé obtient le talent Fuite, ou s'il utilise des capacités comme Hurlement ou Cyclone, il peut être de nouveau échangé."
+Maladresse,"L'objet détenu par ce Pokemon n'a aucun effet. Ce Pokemon ne peut pas utiliser Dégommage avec succès. Bracelet Macho, Chaîne Pouvoir, Bandeau Pouvoir, Ceinture Pouvoir, Poignée Pouvoir, Lentille Pouvoir, et Poids Pouvoir ont toujours leurs effets."
+Marque-Ombre,"Cette attaque empêche les Pokémon adjacents de quitter le terrain, sauf s'ils tiennent la Carapace Mue ou qu'ils utilisent Demi-Tour, Change Éclair, ou Téléport. Si le Pokémon piégé obtient les talents Fuite, Marque Ombre, ou s'il utilise des capacités comme Hurlement ou Cyclone, il peut être de nouveau échangé."
+Matinal,Le compteur de sommeil de ce Pokémon diminue de 2 au lieu de 1 à chaque tour.
+Mauvais-Rêve,"Lorsque ce Pokémon est sur le terrain, les adversaires endormis pendent 1/8 de leurs PVs maximums arrondis à l’unité inférieure, à la fin de chaque tour."
+Médic-Nature,"Lorsqu'il quitte le terrain, ce Pokémon est guéri de tout problème de statut."
+Météo,"Si ce Pokémon est un Morphéo, son type change en fonction de la météo actuelle, sauf Tempête de Sable."
+Minus,"Si un allié actif possède ce talent ou le talent Plus, l'Attaque Spéciale de ce Pokémon est multipliée par 1,5 (augmentée de 50%)."
+Miroir-Magik,Ce Pokemon bloque certains mouvements de statut et utilise le mouvement contre l'utilisateur original.
+Mode-Transe,"If this Pokemon is a Darmanitan, it changes to Zen Mode if it has 1/2 or less of its maximum HP at the end of a turn. If Darmanitan's HP is above 1/2 of its maximum HP at the end of a turn, it changes back to Standard Mode. If Darmanitan loses this Ability while in Zen Mode, it reverts to Standard Mode immediately."
+Moiteur,"Lorsque le Pokémon qui a ce talent est sur le terrain, les attaques Explosion, Destruction et le Talent Boom Final échouent."
+Momie,Les Pokémon qui entrent en contact avec ce Pokémon voient leur Talent changé en Momie. N'affecte pas un Pokémon qui a déjà Momie ou les talents Multitype et Mode Transe.
+Motorisé,Ce Pokémon est immunisé contre les attaques de type Électrik et augmente sa Vitesse d'1 cran lorsqu'il est touché par une capacité Électrik.
+Mue,Ce Pokémon a 33% de chances de voir son problème de statut guéri à la fin de chaque tour.
+Multi-Coups,Les attaques à coups multiples de ce Pokémon touchent toujours le nombre maximum de fois.
+Multiécaille,"Si ce Pokémon possède tous ses PVs, les dégâts qu'il subit sont réduits de moitié."
+Multitype,"Si ce Pokémon est un Arceus, son type change pour correspondre à celui de la plaque qu'il tient."
+Normalise,"Les attaques de ce Pokémon sont toujours de type Normal, peu importe leur type d'origine, leur puissance est multipliée par 1,2(augmentée de 20%). Cet effet vient avant les autres effets qui changent le type d'une attaque."
+Oeil-Composé,"Les attaques de ce Pokémon ont leur précision multipliée par 1,3 (augmentée de 30%)."
+Paratonnerre,"Ce Pokémon est immunisé aux attaques de type Électrik et augmente son Attaque Spéciale d'1 cran lorsqu'il est touché par une attaque Électrik. Si ce Pokémon n'est pas visé par une attaque Électrik à cible unique utilisée par un autre Pokémon, cette attaque est redirigée vers lui s'il est à portée et neutralisée. Le boost d'Attaque Spéciale n'a pas lieu si le Pokémon est de type Sol."
+Pas-de-talent,Ne fait rien.
+Peau-Dure,"Si ce Pokémon est touché par une attaque de contact et qu'il subit des dégâts, le lanceur de cette attaque perd 1/8 de ses PVs maximums arrondis à l'unité inférieure."
+Peau-Miracle,Les capacités non offensives infligeant un problème de statut et visant ce Pokémon ont 50% de chances d'échouer. Ce changement est effectué avant tout autre effet modifiant la précision.
+Peau-Sèche,"Ce Pokémon est immunisé aux capacités de type Eau et restaure 1/4 de ses PVs maximums, arrondis à l'unité inférieure, lorsqu'il est touché par une capacité de de type Eau. La puissance des attaques de type Feu utilisées contre lui est multipliée par 1.25 (augmentée de 25%). À la fin de chaque tour, ce Pokémon restaure 1/8 de ses PVs maximums, arrondis à l'unité inférieure, si la météo est Danse Pluie, et perd 1/8 de ses PVs maximums, arrondis à l'unité inférieure, si la météo est Zénith."
+Phobique,"La Vitesse de ce Pokémon est augmentée d'1 cran s'il est touché par une attaque de type Insecte, Ténèbres, Spectre."
+Pickpocket,"Si ce Pokémon ne tient pas d'objet, il vole l'objet d'un Pokémon qu'il touche avec une attaque.Cet effet s'applique après tous les coups d'une attaque à plusieurs coups.La présence sur le terrain d'un Pokémon avec le talent Sans Limite empêche le vol si l'attaque utilisée a un effet secondaire."
+Pied-Véloce,"Si ce Pokémon a un problème de statut sa Vitesse est multipliée par 1,5 (augmentée de 50%). Ce Pokémon ignore le malus en Vitesse dû à la paralysie."
+Pieds-Confus,L'Esquive de ce Pokémon est doublée tant qu'il est confus.
+Piège-Sable,"Empêche les Pokémon adverses d’être échangés, à moins qu’ils ne soient de type Vol, qu'ils tiennent la Carapace Mue ou qu'ils utilisent Demi-Tour, Change Éclair, Cyclone, Hurlement, ou Téléport. Les Pokémon peuvent quitter le terrain s'ils possèdent les talents: Lévitation ou Fuite."
+Plus,"Si un allié actif possède ce talent ou le talent Minus, l'Attaque Spéciale de ce Pokémon est multipliée par 1,5 (augmentée de 50%)."
+Poing-de-Fer,"Les attaques de coups de poing de ce Pokémon ont leur puissance multipliée par 1,2 (augmentée de 20%).Les capacités boostées sont : Dynamopoing, Mach Punch, Marto-Poing, Mitra-Poing, Pisto-Poing, Poing Boost, Poing Comète, Poing Dard, Poing de Feu, Poing Éclair, Poing Glace, Poing Karaté, Poing Météore, Poing Ombre, Stratopercut, Ultimapoing, Uppercut et Vampipoing."
+Point-Poison,Ce Pokémon a 30% de chances d'empoisonner un attaquant en cas de contact direct.
+Pose-Spore,"Ce Pokémon a 30% de chances d'infliger un problème de statut tout Pokémon entrant en contact direct avec lui.9% de chances qu'il soit empoisonné, 10% qu'il soit paralysé, 11% qu'il s'endorme."
+Prédiction,"Lorsqu'il arrive sur le terrain, ce Pokémon est alerté de la capacité avec la plus grande puissance, au hasard, connue par un Pokémon adverse."
+Pression,"Chaque capacité offensive utilisée sur ce Pokémon perd 1 PP supplémentaire.L'effet est cumulable si plusieurs Pokémon ont ce talent sur le terrain. Les PPs alliés ne sont pas affectés. Les talents comme Tera-Voltage, TuboBrasier et Brise Moule ne peuvent pas ignorer la Pression."
+Puanteur,Les attaques offensives de ce Pokémon ont 10% de chances d'apeurer.
+Querelleur,Ce Pokémon peut toucher les types Spectre avec des capacités de type Combat et de type Normal.
+Rage-Brûlure,"Lorsque ce Pokémon est brûlé, la puissance de ses attaques spéciales est multipliée par 1,5 (augmentée de 50%)."
+Rage-Poison,"Lorsque ce Pokémon est empoisonné, la puissance de ses attaques physiques est multipliée par 1,5 (augmentée de 50%)."
+Ramassage,"Si ce Pokémon ne tient pas d'objet, il en trouve un utilisé par un Pokémon adjacent ce tour-ci."
+Récolte,"Si le dernier objet utilisé par ce Pokémon est une Baie, il y a 50% de chance qu'elle soit restaurée à la fin de chaque tour. Si Zénith est actif, il la récupère à la fin de chaque tour."
+Regard-Vif,La Précision de ce Pokémon ne peut pas être baissée. Ce Pokémon ne tient pas compte de l'Esquive d'une cible.
+Régé-Force,"Ce Pokémon récupère 1/3 de ses PVs maximums, arrondis à l'unité inférieure, lorsqu'il retourne dans son équipe."
+Rideau-Neige,"Si Grêle est actif, l'Esquive de ce Pokémon est multipliée par 1,25 (augmentée de 25%). Ce Pokémon ne subit aucun dommage de Grêle."
+Rivalité,"Les attaques de ce Pokémon ont leur puissance multipliée par 1,25 (augmentée de 25%) contre les cibles du même sexe ou multipliée par 0,75 (réduite de 25%) contre les cibles du sexe opposé. Il n'y a pas de modification si ce Pokémon ou la cible est asexué."
+Sable-Volant,"Lorsqu'il arrive sur le terrain, ce Pokémon invoque Tempête de Sable."
+Sans-Limite,"Les attaques de ce Pokémon avec des effets secondaires voient leur puissance multipliée par 1,3 (augmentée de 30%), mais les effets secondaires sont supprimés.Ces effets sont: l'augmentation des statistiques du lanceur, la baisse des statistiques de la cible, le fait d'infliger un problème de statut ou de rendre apeuré ou confus la cible.Sans Limite supprime également l'activation des talents par l'attaque pour l'adversaire, et des objets; par exemple le recul d'Orbe Vie et la récupération de Grelot Coque n'ont pas lieu.Ce talent empêche l'activation d'autres talents: Déguisement, Pickpocket, et objets : Carton Rouge, Bouton Fuite, Baie Rangma, et Baie Éka, de la cible."
+Sécheresse,"Lorsqu'il arrive sur le terrain, ce Pokémon invoque le Zénith."
+Sérénité,"Les attaques de ce Pokémon ont deux fois plus de chances d'infliger leurs effets secondaires, les effets des objets comme la Roche Royale sont également concernés."
+Simple,Les augmentations et diminutions de statistiques de ce Pokémon sont doublées.
+Sniper,"Si ce Pokémon effectue un coup critique, les dégâts sont multipliés par 1,5 (augmentés de 50%)."
+Soin-Poison,"Si ce Pokémon est empoisonné, il restaure 1/8 de ses PVs maximums, arrondis à l'unité inférieure, à la fin de chaque tour au lieu de perdre des PVs."
+Solide-Roc,Ce Pokémon reçoit 3/4 des dégâts des attaques super efficaces.
+Statik,Ce Pokémon a 30% de chances d'empoisonner un attaquant en cas de contact direct.
+Suintement,"Ce Pokémon blesse ceux qui lui drainent des PVs pour se soigner proportionnellement à ce qu'ils auraient dû récupérer.Ce talent ignore Anti-Soin. Le Pokémon absorbera les dégâts, que la capacité soit offensive ou passive.Liste des capacités concernées: Giga-Sangsue, Méga-Sangsue, Vampigraine, Vampirisme, Vol-Vie, Vampipoing, Dévorêve, Encornebois."
+Synchro,"Si un autre Pokémon brûle, paralyse, empoisonne ou empoisonne gravement ce Pokémon, ce dernier reçoit le même problème de statut sauf s'il y est immunisé de par son type ou son talent."
+Technicien,"Les attaques de ce Pokémon de 60 de puissance ou moins ont leur puissance multipliée par 1,5 (augmentée de 50%). Affecte Lutte."
+Télécharge,"Ce Pokémon, en arrivant sur le terrain, augmente son Attaque ou son Attaque Spéciale d’1 cran en fonction de la statistique défensive la plus faible de l’adversaire. L’Attaque est augmentée si la Défense est la plus faible, l’Attaque Spéciale si la Défense Spéciale est la même ou plus faible."
+Télépathe,Ce Pokémon ne subit pas les dégâts des attaques de ses alliés.
+Téméraire,"Les attaques de ce Pokémon avec recul ou dégâts de collision voient leur puissance multipliée par 1,2 (augmentée de 20%). N'affecte pas Lutte.Les capacités concernées sont : Bélier, Boutefeu, Damoclès, Éclair Fou, Électacle, Fracass'Tête, Peignée, Pied Sauté, Pied Voltige, Rapace, et Sacrifice."
+Tempo-Perso,Ce Pokémon ne peut pas être confus. Obtenir ce talent dissipe instantanément la confusion.
+Tension,"Lorsque ce Pokémon arrive sur le terrain, il empêche les adversaires d'utiliser leurs baies.L'activation se fait avant les autres talents, quel que soit la Vitesse du Pokémon."
+Téra-Voltage,"Les attaques de ce Pokémon et leurs effets ignorent certaines Talents d'autres Pokémon.Les talents qui peuvent être annulées sont Aroma-Voile, Armurbaston, Cœur de Coq, Corps Sain, Contestation, Moiteur, Peau Sèche, Filtre, Torche, Don Floral, Garde Amie, Ignifugé, Heavy Metal, Hyper Cutter, Vaccin, Attention, Insomnia, Regard Vif, Feuille Garde, Lévitation, Light Metal, Paratonnerre, Échauffement, Miroir Magik, Armumagma, Écaille Spéciale, Armure Miroir, Motorisé, Multiécaille, Benêt, Envelocape, Tempo Perso, Voile Sable, Herbivore, Coque Armure, Écran Poudre, Simple, Rideau Neige, Solide Roc, Anti-Bruit, Glue, Lavabo, Fermeté, Ventouse, Pieds Confus, Télépathe, Isograisse, Inconscient, Esprit Vital, Absorb-Volt, Absorb-Eau, Ignifu-Voile, Écran Fumée, Garde Mystik, et Peau Miracle.Cela affecte tous les autres Pokémon sur le terrain, qu'ils soient ou non la cible du coup de ce Pokémon, et que leur talent soit bénéfique ou non à ce Pokémon."
+Tête-de-Roc,"Ce Pokémon ne subit pas de dégâts de recul en dehors de Lutte, Orbe Vie, et des dégâts de contact."
+Torche,"Ce Pokémon est immunisé contre les attaques de type Feu. La première fois qu'il est touché par ces dernières, sa statistique d'Attaque est multipliée par 1,5 (augmentée de 50%) pendant la prochaine utilisation d'une attaque de type Feu et ce tant qu'il reste sur le terrain. Si ce Pokémon est gelé et touché par une capacité de type Feu, il sera dégelé et il obtiendra l'augmentation de statistique."
+Torrent,"Lorsque ce Pokémon a 1/3 ou moins de ses PVs maximums, arrondis à l’unité inférieure, la puissance offensive du Pokémon est multipliée par 1,5 (augmentée de 50%) lorsqu’il utilise une attaque de type Eau."
+Toxitouche,Les attaques de contact de ce Pokémon ont 30% de chances d'empoisonner.
+Turbo,La Vitesse de ce Pokémon est augmentée d'1 cran à la fin de chaque tour complet passé sur le terrain.
+TurboBrasier,"Les attaques de ce Pokémon et leurs effets ignorent certaines Talents d'autres Pokémon.Les talents qui peuvent être annulées sont Aroma-Voile, Armurbaston, Cœur de Coq, Corps Sain, Contestation, Moiteur, Peau Sèche, Filtre, Torche, Don Floral, Garde Amie, Ignifugé, Heavy Metal, Hyper Cutter, Vaccin, Attention, Insomnia, Regard Vif, Feuille Garde, Lévitation, Light Metal, Paratonnerre, Échauffement, Miroir Magik, Armumagma, Écaille Spéciale, Armure Miroir, Motorisé, Multiécaille, Benêt, Envelocape, Tempo Perso, Voile Sable, Herbivore, Coque Armure, Écran Poudre, Simple, Rideau Neige, Solide Roc, Anti-Bruit, Glue, Lavabo, Fermeté, Ventouse, Pieds Confus, Télépathe, Isograisse, Inconscient, Esprit Vital, Absorb-Volt, Absorb-Eau, Ignifu-Voile, Écran Fumée, Garde Mystik, et Peau Miracle.Cela affecte tous les autres Pokémon sur le terrain, qu'ils soient ou non la cible du coup de ce Pokémon, et que leur talent soit bénéfique ou non à ce Pokémon."
+Vaccin,Ce Pokémon ne peut pas être empoisonné. Obtenir ce talent guérit instantanément du poison.
+Ventouse,"Rien ne peut forcer ce Pokémon à être échangé, ni l'attaque ou ni l'objet d'un autre Pokémon."
+Victorieux,"Ce Pokémon et ses alliés ont leur précision multipliée par 1,1 (augmentée de 10%)."
+Voile-Sable,"Si Tempête de Sable est actif, l'Esquive de ce Pokémon est multipliée par 1,25 (augmentée de 25%). Ce Pokémon ne subit aucun dégât de Tempête de Sable."

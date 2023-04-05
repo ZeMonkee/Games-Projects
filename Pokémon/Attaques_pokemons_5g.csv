@@ -1,0 +1,575 @@
+1,Acrobatie,Vol,Physique,55,100,24
+2,Aéropique,Vol,Physique,60,-,32
+3,Bec Vrille,Vol,Physique,80,100,32
+4,Chute Libre,Vol,Physique,60,100,16
+5,Cru-Ailes,Vol,Physique,60,100,56
+6,Picore,Vol,Physique,60,100,32
+7,Picpic,Vol,Physique,35,100,56
+8,Piqué,Vol,Physique,140,90,8
+9,Rapace,Vol,Physique,120,100,24
+10,Rebond,Vol,Physique,85,85,8
+11,Vol,Vol,Physique,90,95,24
+12,Aéroblast,Vol,Spéciale,100,95,8
+13,Babil,Vol,Spéciale,60,100,32
+14,Lame d'Air,Vol,Spéciale,75,95,32
+15,Puissance Cachée Vol,Vol,Spéciale,70,100,24
+16,Tornade,Vol,Spéciale,40,100,56
+17,Tranch'Air,Vol,Spéciale,55,95,40
+18,Vent Violent,Vol,Spéciale,120,70,16
+19,Anti-Brume,Vol,Statut,-,-,24
+20,Atterrissage,Vol,Statut,-,-,16
+21,Danse Plumes,Vol,Statut,-,100,24
+22,Mimique,Vol,Statut,-,-,32
+23,Vent Arrière,Vol,Statut,-,-,48
+24,Assurance,Ténèbres,Physique,50,100,16
+25,Baston,Ténèbres,Physique,-,100,16
+26,Coup Bas,Ténèbres,Physique,80,100,8
+27,Dégommage,Ténèbres,Physique,-,100,16
+28,Feinte,Ténèbres,Physique,60,-,32
+29,Larcin,Ténèbres,Physique,40,100,16
+30,Mâchouille,Ténèbres,Physique,80,100,24
+31,Morsure,Ténèbres,Physique,60,100,40
+32,Poursuite,Ténèbres,Physique,40,100,32
+33,Punition,Ténèbres,Physique,-,100,8
+34,Représailles,Ténèbres,Physique,50,100,16
+35,Sabotage,Ténèbres,Physique,20,100,32
+36,Tranche-Nuit,Ténèbres,Physique,70,100,24
+37,Tricherie,Ténèbres,Physique,95,100,24
+38,Aboiement,Ténèbres,Spéciale,55,95,24
+39,Explonuit,Ténèbres,Spéciale,85,95,16
+40,Puissance Cachée Ténèbres,Ténèbres,Spéciale,70,100,24
+41,Vibrobscur,Ténèbres,Spéciale,80,100,24
+42,À la Queue,Ténèbres,Statut,-,100,24
+43,Aiguisage,Ténèbres,Statut,-,-,24
+44,Croco Larme,Ténèbres,Statut,-,100,32
+45,Embargo,Ténèbres,Statut,-,100,24
+46,Flatterie,Ténèbres,Statut,-,100,24
+47,Machination,Ténèbres,Statut,-,-,32
+48,Passe-Passe,Ténèbres,Statut,-,100,16
+49,Provoc,Ténèbres,Statut,-,100,32
+50,Saisie,Ténèbres,Statut,-,-,16
+51,Souvenir,Ténèbres,Statut,-,100,16
+52,Tourmente,Ténèbres,Statut,-,100,24
+53,Trou Noir,Ténèbres,Statut,-,80,16
+54,Étonnement,Spectre,Physique,30,100,24
+55,Griffe Ombre,Spectre,Physique,70,100,24
+56,Léchouille,Spectre,Physique,20,100,48
+57,Ombre Portée,Spectre,Physique,40,100,48
+58,Poing Ombre,Spectre,Physique,60,-,32
+59,Revenant,Spectre,Physique,120,100,8
+60,Ball'Ombre,Spectre,Spéciale,80,100,24
+61,Châtiment,Spectre,Spéciale,50,100,16
+62,Ombre Nocturne,Spectre,Spéciale,-,100,24
+63,Puissance Cachée Spectre,Spectre,Spéciale,70,100,24
+64,Vent Mauvais,Spectre,Spéciale,60,100,8
+65,Cauchemar,Spectre,Statut,-,100,24
+66,Dépit,Spectre,Statut,-,100,16
+67,Lien du Destin,Spectre,Statut,-,-,8
+68,Malédiction,Spectre,Statut,-,-,16
+69,Onde Folie,Spectre,Statut,-,100,16
+70,Rancune,Spectre,Statut,-,-,8
+71,Abîme,Sol,Physique,-,30,8
+72,Ampleur,Sol,Physique,-,100,48
+73,Charge Os,Sol,Physique,25,90,16
+74,Massd'Os,Sol,Physique,65,85,32
+75,Osmerang,Sol,Physique,50,90,16
+76,Piétisol,Sol,Physique,60,100,32
+77,Séisme,Sol,Physique,100,100,16
+78,Tourbi-Sable,Sol,Physique,35,85,24
+79,Tunnel,Sol,Physique,80,100,16
+80,Tunnelier,Sol,Physique,80,95,16
+81,Boue-Bombe,Sol,Spéciale,65,85,16
+82,Coud'Boue,Sol,Spéciale,20,100,16
+83,Puissance Cachée Sol,Sol,Spéciale,70,100,24
+84,Telluriforce,Sol,Spéciale,90,100,16
+85,Tir de Boue,Sol,Spéciale,55,95,24
+86,Jet de Sable,Sol,Statut,-,100,24
+87,Lance-Boue,Sol,Statut,-,-,24
+88,Picots,Sol,Statut,-,-,32
+89,Anti-Air,Roche,Physique,50,100,24
+90,Boule Roc,Roche,Physique,25,90,16
+91,Éboulement,Roche,Physique,75,90,16
+92,Fracass'Tête,Roche,Physique,150,80,8
+93,Jet-Pierres,Roche,Physique,50,90,24
+94,Lame de Roc,Roche,Physique,100,80,8
+95,Roc-Boulet,Roche,Physique,150,90,8
+96,Roulade,Roche,Physique,30,90,32
+97,Tomberoche,Roche,Physique,50,80,16
+98,Pouvoir Antique,Roche,Spéciale,60,100,8
+99,Puissance Cachée Roche,Roche,Spéciale,70,100,24
+100,Rayon Gemme,Roche,Spéciale,70,100,32
+101,Garde Large,Roche,Statut,-,-,16
+102,Piège de Roc,Roche,Statut,-,-,32
+103,Poliroche,Roche,Statut,-,-,32
+104,Tempête de Sable,Roche,Statut,-,-,16
+105,Coupe Psycho,Psy,Physique,70,100,32
+106,Crèvecoeur,Psy,Physique,60,100,40
+107,Psykoud'Boul,Psy,Physique,80,90,24
+108,Ball'Brume,Psy,Spéciale,70,100,8
+109,Choc Mental,Psy,Spéciale,50,100,40
+110,Choc Psy,Psy,Spéciale,80,100,16
+111,Dévorêve,Psy,Spéciale,100,100,24
+112,Extrasenseur,Psy,Spéciale,80,100,48
+113,Force Ajoutée,Psy,Spéciale,20,100,16
+114,Frappe Psy,Psy,Spéciale,100,100,16
+115,Lumi-Éclat,Psy,Spéciale,70,100,8
+116,Prescience,Psy,Spéciale,100,100,16
+117,Psycho-Boost,Psy,Spéciale,140,90,8
+118,Psyko,Psy,Spéciale,90,100,16
+119,Puissance Cachée Psy,Psy,Spéciale,70,100,24
+120,Rafale Psy,Psy,Spéciale,65,100,32
+121,Synchropeine,Psy,Spéciale,70,100,24
+122,Vague Psy,Psy,Spéciale,-,80,24
+123,Voile Miroir,Psy,Spéciale,-,100,32
+124,Amnésie,Psy,Statut,-,-,32
+125,Anti-Soin,Psy,Statut,-,100,24
+126,Astuce Force,Psy,Statut,-,-,16
+127,Bouclier,Psy,Statut,-,-,48
+128,Danse Lune,Psy,Statut,-,-,16
+129,Distorsion,Psy,Statut,-,-,8
+130,Échange,Psy,Statut,-,-,16
+131,Échange Psy,Psy,Statut,-,90,16
+132,Force Cosmique,Psy,Statut,-,-,32
+133,Gravité,Psy,Statut,-,-,8
+134,Hâte,Psy,Statut,-,-,48
+135,Hypnose,Psy,Statut,-,60,32
+136,Imitation,Psy,Statut,-,-,16
+137,Interversion,Psy,Statut,-,-,24
+138,Lévikinésie,Psy,Statut,-,-,24
+139,Mur Lumière,Psy,Statut,-,-,48
+140,Oeil Miracle,Psy,Statut,-,-,64
+141,Partage Force,Psy,Statut,-,-,16
+142,Partage Garde,Psy,Statut,-,-,16
+143,Permucoeur,Psy,Statut,-,-,16
+144,Permuforce,Psy,Statut,-,-,16
+145,Permugarde,Psy,Statut,-,-,16
+146,Plénitude,Psy,Statut,-,-,32
+147,Possessif,Psy,Statut,-,-,16
+148,Protection,Psy,Statut,-,-,32
+149,Reflet Magik,Psy,Statut,-,-,24
+150,Repos,Psy,Statut,-,-,16
+151,Télékinésie,Psy,Statut,-,80,24
+152,Téléport,Psy,Statut,-,-,32
+153,Tour de Magie,Psy,Statut,-,100,16
+154,Vibra Soin,Psy,Statut,-,-,16
+155,Voeu Soin,Psy,Statut,-,-,16
+156,Yoga,Psy,Statut,-,-,64
+157,Zone Étrange,Psy,Statut,-,-,16
+158,Zone Magique,Psy,Statut,-,-,16
+159,Crochet Venin,Poison,Physique,50,100,24
+160,Dard-Venin,Poison,Physique,15,100,56
+161,Détricanon,Poison,Physique,120,70,8
+162,Direct Toxik,Poison,Physique,80,100,32
+163,Poison Croix,Poison,Physique,70,100,32
+164,Queue-Poison,Poison,Physique,50,100,40
+165,Acide,Poison,Spéciale,40,100,48
+166,Bain de Smog,Poison,Spéciale,50,-,24
+167,Bombe Acide,Poison,Spéciale,40,100,32
+168,Bombe Beurk,Poison,Spéciale,90,100,16
+169,Choc Venin,Poison,Spéciale,65,100,16
+170,Cradovague,Poison,Spéciale,95,100,16
+171,Détritus,Poison,Spéciale,65,100,32
+172,Puissance Cachée Poison,Poison,Spéciale,70,100,24
+173,Purédpois,Poison,Spéciale,20,70,32
+174,Acidarmure,Poison,Statut,-,-,64
+175,Enroulement,Poison,Statut,-,-,32
+176,Gaz Toxik,Poison,Statut,-,80,64
+177,Pics Toxik,Poison,Statut,-,-,32
+178,Poudre Toxik,Poison,Statut,-,75,56
+179,Suc Digestif,Poison,Statut,-,100,16
+180,Toxik,Poison,Statut,-,90,16
+181,Balle Graine,Plante,Physique,25,100,48
+182,Canon Graine,Plante,Physique,80,100,24
+183,Encornebois,Plante,Physique,75,100,16
+184,Fouet Lianes,Plante,Physique,35,100,24
+185,Lame Feuille,Plante,Physique,90,100,24
+186,Martobois,Plante,Physique,120,100,24
+187,Mégafouet,Plante,Physique,120,85,16
+188,Poing Dard,Plante,Physique,60,100,24
+189,Tranch'Herbe,Plante,Physique,55,95,40
+190,Aire d'Herbe,Plante,Spéciale,50,100,16
+191,Danse Fleurs,Plante,Spéciale,120,100,16
+192,Éco-Sphère,Plante,Spéciale,80,100,16
+193,Feuille Magik,Plante,Spéciale,60,-,32
+194,Fulmigraine,Plante,Spéciale,120,85,8
+195,Giga-Sangsue,Plante,Spéciale,75,100,16
+196,Lance-Soleil,Plante,Spéciale,120,100,16
+197,Méga-Sangsue,Plante,Spéciale,40,100,24
+198,Noeud Herbe,Plante,Spéciale,-,100,32
+199,Phytomixeur,Plante,Spéciale,65,90,16
+200,Puissance Cachée Plante,Plante,Spéciale,70,100,24
+201,Tempête Verte,Plante,Spéciale,140,90,8
+202,Végé-Attaque,Plante,Spéciale,150,90,8
+203,Vole-Vie,Plante,Spéciale,20,100,40
+204,Aromathérapie,Plante,Statut,-,-,8
+205,Cotogarde,Plante,Statut,-,-,16
+206,Para-Spore,Plante,Statut,-,75,48
+207,Poudre Dodo,Plante,Statut,-,75,24
+208,Racines,Plante,Statut,-,-,32
+209,Siffl'Herbe,Plante,Statut,-,55,24
+210,Soucigraine,Plante,Statut,-,100,16
+211,Spore,Plante,Statut,-,100,24
+212,Spore Coton,Plante,Statut,-,100,64
+213,Synthèse,Plante,Statut,-,-,8
+214,Vampigraine,Plante,Statut,-,90,16
+215,Attrition,Normal,Physique,70,100,32
+216,Bélier,Normal,Physique,90,85,32
+217,Bluff,Normal,Physique,40,100,16
+218,Bombe Oeuf,Normal,Physique,100,75,16
+219,Cadeau,Normal,Physique,-,90,24
+220,Charge,Normal,Physique,50,100,56
+221,Combo-Griffe,Normal,Physique,18,80,24
+222,Constriction,Normal,Physique,10,100,56
+223,Coud'Krâne,Normal,Physique,100,100,24
+224,Coup d'Boule,Normal,Physique,70,100,24
+225,Coup Double,Normal,Physique,35,90,16
+226,Coupe,Normal,Physique,50,95,48
+227,Croc de Mort,Normal,Physique,80,90,24
+228,Croc Fatal,Normal,Physique,-,90,16
+229,Damoclès,Normal,Physique,120,100,24
+230,Dernier Recours,Normal,Physique,140,100,8
+231,Destruction,Normal,Physique,200,100,8
+232,Don Naturel,Normal,Physique,-,100,24
+233,Éclate Griffe,Normal,Physique,75,95,16
+234,Écras'Face,Normal,Physique,40,100,56
+235,Écrasement,Normal,Physique,65,100,32
+236,Effort,Normal,Physique,-,100,8
+237,Empal'Korne,Normal,Physique,-,30,8
+238,Escalade,Normal,Physique,90,85,32
+239,Étreinte,Normal,Physique,15,85,32
+240,Explosion,Normal,Physique,250,100,8
+241,Façade,Normal,Physique,70,100,32
+242,Faux-Chage,Normal,Physique,40,100,64
+243,Force,Normal,Physique,80,100,24
+244,Force Cachée,Normal,Physique,70,100,32
+245,Force Poigne,Normal,Physique,55,100,48
+246,Frénésie,Normal,Physique,20,100,32
+247,Frustration,Normal,Physique,-,100,32
+248,Furie,Normal,Physique,15,85,32
+249,Giga Impact,Normal,Physique,150,90,8
+250,Gigotage,Normal,Physique,-,100,24
+251,Griffe,Normal,Physique,40,100,56
+252,Guillotine,Normal,Physique,-,30,8
+253,Implore,Normal,Physique,60,100,64
+254,Jackpot,Normal,Physique,40,100,32
+255,Koud'Korne,Normal,Physique,65,100,40
+256,Ligotage,Normal,Physique,15,90,32
+257,Lutte,Normal,Physique,50,-,1
+258,Mania,Normal,Physique,120,100,16
+259,Patience,Normal,Physique,-,-,16
+260,Peignée,Normal,Physique,120,100,24
+261,Picanon,Normal,Physique,20,100,24
+262,Pilonnage,Normal,Physique,15,85,32
+263,Plaquage,Normal,Physique,85,100,24
+264,Plumo-Queue,Normal,Physique,25,85,16
+265,Poing Comète,Normal,Physique,18,85,24
+266,Presse,Normal,Physique,-,100,8
+267,Retour,Normal,Physique,-,100,32
+268,Ruse,Normal,Physique,30,100,16
+269,Souplesse,Normal,Physique,80,75,32
+270,Stimulant,Normal,Physique,60,100,16
+271,Torgnoles,Normal,Physique,15,85,16
+272,Tour Rapide,Normal,Physique,20,100,64
+273,Tranche,Normal,Physique,70,100,32
+274,Ultimapoing,Normal,Physique,80,85,32
+275,Ultimawashi,Normal,Physique,120,75,8
+276,Uppercut,Normal,Physique,70,100,16
+277,Vengeance,Normal,Physique,70,100,8
+278,Vitesse Extrême,Normal,Physique,80,100,8
+279,Vive-attaque,Normal,Physique,40,100,48
+280,Atout,Normal,Spéciale,-,-,8
+281,Ball'Météo,Normal,Spéciale,50,100,16
+282,Brouhaha,Normal,Spéciale,90,100,16
+283,Chant Antique,Normal,Spéciale,75,100,16
+284,Chant Canon,Normal,Spéciale,60,100,24
+285,Coupe-Vent,Normal,Spéciale,80,100,16
+286,Écho,Normal,Spéciale,40,100,24
+287,Essorage,Normal,Spéciale,-,100,8
+288,Jugement,Normal,Spéciale,100,100,16
+289,Mégaphone,Normal,Spéciale,90,100,16
+290,Météores,Normal,Spéciale,60,-,32
+291,Puissance Cachée,Normal,Spéciale,-,100,24
+292,Relâche,Normal,Spéciale,-,100,16
+293,Ronflement,Normal,Spéciale,40,100,24
+294,Sonic Boom,Normal,Spéciale,-,90,32
+295,Techno-Buster,Normal,Spéciale,85,100,8
+296,Triplattaque,Normal,Spéciale,80,100,16
+297,Ultralaser,Normal,Spéciale,150,90,8
+298,Abri,Normal,Statut,-,-,16
+299,Acupression,Normal,Statut,-,-,48
+300,Affûtage,Normal,Statut,-,-,48
+301,Air Veinard,Normal,Statut,-,-,48
+302,Après Vous,Normal,Statut,-,-,24
+303,Armure,Normal,Statut,-,-,48
+304,Assistance,Normal,Statut,-,-,32
+305,Attraction,Normal,Statut,-,100,24
+306,Aurore,Normal,Statut,-,-,8
+307,Avale,Normal,Statut,-,-,16
+308,Bâillement,Normal,Statut,-,-,16
+309,Balance,Normal,Statut,-,-,32
+310,Barrage,Normal,Statut,-,-,8
+311,Berceuse,Normal,Statut,-,55,24
+312,Blabla Dodo,Normal,Statut,-,-,16
+313,Boost,Normal,Statut,-,-,16
+314,Boul'Armure,Normal,Statut,-,-,64
+315,Brouillard,Normal,Statut,-,100,32
+316,Camouflage,Normal,Statut,-,-,32
+317,Charme,Normal,Statut,-,100,32
+318,Chatouille,Normal,Statut,-,100,32
+319,Clairvoyance,Normal,Statut,-,-,64
+320,Clonage,Normal,Statut,-,-,16
+321,Cognobidon,Normal,Statut,-,-,16
+322,Conversion,Normal,Statut,-,-,48
+323,Conversion2,Normal,Statut,-,-,48
+324,Copie,Normal,Statut,-,-,16
+325,Copie-Type,Normal,Statut,-,-,24
+326,Coup d'Main,Normal,Statut,-,-,32
+327,Croissance,Normal,Statut,-,-,64
+328,Cyclone,Normal,Statut,-,100,32
+329,Danse Folle,Normal,Statut,-,100,32
+330,Danse Lames,Normal,Statut,-,-,48
+331,Doux Baiser,Normal,Statut,-,75,16
+332,Doux Parfum,Normal,Statut,-,100,32
+333,E-Coque,Normal,Statut,-,-,16
+334,Encore,Normal,Statut,-,100,8
+335,Entrave,Normal,Statut,-,100,32
+336,Exuviation,Normal,Statut,-,-,24
+337,Flair,Normal,Statut,-,-,64
+338,Flash,Normal,Statut,-,100,32
+339,Force Nature,Normal,Statut,-,-,32
+340,Glas de Soin,Normal,Statut,-,-,8
+341,Gribouille,Normal,Statut,-,-,1
+342,Grimace,Normal,Statut,-,100,16
+343,Grincement,Normal,Statut,-,85,64
+344,Grobisou,Normal,Statut,-,75,16
+345,Grondement,Normal,Statut,-,-,64
+346,Groz'Yeux,Normal,Statut,-,100,48
+347,Hurlement,Normal,Statut,-,100,32
+348,Lait à Boire,Normal,Statut,-,-,16
+349,Lilliput,Normal,Statut,-,-,32
+350,Lire-Esprit,Normal,Statut,-,-,8
+351,Métronome,Normal,Statut,-,-,16
+352,Mimi-Queue,Normal,Statut,-,100,48
+353,Moi d'Abord,Normal,Statut,-,-,32
+354,Morphing,Normal,Statut,-,-,16
+355,Par Ici,Normal,Statut,-,-,32
+356,Paresse,Normal,Statut,-,-,16
+357,Passe-Cadeau,Normal,Statut,-,-,24
+358,Photocopie,Normal,Statut,-,-,32
+359,Puissance,Normal,Statut,-,-,48
+360,Rayon Lune,Normal,Statut,-,-,8
+361,Rayon Simple,Normal,Statut,-,100,24
+362,Recyclage,Normal,Statut,-,-,16
+363,Reflet,Normal,Statut,-,-,24
+364,Regard Médusant,Normal,Statut,-,90,48
+365,Regard Noir,Normal,Statut,-,-,8
+366,Régénération,Normal,Statut,-,-,32
+367,Relais,Normal,Statut,-,-,64
+368,Rengorgement,Normal,Statut,-,-,48
+369,Requiem,Normal,Statut,-,-,8
+370,Rugissement,Normal,Statut,-,100,64
+371,Rune Protect,Normal,Statut,-,-,40
+372,Séduction,Normal,Statut,-,100,32
+373,Soin,Normal,Statut,-,-,16
+374,Stockage,Normal,Statut,-,-,32
+375,Ten-Danse,Normal,Statut,-,100,24
+376,Ténacité,Normal,Statut,-,-,16
+377,Trempette,Normal,Statut,-,-,64
+378,Ultrason,Normal,Statut,-,55,32
+379,Vantardise,Normal,Statut,-,90,24
+380,Verrouillage,Normal,Statut,-,-,8
+381,Voeu,Normal,Statut,-,-,16
+382,Appel Attak,Insecte,Physique,90,100,24
+383,Bulldoboule,Insecte,Physique,65,100,32
+384,Dard-Nuée,Insecte,Physique,14,85,32
+385,Demi-Tour,Insecte,Physique,70,100,32
+386,Double Dard,Insecte,Physique,25,100,32
+387,Mégacorne,Insecte,Physique,120,85,16
+388,Piqûre,Insecte,Physique,60,100,32
+389,Plaie Croix,Insecte,Physique,80,100,24
+390,Taillade,Insecte,Physique,20,95,32
+391,Vampirisme,Insecte,Physique,20,100,24
+392,Bourdon,Insecte,Spéciale,90,100,16
+393,Puissance Cachée Insecte,Insecte,Spéciale,70,100,24
+394,Rayon Signal,Insecte,Spéciale,75,100,24
+395,Survinsecte,Insecte,Spéciale,30,100,32
+396,Vent Argenté,Insecte,Spéciale,60,100,8
+397,Appel Défense,Insecte,Statut,-,-,16
+398,Appel Soins,Insecte,Statut,-,-,16
+399,Lumi-Queue,Insecte,Statut,-,-,32
+400,Papillodanse,Insecte,Statut,-,-,32
+401,Poudre Fureur,Insecte,Statut,-,-,32
+402,Sécrétion,Insecte,Statut,-,95,64
+403,Toile,Insecte,Statut,-,-,16
+404,Avalanche,Glace,Physique,60,100,16
+405,Ball'Glace,Glace,Physique,30,90,32
+406,Chute Glace,Glace,Physique,85,90,16
+407,Crocs Givre,Glace,Physique,65,95,24
+408,Éclair Gelé,Glace,Physique,140,90,8
+409,Éclats Glace,Glace,Physique,40,100,48
+410,Poing Glace,Glace,Physique,75,100,24
+411,Stalactite,Glace,Physique,25,100,48
+412,Blizzard,Glace,Spéciale,120,70,8
+413,Ère Glaciaire,Glace,Spéciale,65,95,16
+414,Feu Glacé,Glace,Spéciale,140,90,8
+415,Glaciation,Glace,Spéciale,-,30,8
+416,Laser Glace,Glace,Spéciale,95,100,16
+417,Onde Boréale,Glace,Spéciale,65,100,32
+418,Poudreuse,Glace,Spéciale,40,100,40
+419,Puissance Cachée Glace,Glace,Spéciale,70,100,24
+420,Souffle Glacé,Glace,Spéciale,40,90,16
+421,Vent Glace,Glace,Spéciale,55,95,24
+422,Brume,Glace,Statut,-,-,48
+423,Buée Noire,Glace,Statut,-,-,48
+424,Grêle,Glace,Statut,-,-,16
+425,Boutefeu,Feu,Physique,120,100,24
+426,Coup Victoire,Feu,Physique,180,95,8
+427,Crocs Feu,Feu,Physique,65,95,24
+428,Feu Sacré,Feu,Physique,100,95,8
+429,Nitrocharge,Feu,Physique,50,100,32
+430,Pied Brûleur,Feu,Physique,85,90,16
+431,Poing Feu,Feu,Physique,75,100,24
+432,Roue de Feu,Feu,Physique,60,100,40
+433,Tacle Feu,Feu,Physique,-,100,16
+434,Aire de Feu,Feu,Spéciale,50,100,16
+435,Calcination,Feu,Spéciale,30,100,24
+436,Canicule,Feu,Spéciale,100,90,16
+437,Danse du Feu,Feu,Spéciale,80,100,16
+438,Danse Flammes,Feu,Spéciale,35,85,24
+439,Déflagration,Feu,Spéciale,120,85,8
+440,Ébullilave,Feu,Spéciale,80,100,24
+441,Éruption,Feu,Spéciale,150,100,8
+442,Feu d'Enfer,Feu,Spéciale,100,50,8
+443,Flamme Bleue,Feu,Spéciale,130,85,8
+444,Flamme Croix,Feu,Spéciale,100,100,8
+445,Flammèche,Feu,Spéciale,40,100,40
+446,Incendie,Feu,Spéciale,100,100,8
+447,Lance-Flammes,Feu,Spéciale,95,100,24
+448,Puissance Cachée Feu,Feu,Spéciale,70,100,24
+449,Rafale Feu,Feu,Spéciale,150,90,8
+450,Rebondifeu,Feu,Spéciale,70,100,24
+451,Surchauffe,Feu,Spéciale,140,90,8
+452,Vortex Magma,Feu,Spéciale,120,75,8
+453,Feu Follet,Feu,Statut,-,75,24
+454,Zénith,Feu,Statut,-,-,8
+455,Charge Foudre,Électrik,Physique,130,85,8
+456,Crocs Éclair,Électrik,Physique,65,95,24
+457,Éclair Croix,Électrik,Physique,100,100,8
+458,Éclair Fou,Électrik,Physique,90,100,24
+459,Électacle,Électrik,Physique,120,100,24
+460,Étincelle,Électrik,Physique,65,100,32
+461,Poing Éclair,Électrik,Physique,75,100,24
+462,Boule Élek,Électrik,Spéciale,-,100,16
+463,Change Éclair,Électrik,Spéciale,70,100,32
+464,Coup d'Jus,Électrik,Spéciale,80,100,24
+465,Éclair,Électrik,Spéciale,40,100,48
+466,Élecanon,Électrik,Spéciale,120,50,8
+467,Fatal-Foudre,Électrik,Spéciale,120,70,16
+468,Onde de Choc,Électrik,Spéciale,60,-,32
+469,Puissance Cachée Électrik,Électrik,Spéciale,70,100,24
+470,Rayon Chargé,Électrik,Spéciale,50,90,16
+471,Toile Élek,Électrik,Spéciale,55,95,24
+472,Tonnerre,Électrik,Spéciale,95,100,24
+473,Cage Éclair,Électrik,Statut,-,100,32
+474,Chargeur,Électrik,Statut,-,-,32
+475,Vol Magnétik,Électrik,Statut,-,-,16
+476,Aqua-Jet,Eau,Physique,40,100,32
+477,Cascade,Eau,Physique,80,100,24
+478,Claquoir,Eau,Physique,35,85,24
+479,Coqui-Lame,Eau,Physique,75,95,16
+480,Hydro-Queue,Eau,Physique,90,90,16
+481,Pince-Masse,Eau,Physique,90,90,16
+482,Plongée,Eau,Physique,80,100,16
+483,Aire d'Eau,Eau,Spéciale,50,100,16
+484,Bulles d'O,Eau,Spéciale,65,100,32
+485,Ébullition,Eau,Spéciale,80,100,24
+486,Écume,Eau,Spéciale,20,100,48
+487,Giclédo,Eau,Spéciale,150,100,8
+488,Hydroblast,Eau,Spéciale,150,90,8
+489,Hydrocanon,Eau,Spéciale,120,80,8
+490,Ocroupi,Eau,Spéciale,95,85,16
+491,Octazooka,Eau,Spéciale,65,85,16
+492,Pistolet à O,Eau,Spéciale,40,100,40
+493,Puissance Cachée Eau,Eau,Spéciale,70,100,24
+494,Saumure,Eau,Spéciale,65,100,16
+495,Siphon,Eau,Spéciale,35,85,24
+496,Surf,Eau,Spéciale,95,100,24
+497,Vibraqua,Eau,Spéciale,60,100,32
+498,Anneau Hydro,Eau,Statut,-,-,32
+499,Danse Pluie,Eau,Statut,-,-,8
+500,Détrempage,Eau,Statut,-,100,32
+501,Repli,Eau,Statut,-,-,64
+502,Tourniquet,Eau,Statut,-,-,24
+503,Colère,Dragon,Physique,120,100,16
+504,Double Baffe,Dragon,Physique,40,90,24
+505,Draco-Charge,Dragon,Physique,100,75,16
+506,Draco-Griffe,Dragon,Physique,80,100,24
+507,Draco-Queue,Dragon,Physique,60,90,16
+508,Draco-Choc,Dragon,Spéciale,90,100,16
+509,Draco-Météore,Dragon,Spéciale,140,90,8
+510,Draco-Rage,Dragon,Spéciale,-,100,16
+511,Draco-Souffle,Dragon,Spéciale,60,100,32
+512,Hurle-Temps,Dragon,Spéciale,150,90,8
+513,Ouragan,Dragon,Spéciale,40,100,32
+514,Puissance Cachée Dragon,Dragon,Spéciale,70,100,24
+515,Spatio-Rift,Dragon,Spéciale,100,95,8
+516,Danse Draco,Dragon,Statut,-,-,32
+517,Balayage,Combat,Physique,-,100,32
+518,Balayette,Combat,Physique,60,100,32
+519,Casse-Brique,Combat,Physique,75,100,24
+520,Close Combat,Combat,Physique,120,100,8
+521,Cogne,Combat,Physique,15,100,32
+522,Contre,Combat,Physique,-,100,24
+523,Corps Perdu,Combat,Physique,70,-,16
+524,Coup Croix,Combat,Physique,100,80,8
+525,Double Pied,Combat,Physique,30,100,48
+526,Dynamo-Poing,Combat,Physique,100,50,8
+527,Éclate-Roc,Combat,Physique,40,100,24
+528,Forte-Paume,Combat,Physique,60,100,16
+529,Frappe Atlas,Combat,Physique,-,100,32
+530,Lame Sainte,Combat,Physique,90,100,32
+531,Mach Punch,Combat,Physique,40,100,48
+532,Marto-Poing,Combat,Physique,100,90,16
+533,Mawashi Geri,Combat,Physique,60,85,24
+534,Mitra-Poing,Combat,Physique,150,100,32
+535,Pied Sauté,Combat,Physique,100,95,16
+536,Pied Voltige,Combat,Physique,130,90,16
+537,Poing Karaté,Combat,Physique,50,100,40
+538,Projection,Combat,Physique,60,90,16
+539,Réveil Forcé,Combat,Physique,60,100,16
+540,Riposte,Combat,Physique,-,100,32
+541,Sacrifice,Combat,Physique,80,80,40
+542,Stratopercut,Combat,Physique,85,90,24
+543,Surpuissance,Combat,Physique,120,100,8
+544,Triple Pied,Combat,Physique,10,90,16
+545,Vampi-Poing,Combat,Physique,75,100,16
+546,Vendetta,Combat,Physique,60,100,16
+547,Yama Arashi,Combat,Physique,40,100,16
+548,Aurasphère,Combat,Spéciale,90,-,32
+549,Exploforce,Combat,Spéciale,120,70,8
+550,Lame Ointe,Combat,Spéciale,85,100,16
+551,Onde Vide,Combat,Spéciale,40,100,48
+552,Puissance Cachée Combat,Combat,Spéciale,70,100,24
+553,Tout ou Rien,Combat,Spéciale,-,100,8
+554,Détection,Combat,Statut,-,-,8
+555,Gonflette,Combat,Statut,-,-,32
+556,Prévention,Combat,Statut,-,-,24
+557,Ailes d'Acier,Acier,Physique,70,90,40
+558,Bombe Aimant,Acier,Physique,60,-,32
+559,Fulmifer,Acier,Physique,-,100,16
+560,Griffe Acier,Acier,Physique,50,95,56
+561,Gyroballe,Acier,Physique,-,100,8
+562,Lancécrou,Acier,Physique,50,85,24
+563,Pisto-Poing,Acier,Physique,40,100,48
+564,Poing Météore,Acier,Physique,100,85,16
+565,Queue de Fer,Acier,Physique,100,75,24
+566,Tacle Lourd,Acier,Physique,-,100,16
+567,Tête de Fer,Acier,Physique,80,100,24
+568,Luminocanon,Acier,Spéciale,80,100,16
+569,Miroi-Tir,Acier,Spéciale,65,85,16
+570,Puissance Cachée Acier,Acier,Spéciale,70,100,24
+571,Voeu Destructeur,Acier,Spéciale,140,100,8
+572,Allègement,Acier,Statut,-,-,24
+573,Chgt Vitesse,Acier,Statut,-,-,16
+574,Mur de Fer,Acier,Statut,-,-,24
+575,Strido-Son,Acier,Statut,-,85,64

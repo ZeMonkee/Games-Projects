@@ -1,0 +1,1374 @@
+id_pokémon,Pokémon,Type,Talent,Tier,PV,Attaque,Défense,Atq Spé,Déf Spé,Vitesse
+1,Bulbizarre,Type Plante Type Poison,Engrais Chlorophylle,Untiered,45,49,49,65,65,45
+2,Herbizarre,Type Plante Type Poison,Engrais Chlorophylle,Untiered,60,62,63,80,80,60
+3,Florizarre,Type Plante Type Poison,Engrais Chlorophylle,Untiered,80,82,83,100,100,80
+4,Méga Florizarre,Type Plante Type Poison,Isograisse,Untiered,80,100,123,122,120,80
+5,Florizarre Gigamax,Type Plante Type Poison,Engrais Chlorophylle,Untiered,80,82,83,100,100,80
+6,Salamèche,Type Feu,Brasier Force Soleil,Untiered,39,52,43,60,50,65
+7,Reptincel,Type Feu,Brasier Force Soleil,Untiered,58,64,58,80,65,80
+8,Dracaufeu,Type Feu Type Vol,Brasier Force Soleil,Untiered,78,84,78,109,85,100
+9,Dracaufeu Gigamax,Type Feu Type Vol,Brasier Force Soleil,Untiered,78,84,78,109,85,100
+10,Méga Dracaufeu X,Type Feu Type Dragon,Griffe Dure,Untiered,78,130,111,130,85,100
+11,Méga Dracaufeu Y,Type Feu Type Vol,Sécheresse,Untiered,78,104,78,159,115,100
+12,Carapuce,Type Eau,Torrent Cuvette,Untiered,44,48,65,50,64,43
+13,Carabaffe,Type Eau,Torrent Cuvette,Untiered,59,63,80,65,80,58
+14,Tortank,Type Eau,Torrent Cuvette,Untiered,79,83,100,85,105,78
+15,Méga Tortank,Type Eau,Méga Blaster,Untiered,79,103,120,135,115,78
+16,Tortank Gigamax,Type Eau,Torrent Cuvette,Untiered,79,83,100,85,105,78
+17,Chenipan,Type Insecte,Écran Poudre Fuite,Untiered,45,30,35,20,20,45
+18,Chrysacier,Type Insecte,Mue,Untiered,50,20,55,25,25,30
+19,Papilusion,Type Insecte Type Vol,Oeil Composé Lentiteintée,Untiered,60,45,50,90,80,70
+20,Papilusion Gigamax,Type Insecte Type Vol,Oeil Composé Lentiteintée,Untiered,60,45,50,90,80,70
+21,Aspicot,Type Insecte Type Poison,Écran Poudre Fuite,Untiered,40,35,30,20,20,50
+22,Coconfort,Type Insecte Type Poison,Mue,Untiered,45,25,50,25,25,35
+23,Dardargnan,Type Insecte Type Poison,Essaim Sniper,Untiered,65,90,40,45,80,75
+24,Méga Dardargnan,Type Insecte Type Poison,Adaptabilité,Untiered,65,150,40,15,80,145
+25,Roucool,Type Normal Type Vol,Regard Vif Pieds Confus Coeur de Coq,Untiered,40,45,40,35,35,56
+26,Roucoups,Type Normal Type Vol,Regard Vif Pieds Confus Coeur de Coq,Untiered,63,60,55,50,50,71
+27,Roucarnage,Type Normal Type Vol,Regard Vif Pieds Confus Coeur de Coq,Untiered,83,80,75,70,70,101
+28,Méga Roucarnage,Type Normal Type Vol,Annule Garde,Untiered,83,80,80,135,80,121
+29,Rattata,Type Normal,Fuite Cran Agitation,Untiered,30,56,35,25,35,72
+30,Rattata d'Alola,Type Ténèbres Type Normal,Gloutonnerie Agitation Isograisse,Untiered,30,56,35,25,35,72
+31,Rattatac,Type Normal,Fuite Cran Agitation,Untiered,55,81,60,50,70,97
+32,Rattatac d'Alola,Type Ténèbres Type Normal,Gloutonnerie Agitation Isograisse,Untiered,75,71,70,40,80,77
+33,Piafabec,Type Normal Type Vol,Regard Vif Sniper,Untiered,40,60,30,31,31,70
+34,Rapasdepic,Type Normal Type Vol,Regard Vif Sniper,Untiered,65,90,65,61,61,100
+35,Abo,Type Poison,Intimidation Mue Tension,Untiered,35,60,44,40,54,55
+36,Arbok,Type Poison,Intimidation Mue Tension,Untiered,60,95,69,65,79,80
+37,Pikachu,Type Électrik,Statik Paratonnerre,NFE,35,55,40,50,50,90
+38,Pikachu Cosplayeur,Type Électrik,Paratonnerre,Untiered,35,55,40,50,50,90
+39,Pikachu Casquette de Sinnoh,Type Électrik,Statik Paratonnerre,Untiered,35,55,40,50,50,90
+40,Pikachu Gigamax,Type Électrik,Statik Paratonnerre,Untiered,35,55,40,50,50,90
+41,Pikachu Casquette Originale,Type Électrik,Statik Paratonnerre,Untiered,35,55,40,50,50,90
+42,Pikachu Casquette de Hoenn,Type Électrik,Statik Paratonnerre,Untiered,35,55,40,50,50,90
+43,Pikachu Casquette d'Alola,Type Électrik,Statik Paratonnerre,Untiered,35,55,40,50,50,90
+44,Pikachu Casquette Partenaire,Type Électrik,Statik Paratonnerre,Untiered,35,55,40,50,50,90
+45,Pikachu Casquette Monde,Type Électrik,Statik Paratonnerre,Untiered,35,55,40,50,50,90
+46,Pikachu Casquette de Kalos,Type Électrik,Statik Paratonnerre,Untiered,35,55,40,50,50,90
+47,Pikachu Casquette d'Unys,Type Électrik,Statik Paratonnerre,Untiered,35,55,40,50,50,90
+48,Pikachu Rockeur,Type Électrik,Paratonnerre,Untiered,35,55,40,50,50,90
+49,Pikachu Lady,Type Électrik,Paratonnerre,Untiered,35,55,40,50,50,90
+50,Pikachu Libre,Type Électrik,Paratonnerre,Untiered,35,55,40,50,50,90
+51,Pikachu Star,Type Électrik,Paratonnerre,Untiered,35,55,40,50,50,90
+52,Pikachu Docteur,Type Électrik,Paratonnerre,Untiered,35,55,40,50,50,90
+53,Raichu,Type Électrik,Statik Paratonnerre,OU,60,90,55,90,80,110
+54,Raichu d'Alola,Type Électrik Type Psy,Surf Caudal,Untiered,60,85,50,95,85,110
+55,Sabelette,Type Sol,Voile Sable Baigne Sable,Untiered,50,75,85,20,30,40
+56,Sabelette d'Alola,Type Glace Type Acier,Rideau Neige Chasse-Neige,Untiered,50,75,90,10,35,40
+57,Sablaireau,Type Sol,Voile Sable Baigne Sable,Untiered,75,100,110,45,55,65
+58,Sablaireau d'Alola,Type Glace Type Acier,Rideau Neige Chasse-Neige,Untiered,75,100,120,25,65,65
+59,Nidoran Femelle,Type Poison,Point Poison Rivalité Agitation,Untiered,55,47,52,40,40,41
+60,Nidorina,Type Poison,Point Poison Rivalité Agitation,Untiered,70,62,67,55,55,56
+61,Nidoqueen,Type Poison Type Sol,Point Poison Rivalité Sans Limite,Untiered,90,92,87,75,85,76
+62,Nidoran Mâle,Type Poison,Point Poison Rivalité Agitation,Untiered,46,57,40,40,40,50
+63,Nidorino,Type Poison,Point Poison Rivalité Agitation,Untiered,61,72,57,55,55,65
+64,Nidoking,Type Poison Type Sol,Point Poison Rivalité Sans Limite,Untiered,81,102,77,85,75,85
+65,Mélofée,Type Fée,Joli Sourire Garde Magik Garde Amie,Untiered,70,45,48,60,65,35
+66,Mélodelfe,Type Fée,Joli Sourire Garde Magik Inconscient,Untiered,95,70,73,95,90,60
+67,Goupix,Type Feu,Torche Sécheresse,Untiered,38,41,40,50,65,65
+68,Goupix d'Alola,Type Glace,Rideau Neige Alerte Neige,Untiered,38,41,40,50,65,65
+69,Feunard,Type Feu,Torche Sécheresse,Untiered,73,76,75,81,100,100
+70,Feunard d'Alola,Type Glace Type Fée,Rideau Neige Alerte Neige,Untiered,73,67,75,81,100,109
+71,Rondoudou,Type Normal Type Fée,Joli Sourire Battant Garde Amie,NFE,115,45,20,45,25,20
+72,Grodoudou,Type Normal Type Fée,Joli Sourire Battant Fouille,OU,140,70,45,85,50,45
+73,Nosferapti,Type Poison Type Vol,Attention Infiltration,Untiered,40,45,35,30,40,55
+74,Nosferalto,Type Poison Type Vol,Attention Infiltration,Untiered,75,80,70,65,75,90
+75,Mystherbe,Type Plante Type Poison,Chlorophylle Fuite,Untiered,45,50,55,75,65,30
+76,Ortide,Type Plante Type Poison,Chlorophylle Puanteur,Untiered,60,65,70,85,75,40
+77,Rafflesia,Type Plante Type Poison,Chlorophylle Pose Spore,Untiered,75,80,85,110,90,50
+78,Paras,Type Insecte Type Plante,Pose Spore Peau Sèche Moiteur,Untiered,35,70,55,45,55,25
+79,Parasect,Type Insecte Type Plante,Pose Spore Peau Sèche Moiteur,Untiered,60,95,80,60,80,30
+80,Mimitoss,Type Insecte Type Poison,Oeil Composé Lentiteintée Fuite,LC,60,55,50,40,55,45
+81,Aéromite,Type Insecte Type Poison,Écran Poudre Lentiteintée Peau Miracle,OU,70,65,60,90,75,90
+82,Taupiqueur,Type Sol,Voile Sable Piège Sable Force Sable,LC,10,55,25,35,45,95
+83,Taupiqueur d'Alola,Type Sol Type Acier,Voile Sable Mèche Rebelle Force Sable,Untiered,10,55,30,35,45,90
+84,Triopikeur,Type Sol,Voile Sable Piège Sable Force Sable,OU,35,100,50,50,70,120
+85,Triopikeur d'Alola,Type Sol Type Acier,Voile Sable Mèche Rebelle Force Sable,Untiered,35,100,60,50,70,110
+86,Miaouss,Type Normal,Ramassage Technicien Tension,LC,40,45,35,40,40,90
+87,Miaouss d'Alola,Type Ténèbres,Ramassage Technicien Phobique,Untiered,40,35,35,50,40,90
+88,Miaouss de Galar,Type Acier,Ramassage Griffe Dure Tension,LC,50,65,55,40,40,40
+89,Miaouss Gigamax,Type Normal,Ramassage Technicien Tension,Untiered,40,45,35,40,40,90
+90,Persian,Type Normal,Échauffement Technicien Tension,OU,65,70,60,65,65,115
+91,Persian d'Alola,Type Ténèbres,Toison Épaisse Technicien Phobique,Untiered,65,60,60,75,65,115
+92,Psykokwak,Type Eau,Moiteur Ciel Gris Glissade,LC,50,52,48,65,50,55
+93,Akwakwak,Type Eau,Moiteur Ciel Gris Glissade,OU,80,82,78,95,80,85
+94,Férosinge,Type Combat,Esprit Vital Colérique Acharné,LC,40,80,35,35,45,70
+95,Colossinge,Type Combat,Esprit Vital Colérique Acharné,NFE,65,105,60,60,70,95
+96,Caninos,Type Feu,Intimidation Torche Coeur Noble,LC,55,70,45,70,50,60
+97,Caninos de Hisui,Type Feu Type Roche,Intimidation Torche Tête de Roc,Untiered,60,75,45,65,50,55
+98,Arcanin,Type Feu,Intimidation Torche Coeur Noble,OU,90,110,80,100,80,95
+99,Arcanin de Hisui,Type Feu Type Roche,Intimidation Torche Tête de Roc,Untiered,95,115,80,95,80,90
+100,Ptitard,Type Eau,Absorb Eau Moiteur Glissade,Untiered,40,50,40,40,40,90
+101,Têtarte,Type Eau,Absorb Eau Moiteur Glissade,Untiered,65,65,65,50,50,90
+102,Tartard,Type Eau Type Combat,Absorb Eau Moiteur Glissade,Untiered,90,95,95,70,90,70
+103,Abra,Type Psy,Synchro Attention Garde Magik,Untiered,25,20,15,105,55,90
+104,Kadabra,Type Psy,Synchro Attention Garde Magik,Untiered,40,35,30,120,70,105
+105,Alakazam,Type Psy,Synchro Attention Garde Magik,Untiered,55,50,45,135,95,120
+106,Méga Alakazam,Type Psy,Calque,Untiered,55,50,65,175,105,150
+107,Machoc,Type Combat,Cran Annule Garde Impassible,Untiered,70,80,50,35,35,35
+108,Machopeur,Type Combat,Cran Annule Garde Impassible,Untiered,80,100,70,50,60,45
+109,Mackogneur,Type Combat,Cran Annule Garde Impassible,Untiered,90,130,80,65,85,55
+110,Mackogneur Gigamax,Type Combat,Cran Annule Garde Impassible,Untiered,90,130,80,65,85,55
+111,Chétiflor,Type Plante Type Poison,Chlorophylle Gloutonnerie,Untiered,50,75,35,70,30,40
+112,Boustiflor,Type Plante Type Poison,Chlorophylle Gloutonnerie,Untiered,65,90,50,85,45,55
+113,Empiflor,Type Plante Type Poison,Chlorophylle Gloutonnerie,Untiered,80,105,65,100,70,70
+114,Tentacool,Type Eau Type Poison,Corps Sain Suintement Cuvette,Untiered,40,40,35,50,100,70
+115,Tentacruel,Type Eau Type Poison,Corps Sain Suintement Cuvette,Untiered,80,70,65,80,120,100
+116,Racaillou,Type Roche Type Sol,Tête de Roc Fermeté Voile Sable,Untiered,40,80,100,30,30,20
+117,Racaillou d'Alola,Type Roche Type Électrik,Magnépiège Fermeté Peau Électrique,Untiered,40,80,100,30,30,20
+118,Gravalanch,Type Roche Type Sol,Tête de Roc Fermeté Voile Sable,Untiered,55,95,115,45,45,35
+119,Gravalanch d'Alola,Type Roche Type Électrik,Magnépiège Fermeté Peau Électrique,Untiered,55,95,115,45,45,35
+120,Grolem,Type Roche Type Sol,Tête de Roc Fermeté Voile Sable,Untiered,80,120,130,55,65,45
+121,Grolem d'Alola,Type Roche Type Électrik,Magnépiège Fermeté Peau Électrique,Untiered,80,120,130,55,65,45
+122,Ponyta,Type Feu,Fuite Torche Corps Ardent,Untiered,50,85,55,65,65,90
+123,Ponyta de Galar,Type Psy,Fuite Voile Pastel Anticipation,Untiered,50,85,55,65,65,90
+124,Galopa,Type Feu,Fuite Torche Corps Ardent,Untiered,65,100,70,80,80,105
+125,Galopa de Galar,Type Psy Type Fée,Fuite Voile Pastel Anticipation,Untiered,65,100,70,80,80,105
+126,Ramoloss,Type Eau Type Psy,Benêt Tempo Perso Régé-Force,LC,90,65,65,40,40,15
+127,Ramoloss de Galar,Type Psy,Gloutonnerie Tempo Perso Régé-Force,Untiered,90,65,65,40,40,15
+128,Flagadoss,Type Eau Type Psy,Benêt Tempo Perso Régé-Force,OU,95,75,110,100,80,30
+129,Flagadoss de Galar,Type Poison Type Psy,Tir Vif Tempo Perso Régé-Force,Untiered,95,100,95,100,70,30
+130,Méga Flagadoss,Type Eau Type Psy,Coque Armure,Untiered,95,75,180,130,80,30
+131,Magnéti,Type Électrik Type Acier,Magnépiège Fermeté Analyste,LC,25,35,70,95,55,45
+132,Magnéton,Type Électrik Type Acier,Magnépiège Fermeté Analyste,NFE,50,60,95,120,70,70
+133,Canarticho,Type Normal Type Vol,Regard Vif Attention Acharné,Untiered,52,90,55,58,62,60
+134,Canarticho de Galar,Type Combat,Impassible Querelleur,Untiered,52,95,55,58,62,55
+135,Doduo,Type Normal Type Vol,Fuite Matinal Pieds Confus,Untiered,35,85,45,35,35,75
+136,Dodrio,Type Normal Type Vol,Fuite Matinal Pieds Confus,Untiered,60,110,70,60,60,110
+137,Otaria,Type Eau,Isograisse Hydratation Corps Gel,Untiered,65,45,55,45,70,45
+138,Lamantine,Type Eau Type Glace,Isograisse Hydratation Corps Gel,Untiered,90,70,80,70,95,70
+139,Tadmorv,Type Poison,Puanteur Glue Toxitouche,LC,80,80,50,40,50,25
+140,Tadmorv d'Alola,Type Poison Type Ténèbres,Toxitouche Gloutonnerie Osmose,Untiered,80,80,50,40,50,25
+141,Grotadmorv,Type Poison,Puanteur Glue Toxitouche,OU,105,105,75,65,100,50
+142,Grotadmorv d'Alola,Type Poison Type Ténèbres,Toxitouche Gloutonnerie Osmose,Untiered,105,105,75,65,100,50
+143,Kokiyas,Type Eau,Coque Armure Multi-Coups Envelocape,LC,30,65,100,45,25,40
+144,Crustabri,Type Eau Type Glace,Coque Armure Multi-Coups Envelocape,OU,50,95,180,85,45,70
+145,Fantominus,Type Spectre Type Poison,Lévitation,LC,30,35,30,100,35,80
+146,Spectrum,Type Spectre Type Poison,Lévitation,NFE,45,50,45,115,55,95
+147,Ectoplasma,Type Spectre Type Poison,Corps Maudit,OU,60,65,60,130,75,110
+148,Méga Ectoplasma,Type Spectre Type Poison,Marque Ombre,Untiered,60,65,80,170,95,130
+149,Ectoplasma Gigamax,Type Spectre Type Poison,Corps Maudit,Untiered,60,65,60,130,75,110
+150,Onix,Type Roche Type Sol,Tête de Roc Fermeté Armurouillée,Untiered,35,45,160,30,45,70
+151,Soporifik,Type Psy,Insomnia Prédiction Attention,LC,60,48,45,43,90,42
+152,Hypnomade,Type Psy,Insomnia Prédiction Attention,OU,85,73,70,73,115,67
+153,Krabby,Type Eau,Hyper Cutter Coque Armure Sans Limite,Untiered,30,105,90,25,25,50
+154,Krabboss,Type Eau,Hyper Cutter Coque Armure Sans Limite,Untiered,55,130,115,50,50,75
+155,Krabboss Gigamax,Type Eau,Hyper Cutter Coque Armure Sans Limite,Untiered,55,130,115,50,50,75
+156,Voltorbe,Type Électrik,Anti-Bruit Statik Boom Final,LC,40,30,50,55,55,100
+157,Voltorbe de Hisui,Type Électrik Type Plante,Anti-Bruit Statik Boom Final,Untiered,40,30,50,55,55,100
+158,Électrode,Type Électrik,Anti-Bruit Statik Boom Final,OU,60,50,70,80,80,150
+159,Électrode de Hisui,Type Électrik Type Plante,Anti-Bruit Statik Boom Final,Untiered,60,50,70,80,80,150
+160,Noeunoeuf,Type Plante Type Psy,Chlorophylle Récolte,Untiered,60,40,80,60,45,40
+161,Noadkoko,Type Plante Type Psy,Chlorophylle Récolte,Untiered,95,95,85,125,75,55
+162,Noadkoko d'Alola,Type Plante Type Dragon,Fouille Récolte,Untiered,95,105,85,125,75,45
+163,Osselait,Type Sol,Tête de Roc Paratonnerre Armurbaston,Untiered,50,50,95,40,50,35
+164,Ossatueur,Type Sol,Tête de Roc Paratonnerre Armurbaston,Untiered,60,80,110,50,80,45
+165,Ossatueur d'Alola,Type Feu Type Spectre,Corps Maudit Paratonnerre Tête de Roc,Untiered,60,80,110,50,80,45
+166,Kicklee,Type Combat,Échauffement Téméraire Délestage,Untiered,50,120,53,35,110,87
+167,Tygnon,Type Combat,Regard Vif Poing de Fer Attention,Untiered,50,105,79,35,110,76
+168,Excelangue,Type Normal,Tempo Perso Benêt Ciel Gris,Untiered,90,55,75,60,75,30
+169,Smogo,Type Poison,Lévitation Gaz Inhibiteur Puanteur,Untiered,40,65,95,60,45,35
+170,Smogogo,Type Poison,Lévitation Gaz Inhibiteur Puanteur,Untiered,65,90,120,85,70,60
+171,Smogogo de Galar,Type Poison Type Fée,Lévitation Gaz Inhibiteur Créa-Brume,Untiered,65,90,120,85,70,60
+172,Rhinocorne,Type Sol Type Roche,Paratonnerre Tête de Roc Téméraire,Untiered,80,85,95,30,30,25
+173,Rhinoféros,Type Sol Type Roche,Paratonnerre Tête de Roc Téméraire,Untiered,105,130,120,45,45,40
+174,Leveinard,Type Normal,Médic Nature Sérénité Coeur Soin,NFE,250,5,5,35,105,50
+175,Saquedeneu,Type Plante,Chlorophylle Feuille Garde Régé-Force,Untiered,65,55,115,100,40,60
+176,Kangourex,Type Normal,Matinal Querelleur Attention,Untiered,105,95,80,40,80,90
+177,Méga Kangourex,Type Normal,Amour Filial,Untiered,105,125,100,60,100,100
+178,Hypotrempe,Type Eau,Glissade Sniper Moiteur,Untiered,30,40,70,70,25,60
+179,Hypocéan,Type Eau,Point Poison Sniper Moiteur,Untiered,55,65,95,95,45,85
+180,Poissirène,Type Eau,Glissade Ignifu-Voile Paratonnerre,Untiered,45,67,60,35,50,63
+181,Poissoroy,Type Eau,Glissade Ignifu-Voile Paratonnerre,Untiered,80,92,65,65,80,68
+182,Stari,Type Eau,Lumiattirance Médic Nature Analyste,Untiered,30,45,55,70,55,85
+183,Staross,Type Eau Type Psy,Lumiattirance Médic Nature Analyste,Untiered,60,75,85,100,85,115
+184,M. Mime,Type Psy Type Fée,Anti-Bruit Filtre Technicien,Untiered,40,45,65,100,120,90
+185,M. Mime de Galar,Type Glace Type Psy,Esprit Vital Brise-Barrière Corps Gel,Untiered,50,65,65,90,90,100
+186,Insécateur,Type Insecte Type Vol,Essaim Technicien Impassible,NFE,70,110,80,55,80,105
+187,Lippoutou,Type Glace Type Psy,Benêt Prédiction Peau Sèche,Untiered,65,50,35,115,95,95
+188,Élektek,Type Électrik,Statik Esprit Vital,Untiered,65,83,57,95,85,105
+189,Magmar,Type Feu,Corps Ardent Esprit Vital,Untiered,65,95,57,100,85,93
+190,Scarabrute,Type Insecte,Hyper Cutter Brise Moule Impudence,Untiered,65,125,100,55,70,85
+191,Méga Scarabrute,Type Insecte Type Vol,Peau Céleste,Untiered,65,155,120,65,90,105
+192,Tauros,Type Normal,Intimidation Colérique Sans Limite,Untiered,75,100,95,40,70,110
+193,Tauros de Paldea,Type Combat,Intimidation Colérique Ruminant,OU,75,110,105,30,70,100
+194,Tauros de Paldea de Feu,Type Combat Type Feu,Intimidation Colérique Ruminant,OU,75,110,105,30,70,100
+195,Tauros de Paldea d'Eau,Type Combat Type Eau,Intimidation Colérique Ruminant,OU,75,110,105,30,70,100
+196,Magicarpe,Type Eau,Glissade Phobique,LC,20,10,55,15,20,80
+197,Léviator,Type Eau Type Vol,Intimidation Impudence,OU,95,125,79,60,100,81
+198,Méga Léviator,Type Eau Type Ténèbres,Brise Moule,Untiered,95,155,109,70,130,81
+199,Lokhlass,Type Eau Type Glace,Absorb Eau Coque Armure Hydratation,Untiered,130,85,80,85,95,60
+200,Lokhlass Gigamax,Type Eau Type Glace,Absorb Eau Coque Armure Hydratation,Untiered,130,85,80,85,95,60
+201,Métamorph,Type Normal,Échauffement Imposteur,OU,48,48,48,48,48,48
+202,Évoli,Type Normal,Fuite Adaptabilité Anticipation,LC,55,55,50,45,65,55
+203,Évoli Gigamax,Type Normal,Fuite Adaptabilité Anticipation,Untiered,55,55,50,45,65,55
+204,Aquali,Type Eau,Absorb Eau Hydratation,OU,130,65,60,110,95,65
+205,Voltali,Type Électrik,Absorb Volt Pied Véloce,OU,65,65,60,110,95,130
+206,Pyroli,Type Feu,Torche Cran,OU,65,130,60,95,110,65
+207,Porygon,Type Normal,Calque Télécharge Analyste,Untiered,65,60,70,85,75,40
+208,Amonita,Type Roche Type Eau,Glissade Coque Armure Armurouillée,Untiered,35,40,100,90,55,35
+209,Amonistar,Type Roche Type Eau,Glissade Coque Armure Armurouillée,Untiered,70,60,125,115,70,55
+210,Kabuto,Type Roche Type Eau,Glissade Armurbaston Armurouillée,Untiered,30,80,90,55,45,55
+211,Kabutops,Type Roche Type Eau,Glissade Armurbaston Armurouillée,Untiered,60,115,105,65,70,80
+212,Ptéra,Type Roche Type Vol,Tête de Roc Pression Tension,Untiered,80,105,65,60,75,130
+213,Méga Ptéra,Type Roche Type Vol,Griffe Dure,Untiered,80,135,85,70,95,150
+214,Ronflex,Type Normal,Vaccin Isograisse Gloutonnerie,Untiered,160,110,65,65,110,30
+215,Ronflex Gigamax,Type Normal,Vaccin Isograisse Gloutonnerie,Untiered,160,110,65,65,110,30
+216,Artikodin,Type Glace Type Vol,Pression Rideau Neige,Untiered,90,85,100,95,125,85
+217,Artikodin de Galar,Type Psy Type Vol,Battant,Untiered,90,85,85,125,100,95
+218,Électhor,Type Électrik Type Vol,Pression Statik,Untiered,90,90,85,125,90,100
+219,Électhor de Galar,Type Combat Type Vol,Acharné,Untiered,90,125,90,85,90,100
+220,Sulfura,Type Feu Type Vol,Pression Corps Ardent,Untiered,90,100,90,125,85,90
+221,Sulfura de Galar,Type Ténèbres Type Vol,Dracolère,Untiered,90,85,90,100,125,90
+222,Minidraco,Type Dragon,Mue Écaille Spéciale,LC,41,64,45,50,50,50
+223,Draco,Type Dragon,Mue Écaille Spéciale,NFE,61,84,65,70,70,70
+224,Dracolosse,Type Dragon Type Vol,Attention Multiécaille,OU,91,134,95,100,100,80
+225,Mewtwo,Type Psy,Pression Tension,Untiered,106,110,90,154,90,130
+226,Méga Mewtwo Y,Type Psy,Insomnia,Untiered,106,150,70,194,120,140
+227,Méga Mewtwo X,Type Psy Type Combat,Impassible,Untiered,106,190,100,154,100,130
+228,Mew,Type Psy,Synchro,Untiered,100,100,100,100,100,100
+229,Germignon,Type Plante,Engrais Feuille Garde,Untiered,45,49,65,49,65,45
+230,Macronium,Type Plante,Engrais Feuille Garde,Untiered,60,62,80,63,80,60
+231,Méganium,Type Plante,Engrais Feuille Garde,Untiered,80,82,100,83,100,80
+232,Héricendre,Type Feu,Brasier Torche,Untiered,39,52,43,60,50,65
+233,Feurisson,Type Feu,Brasier Torche,Untiered,58,64,58,80,65,80
+234,Typhlosion,Type Feu,Brasier Torche,Untiered,78,84,78,109,85,100
+235,Typhlosion de Hisui,Type Feu Type Spectre,Brasier Fouille,Untiered,73,84,78,119,85,95
+236,Kaiminus,Type Eau,Torrent Sans Limite,Untiered,50,65,64,44,48,43
+237,Crocrodil,Type Eau,Torrent Sans Limite,Untiered,65,80,80,59,63,58
+238,Aligatueur,Type Eau,Torrent Sans Limite,Untiered,85,105,100,79,83,78
+239,Fouinette,Type Normal,Fuite Regard Vif Fouille,Untiered,35,46,34,35,45,20
+240,Fouinar,Type Normal,Fuite Regard Vif Fouille,Untiered,85,76,64,45,55,90
+241,Hoothoot,Type Normal Type Vol,Insomnia Regard Vif Lentiteintée,Untiered,60,30,30,36,56,50
+242,Noarfang,Type Normal Type Vol,Insomnia Regard Vif Lentiteintée,Untiered,100,50,50,86,96,70
+243,Coxy,Type Insecte Type Vol,Essaim Matinal Phobique,Untiered,40,20,30,40,80,55
+244,Coxyclaque,Type Insecte Type Vol,Essaim Matinal Poing de Fer,Untiered,55,35,50,55,110,85
+245,Mimigal,Type Insecte Type Poison,Essaim Insomnia Sniper,Untiered,40,60,40,40,40,30
+246,Migalos,Type Insecte Type Poison,Essaim Insomnia Sniper,Untiered,70,90,70,60,70,40
+247,Nostenfer,Type Poison Type Vol,Attention Infiltration,Untiered,85,90,80,70,80,130
+248,Loupio,Type Eau Type Électrik,Absorb Volt Lumiattirance Absorb Eau,Untiered,75,38,38,56,56,67
+249,Lanturn,Type Eau Type Électrik,Absorb Volt Lumiattirance Absorb Eau,Untiered,125,58,58,76,76,67
+250,Pichu,Type Électrik,Statik Paratonnerre,LC,20,40,15,35,35,60
+251,Pichu Troizépi,Type Électrik,Statik,Untiered,20,40,15,35,35,60
+252,Mélo,Type Fée,Joli Sourire Garde Magik Garde Amie,Untiered,50,25,28,45,55,15
+253,Toudoudou,Type Normal Type Fée,Joli Sourire Battant Garde Amie,LC,90,30,15,40,20,15
+254,Togepi,Type Fée,Agitation Sérénité Chanceux,Untiered,35,20,65,40,65,20
+255,Togetic,Type Fée Type Vol,Agitation Sérénité Chanceux,Untiered,55,40,85,80,105,40
+256,Natu,Type Psy Type Vol,Synchro Matinal Miroir Magik,Untiered,40,50,45,70,45,70
+257,Xatu,Type Psy Type Vol,Synchro Matinal Miroir Magik,Untiered,65,75,70,95,70,95
+258,Wattouat,Type Électrik,Statik Plus,LC,55,40,40,65,45,35
+259,Lainergie,Type Électrik,Statik Plus,NFE,70,55,55,80,60,45
+260,Pharamp,Type Électrik,Statik Plus,OU,90,75,85,115,90,55
+261,Méga Pharamp,Type Électrik Type Dragon,Brise Moule,Untiered,90,95,105,165,110,45
+262,Joliflor,Type Plante,Chlorophylle Coeur Soin,Untiered,75,80,95,90,100,50
+263,Marill,Type Eau Type Fée,Isograisse Coloforce Herbivore,NFE,70,20,50,20,50,40
+264,Azumarill,Type Eau Type Fée,Isograisse Coloforce Herbivore,OU,100,50,80,60,80,50
+265,Simularbre,Type Roche,Fermeté Tête de Roc Phobique,OU,70,100,115,30,65,30
+266,Tarpaud,Type Eau,Absorb Eau Moiteur Crachin,Untiered,90,75,75,90,100,70
+267,Granivol,Type Plante Type Vol,Chlorophylle Feuille Garde Infiltration,LC,35,35,40,35,55,50
+268,Floravol,Type Plante Type Vol,Chlorophylle Feuille Garde Infiltration,NFE,55,45,50,45,65,80
+269,Cotovol,Type Plante Type Vol,Chlorophylle Feuille Garde Infiltration,OU,75,55,70,55,95,110
+270,Capumain,Type Normal,Fuite Ramassage Multi-Coups,Untiered,55,70,55,40,55,85
+271,Tournegrin,Type Plante,Chlorophylle Force Soleil Matinal,LC,30,30,30,30,30,30
+272,Héliatronc,Type Plante,Chlorophylle Force Soleil Matinal,OU,75,75,55,105,85,30
+273,Yanma,Type Insecte Type Vol,Turbo Oeil Composé Fouille,Untiered,65,65,45,75,45,95
+274,Axoloto,Type Eau Type Sol,Moiteur Absorb Eau Inconscient,LC,55,45,45,25,25,15
+275,Axoloto de Paldea,Type Poison Type Sol,Point Poison Absorb Eau Inconscient,LC,55,45,45,25,25,15
+276,Maraiste,Type Eau Type Sol,Moiteur Absorb Eau Inconscient,OU,95,85,85,65,65,35
+277,Mentali,Type Psy,Synchro Miroir Magik,OU,65,65,60,130,95,110
+278,Noctali,Type Ténèbres,Synchro Attention,OU,95,65,110,60,130,65
+279,Cornèbre,Type Ténèbres Type Vol,Insomnia Chanceux Farceur,NFE,60,85,42,85,42,91
+280,Roigada,Type Eau Type Psy,Benêt Tempo Perso Régé-Force,OU,95,75,80,100,110,30
+281,Roigada de Galar,Type Poison Type Psy,Breuvage Suspect Tempo Perso Régé-Force,Untiered,95,65,80,110,110,30
+282,Feuforêve,Type Spectre,Lévitation,LC,60,60,60,85,85,85
+283,Zarbi A,Type Psy,Lévitation,Untiered,48,72,48,72,48,48
+284,Zarbi B,Type Psy,Lévitation,Untiered,48,72,48,72,48,48
+285,Zarbi D,Type Psy,Lévitation,Untiered,48,72,48,72,48,48
+286,Zarbi I,Type Psy,Lévitation,Untiered,48,72,48,72,48,48
+287,Zarbi L,Type Psy,Lévitation,Untiered,48,72,48,72,48,48
+288,Zarbi K,Type Psy,Lévitation,Untiered,48,72,48,72,48,48
+289,Zarbi G,Type Psy,Lévitation,Untiered,48,72,48,72,48,48
+290,Zarbi F,Type Psy,Lévitation,Untiered,48,72,48,72,48,48
+291,Zarbi O,Type Psy,Lévitation,Untiered,48,72,48,72,48,48
+292,Zarbi H,Type Psy,Lévitation,Untiered,48,72,48,72,48,48
+293,Zarbi J,Type Psy,Lévitation,Untiered,48,72,48,72,48,48
+294,Zarbi S,Type Psy,Lévitation,Untiered,48,72,48,72,48,48
+295,Zarbi T,Type Psy,Lévitation,Untiered,48,72,48,72,48,48
+296,Zarbi M,Type Psy,Lévitation,Untiered,48,72,48,72,48,48
+297,Zarbi N,Type Psy,Lévitation,Untiered,48,72,48,72,48,48
+298,Zarbi C,Type Psy,Lévitation,Untiered,48,72,48,72,48,48
+299,Zarbi E,Type Psy,Lévitation,Untiered,48,72,48,72,48,48
+300,Zarbi X,Type Psy,Lévitation,Untiered,48,72,48,72,48,48
+301,Zarbi Y,Type Psy,Lévitation,Untiered,48,72,48,72,48,48
+302,Zarbi P,Type Psy,Lévitation,Untiered,48,72,48,72,48,48
+303,Zarbi Q,Type Psy,Lévitation,Untiered,48,72,48,72,48,48
+304,Zarbi R,Type Psy,Lévitation,Untiered,48,72,48,72,48,48
+305,Zarbi ?,Type Psy,Lévitation,Untiered,48,72,48,72,48,48
+306,Zarbi !,Type Psy,Lévitation,Untiered,48,72,48,72,48,48
+307,Zarbi U,Type Psy,Lévitation,Untiered,48,72,48,72,48,48
+308,Zarbi Z,Type Psy,Lévitation,Untiered,48,72,48,72,48,48
+309,Zarbi W,Type Psy,Lévitation,Untiered,48,72,48,72,48,48
+310,Zarbi V,Type Psy,Lévitation,Untiered,48,72,48,72,48,48
+311,Qulbutoké,Type Psy,Marque Ombre Télépathe,Untiered,190,33,58,33,58,33
+312,Girafarig,Type Normal Type Psy,Attention Matinal Herbivore,LC,70,80,65,90,65,85
+313,Pomdepik,Type Insecte,Fermeté Envelocape,LC,50,65,90,35,35,15
+314,Foretress,Type Insecte Type Acier,Fermeté Envelocape,OU,75,90,140,60,60,40
+315,Insolourdo,Type Normal,Sérénité Fuite Phobique,NFE,100,70,70,65,65,45
+316,Scorplane,Type Sol Type Vol,Hyper Cutter Voile Sable Vaccin,Untiered,65,75,105,35,65,85
+317,Steelix,Type Acier Type Sol,Tête de Roc Fermeté Sans Limite,Untiered,75,85,200,55,65,30
+318,Méga Steelix,Type Acier Type Sol,Force Sable,Untiered,75,125,230,55,95,30
+319,Snubbull,Type Fée,Intimidation Fuite Phobique,Untiered,60,80,50,40,40,30
+320,Granbull,Type Fée,Intimidation Pied Véloce Phobique,Untiered,90,120,75,60,60,45
+321,Qwilfish,Type Eau Type Poison,Point Poison Glissade Intimidation,OU,65,95,85,55,55,85
+322,Qwilfish de Hisui,Type Ténèbres Type Poison,Point Poison Glissade Intimidation,Untiered,65,95,85,55,55,85
+323,Cizayox,Type Insecte Type Acier,Essaim Technicien Light Metal,OU,70,130,100,55,80,65
+324,Méga Cizayox,Type Insecte Type Acier,Technicien,Untiered,70,150,140,65,100,75
+325,Caratroc,Type Insecte Type Roche,Fermeté Gloutonnerie Contestation,Untiered,20,10,230,10,230,5
+326,Scarhino,Type Insecte Type Combat,Essaim Cran Impudence,OU,80,125,75,40,95,85
+327,Méga Scarhino,Type Insecte Type Combat,Multi-Coups,Untiered,80,185,115,40,105,75
+328,Farfuret,Type Ténèbres Type Glace,Attention Regard Vif Pickpocket,NFE,55,95,55,35,75,115
+329,Farfuret de Hisui,Type Combat Type Poison,Attention Regard Vif Pickpocket,Untiered,55,95,55,35,75,115
+330,Teddiursa,Type Normal,Ramassage Pied Véloce Cherche Miel,LC,60,80,50,50,50,40
+331,Ursaring,Type Normal,Cran Pied Véloce Tension,OU,90,130,75,75,75,55
+332,Limagma,Type Feu,Armumagma Corps Ardent Armurouillée,Untiered,40,40,40,70,40,20
+333,Volcaropod,Type Feu Type Roche,Armumagma Corps Ardent Armurouillée,Untiered,60,50,120,90,80,30
+334,Marcacrin,Type Glace Type Sol,Benêt Rideau Neige Isograisse,Untiered,50,50,40,30,30,50
+335,Cochignon,Type Glace Type Sol,Benêt Rideau Neige Isograisse,Untiered,100,100,80,60,60,50
+336,Corayon,Type Eau Type Roche,Agitation Médic Nature Régé-Force,Untiered,65,55,95,65,95,35
+337,Corayon de Galar,Type Spectre,Armurouillée Corps Maudit,Untiered,60,55,100,65,100,30
+338,Rémoraid,Type Eau,Agitation Sniper Lunatique,Untiered,35,65,35,65,35,65
+339,Octillery,Type Eau,Ventouse Sniper Lunatique,Untiered,75,105,75,105,75,45
+340,Cadoizo,Type Glace Type Vol,Esprit Vital Agitation Insomnia,OU,45,55,45,65,45,75
+341,Démanta,Type Eau Type Vol,Glissade Absorb Eau Ignifu-Voile,Untiered,85,40,70,80,140,70
+342,Airmure,Type Acier Type Vol,Regard Vif Fermeté Armurouillée,Untiered,65,80,140,40,70,70
+343,Malosse,Type Ténèbres Type Feu,Matinal Torche Tension,LC,45,60,30,80,50,65
+344,Démolosse,Type Ténèbres Type Feu,Matinal Torche Tension,OU,75,90,50,110,80,95
+345,Méga Démolosse,Type Ténèbres Type Feu,Force Soleil,Untiered,75,90,90,140,90,115
+346,Hyporoi,Type Eau Type Dragon,Glissade Sniper Moiteur,Untiered,75,95,95,95,95,85
+347,Phanpy,Type Sol,Ramassage Voile Sable,LC,90,60,60,40,40,40
+348,Donphan,Type Sol,Fermeté Voile Sable,OU,90,120,120,60,60,50
+349,Porygon2,Type Normal,Calque Télécharge Analyste,Untiered,85,80,90,105,95,60
+350,Cerfrousse,Type Normal,Intimidation Fouille Herbivore,OU,73,95,62,85,65,85
+351,Queulorior,Type Normal,Tempo Perso Technicien Lunatique,Untiered,55,20,35,20,45,75
+352,Debugant,Type Combat,Cran Impassible Esprit Vital,Untiered,35,35,35,35,35,35
+353,Kapoera,Type Combat,Intimidation Technicien Impassible,Untiered,50,95,95,35,110,70
+354,Lippouti,Type Glace Type Psy,Benêt Prédiction Hydratation,Untiered,45,30,15,85,65,65
+355,Élekid,Type Électrik,Statik Esprit Vital,Untiered,45,63,37,65,55,95
+356,Magby,Type Feu,Corps Ardent Esprit Vital,Untiered,45,75,37,70,55,83
+357,Écrémeuh,Type Normal,Isograisse Querelleur Herbivore,Untiered,95,80,105,40,70,100
+358,Leuphorie,Type Normal,Médic Nature Sérénité Coeur Soin,OU,255,10,10,75,135,55
+359,Raikou,Type Électrik,Pression Attention,Untiered,90,85,75,115,100,115
+360,Entei,Type Feu,Pression Attention,Untiered,115,115,85,90,75,100
+361,Suicune,Type Eau,Pression Attention,Untiered,100,75,115,90,115,85
+362,Embrylex,Type Roche Type Sol,Cran Voile Sable,LC,50,64,50,45,50,41
+363,Ymphect,Type Roche Type Sol,Mue,NFE,70,84,70,65,70,51
+364,Tyranocif,Type Roche Type Ténèbres,Sable Volant Tension,OU,100,134,110,95,100,61
+365,Méga Tyranocif,Type Roche Type Ténèbres,Sable Volant,Untiered,100,164,150,95,120,71
+366,Lugia,Type Psy Type Vol,Pression Multiécaille,Untiered,106,90,130,90,154,110
+367,Ho-Oh,Type Feu Type Vol,Pression Régé-Force,Untiered,106,130,90,110,154,90
+368,Celebi,Type Psy Type Plante,Médic Nature,Untiered,100,100,100,100,100,100
+369,Arcko,Type Plante,Engrais Délestage,Untiered,40,45,35,65,55,70
+370,Massko,Type Plante,Engrais Délestage,Untiered,50,65,45,85,65,95
+371,Jungko,Type Plante,Engrais Délestage,Untiered,70,85,65,105,85,120
+372,Méga Jungko,Type Plante Type Dragon,Paratonnerre,Untiered,70,110,75,145,85,145
+373,Poussifeu,Type Feu,Brasier Turbo,Untiered,45,60,40,70,50,45
+374,Galifeu,Type Feu Type Combat,Brasier Turbo,Untiered,60,85,60,85,60,55
+375,Braségali,Type Feu Type Combat,Brasier Turbo,Untiered,80,120,70,110,70,80
+376,Méga Braségali,Type Feu Type Combat,Turbo,Untiered,80,160,80,130,80,100
+377,Gobou,Type Eau,Torrent Moiteur,Untiered,50,70,50,50,50,40
+378,Flobio,Type Eau Type Sol,Torrent Moiteur,Untiered,70,85,70,60,70,50
+379,Laggron,Type Eau Type Sol,Torrent Moiteur,Untiered,100,110,90,85,90,60
+380,Méga Laggron,Type Eau Type Sol,Glissade,Untiered,100,150,110,95,110,70
+381,Medhyèna,Type Ténèbres,Fuite Pied Véloce Phobique,Untiered,35,55,35,30,30,35
+382,Grahyèna,Type Ténèbres,Intimidation Pied Véloce Impudence,Untiered,70,90,70,60,60,70
+383,Zigzaton,Type Normal,Ramassage Gloutonnerie Pied Véloce,Untiered,38,30,41,30,41,60
+384,Zigzaton de Galar,Type Ténèbres Type Normal,Ramassage Gloutonnerie Pied Véloce,Untiered,38,30,41,30,41,60
+385,Linéon,Type Normal,Ramassage Gloutonnerie Pied Véloce,Untiered,78,70,61,50,61,100
+386,Linéon de Galar,Type Ténèbres Type Normal,Ramassage Gloutonnerie Pied Véloce,Untiered,78,70,61,50,61,100
+387,Chenipotte,Type Insecte,Écran Poudre Fuite,Untiered,45,45,35,20,30,20
+388,Armulys,Type Insecte,Mue,Untiered,50,35,55,25,25,15
+389,Charmillon,Type Insecte Type Vol,Essaim Rivalité,Untiered,60,70,50,100,50,65
+390,Blindalys,Type Insecte,Mue,Untiered,50,35,55,25,25,15
+391,Papinox,Type Insecte Type Poison,Écran Poudre Oeil Composé,Untiered,60,50,70,50,90,65
+392,Nénupiot,Type Eau Type Plante,Glissade Cuvette Tempo Perso,Untiered,40,30,30,40,50,30
+393,Lombre,Type Eau Type Plante,Glissade Cuvette Tempo Perso,Untiered,60,50,50,60,70,50
+394,Ludicolo,Type Eau Type Plante,Glissade Cuvette Tempo Perso,Untiered,80,70,70,90,100,70
+395,Grainipiot,Type Plante,Chlorophylle Matinal Pickpocket,Untiered,40,40,50,30,30,30
+396,Pifeuil,Type Plante Type Ténèbres,Chlorophylle Matinal Pickpocket,Untiered,70,70,40,60,40,60
+397,Tengalice,Type Plante Type Ténèbres,Chlorophylle Matinal Pickpocket,Untiered,90,100,60,90,60,80
+398,Nirondelle,Type Normal Type Vol,Cran Querelleur,Untiered,40,55,30,30,30,85
+399,Hélédelle,Type Normal Type Vol,Cran Querelleur,Untiered,60,85,60,75,50,125
+400,Goélise,Type Eau Type Vol,Regard Vif Hydratation Cuvette,LC,40,30,30,55,30,85
+401,Bekipan,Type Eau Type Vol,Regard Vif Crachin Cuvette,OU,60,50,100,95,70,65
+402,Tarsal,Type Psy Type Fée,Synchro Calque Télépathe,LC,28,25,25,45,35,40
+403,Kirlia,Type Psy Type Fée,Synchro Calque Télépathe,NFE,38,35,35,65,55,50
+404,Gardevoir,Type Psy Type Fée,Synchro Calque Télépathe,OU,68,65,65,125,115,80
+405,Méga Gardevoir,Type Psy Type Fée,Peau Féérique,Untiered,68,85,65,165,135,100
+406,Arakdo,Type Insecte Type Eau,Glissade Cuvette,LC,40,30,32,50,52,65
+407,Maskadra,Type Insecte Type Vol,Intimidation Tension,OU,70,60,62,100,82,80
+408,Balignon,Type Plante,Pose Spore Soin Poison Pied Véloce,LC,60,40,60,40,60,35
+409,Chapignon,Type Plante Type Combat,Pose Spore Soin Poison Technicien,OU,60,130,80,60,60,70
+410,Parecool,Type Normal,Absentéisme,LC,60,60,60,35,35,30
+411,Vigoroth,Type Normal,Esprit Vital,NFE,80,80,80,55,55,90
+412,Monaflèmit,Type Normal,Absentéisme,OU,150,160,100,95,65,100
+413,Ningale,Type Insecte Type Sol,Oeil Composé Fuite,Untiered,31,45,90,30,30,40
+414,Ninjask,Type Insecte Type Vol,Turbo Infiltration,Untiered,61,90,45,50,50,160
+415,Munja,Type Insecte Type Spectre,Garde Mystik,Untiered,1,90,45,30,30,40
+416,Chuchmur,Type Normal,Anti-Bruit Phobique,Untiered,64,51,23,51,23,28
+417,Ramboum,Type Normal,Anti-Bruit Querelleur,Untiered,84,71,43,71,43,48
+418,Brouhabam,Type Normal,Anti-Bruit Querelleur,Untiered,104,91,63,91,73,68
+419,Makuhita,Type Combat,Isograisse Cran Sans Limite,LC,72,60,30,20,30,25
+420,Hariyama,Type Combat,Isograisse Cran Sans Limite,OU,144,120,60,40,60,50
+421,Azurill,Type Normal Type Fée,Isograisse Coloforce Herbivore,LC,50,20,40,20,40,20
+422,Tarinor,Type Roche,Fermeté Magnépiège Force Sable,Untiered,30,45,135,45,90,30
+423,Skitty,Type Normal,Joli Sourire Normalise Peau Miracle,Untiered,50,45,45,35,35,50
+424,Delcatty,Type Normal,Joli Sourire Normalise Peau Miracle,Untiered,70,65,65,55,55,90
+425,Ténéfix,Type Ténèbres Type Spectre,Regard Vif Frein Farceur,OU,50,75,75,65,65,50
+426,Méga Ténéfix,Type Ténèbres Type Spectre,Miroir Magik,Untiered,50,85,125,85,115,20
+427,Mysdibule,Type Acier Type Fée,Hyper Cutter Intimidation Sans Limite,Untiered,50,85,85,55,55,50
+428,Méga Mysdibule,Type Acier Type Fée,Coloforce,Untiered,50,105,125,55,95,50
+429,Galekid,Type Acier Type Roche,Fermeté Tête de Roc Heavy Metal,Untiered,50,70,100,40,40,30
+430,Galegon,Type Acier Type Roche,Fermeté Tête de Roc Heavy Metal,Untiered,60,90,140,50,50,40
+431,Galeking,Type Acier Type Roche,Fermeté Tête de Roc Heavy Metal,Untiered,70,110,180,60,60,50
+432,Méga Galeking,Type Acier,Filtre,Untiered,70,140,230,60,80,50
+433,Méditikka,Type Combat Type Psy,Force Pure Télépathe,NFE,30,40,55,40,55,60
+434,Charmina,Type Combat Type Psy,Force Pure Télépathe,OU,60,60,75,60,75,80
+435,Méga Charmina,Type Combat Type Psy,Force Pure,Untiered,60,100,85,80,85,100
+436,Dynavolt,Type Électrik,Statik Paratonnerre Minus,Untiered,40,45,40,65,40,65
+437,Élecsprint,Type Électrik,Statik Paratonnerre Minus,Untiered,70,75,60,105,60,105
+438,Méga Élecsprint,Type Électrik,Intimidation,Untiered,70,75,80,135,80,135
+439,Posipi,Type Électrik,Plus Paratonnerre,Untiered,60,50,40,85,75,95
+440,Négapi,Type Électrik,Minus Absorb Volt,Untiered,60,40,50,75,85,95
+441,Muciole,Type Insecte,Lumiattirance Essaim Farceur,Untiered,65,73,75,47,85,85
+442,Lumivole,Type Insecte,Benêt Lentiteintée Farceur,Untiered,65,47,75,73,85,85
+443,Rosélia,Type Plante Type Poison,Médic Nature Point Poison Feuille Garde,Untiered,50,60,45,100,80,65
+444,Gloupti,Type Poison,Suintement Glue Gloutonnerie,LC,70,43,53,43,53,40
+445,Avaltout,Type Poison,Suintement Glue Gloutonnerie,OU,100,73,83,73,83,55
+446,Carvanha,Type Eau Type Ténèbres,Peau Dure Turbo,Untiered,45,90,20,65,20,65
+447,Sharpedo,Type Eau Type Ténèbres,Peau Dure Turbo,Untiered,70,120,40,95,40,95
+448,Méga Sharpedo,Type Eau Type Ténèbres,Prognathe,Untiered,70,140,70,110,65,105
+449,Wailmer,Type Eau,Ignifu-Voile Benêt Pression,Untiered,130,70,35,70,35,60
+450,Wailord,Type Eau,Ignifu-Voile Benêt Pression,Untiered,170,90,45,90,45,60
+451,Chamallot,Type Feu Type Sol,Benêt Simple Tempo Perso,LC,60,60,40,65,45,35
+452,Camérupt,Type Feu Type Sol,Armumagma Solide Roc Colérique,OU,70,100,70,105,75,40
+453,Méga Camérupt,Type Feu Type Sol,Sans Limite,Untiered,70,120,100,145,105,20
+454,Chartor,Type Feu,Écran Fumée Sécheresse Coque Armure,OU,70,85,140,85,70,20
+455,Spoink,Type Psy,Isograisse Tempo Perso Gloutonnerie,LC,60,25,35,70,80,60
+456,Groret,Type Psy,Isograisse Tempo Perso Gloutonnerie,OU,80,45,65,90,110,80
+457,Spinda,Type Normal,Tempo Perso Pieds Confus Contestation,Untiered,60,60,60,60,60,60
+458,Kraknoix,Type Sol,Hyper Cutter Piège Sable Sans Limite,Untiered,45,100,45,45,45,10
+459,Vibraninf,Type Sol Type Dragon,Lévitation,Untiered,50,70,50,50,50,70
+460,Libégon,Type Sol Type Dragon,Lévitation,Untiered,80,100,80,80,80,100
+461,Cacnea,Type Plante,Voile Sable Absorb Eau,LC,50,85,40,85,40,35
+462,Cacturne,Type Plante Type Ténèbres,Voile Sable Absorb Eau,OU,70,115,60,115,60,55
+463,Tylton,Type Normal Type Vol,Médic Nature Ciel Gris,LC,45,40,60,40,75,50
+464,Altaria,Type Dragon Type Vol,Médic Nature Ciel Gris,OU,75,70,90,70,105,80
+465,Méga Altaria,Type Dragon Type Fée,Peau Féérique,Untiered,75,110,110,110,105,80
+466,Mangriff,Type Normal,Vaccin Rage Poison,OU,73,115,60,60,60,90
+467,Séviper,Type Poison,Mue Infiltration,OU,73,100,60,100,60,65
+468,Séléroc,Type Roche Type Psy,Lévitation,Untiered,90,55,65,95,85,70
+469,Solaroc,Type Roche Type Psy,Lévitation,Untiered,90,95,85,55,65,70
+470,Barloche,Type Eau Type Sol,Benêt Anticipation Hydratation,LC,50,48,43,46,41,60
+471,Barbicha,Type Eau Type Sol,Benêt Anticipation Hydratation,OU,110,78,73,76,71,60
+472,Écrapince,Type Eau,Hyper Cutter Coque Armure Adaptabilité,Untiered,43,80,65,50,35,35
+473,Colhomard,Type Eau Type Ténèbres,Hyper Cutter Coque Armure Adaptabilité,Untiered,63,120,85,90,55,55
+474,Balbuto,Type Sol Type Psy,Lévitation,Untiered,40,40,55,40,70,55
+475,Kaorine,Type Sol Type Psy,Lévitation,Untiered,60,70,105,70,120,75
+476,Lilia,Type Roche Type Plante,Ventouse Lavabo,Untiered,66,41,77,61,87,23
+477,Vacilys,Type Roche Type Plante,Ventouse Lavabo,Untiered,86,81,97,81,107,43
+478,Anorith,Type Roche Type Insecte,Armurbaston Glissade,Untiered,45,95,50,40,50,75
+479,Armaldo,Type Roche Type Insecte,Armurbaston Glissade,Untiered,75,125,100,70,80,45
+480,Barpau,Type Eau,Glissade Benêt Adaptabilité,Untiered,20,15,20,10,55,80
+481,Milobellus,Type Eau,Écaille Spéciale Battant Joli Sourire,Untiered,95,60,79,100,125,81
+482,Morphéo,Type Normal,Météo,Untiered,70,70,70,70,70,70
+483,Morphéo Blizzard,Type Glace,Météo,Untiered,70,70,70,70,70,70
+484,Morphéo Solaire,Type Feu,Météo,Untiered,70,70,70,70,70,70
+485,Morphéo Eau de Pluie,Type Eau,Météo,Untiered,70,70,70,70,70,70
+486,Kecleon,Type Normal,Déguisement Protéen,Untiered,60,90,70,60,120,40
+487,Polichombr,Type Spectre,Insomnia Fouille Corps Maudit,LC,44,75,35,63,33,45
+488,Branette,Type Spectre,Insomnia Fouille Corps Maudit,OU,64,115,65,83,63,65
+489,Méga Branette,Type Spectre,Farceur,Untiered,64,165,75,93,83,75
+490,Skelénox,Type Spectre,Lévitation Fouille,Untiered,20,40,90,30,90,25
+491,Téraclope,Type Spectre,Pression Fouille,Untiered,40,70,130,60,130,25
+492,Tropius,Type Plante Type Vol,Chlorophylle Force Soleil Récolte,OU,99,68,83,72,87,51
+493,Éoko,Type Psy,Lévitation,Untiered,75,50,80,95,90,65
+494,Absol,Type Ténèbres,Pression Chanceux Coeur Noble,Untiered,65,130,60,75,60,75
+495,Méga Absol,Type Ténèbres,Miroir Magik,Untiered,65,150,60,115,60,115
+496,Okéoké,Type Psy,Marque Ombre Télépathe,Untiered,95,23,48,23,48,23
+497,Stalgamin,Type Glace,Attention Corps Gel Lunatique,LC,50,50,50,50,50,50
+498,Oniglali,Type Glace,Attention Corps Gel Lunatique,OU,80,80,80,80,80,80
+499,Méga Oniglali,Type Glace,Peau Gelée,Untiered,80,120,80,120,80,100
+500,Obalie,Type Glace Type Eau,Isograisse Corps Gel Benêt,Untiered,70,40,50,55,50,25
+501,Phogleur,Type Glace Type Eau,Isograisse Corps Gel Benêt,Untiered,90,60,70,75,70,45
+502,Kaimorse,Type Glace Type Eau,Isograisse Corps Gel Benêt,Untiered,110,80,90,95,90,65
+503,Coquiperl,Type Eau,Coque Armure Phobique,Untiered,35,64,85,74,55,32
+504,Serpang,Type Eau,Glissade Ignifu-Voile,Untiered,55,104,105,94,75,52
+505,Rosabyss,Type Eau,Glissade Hydratation,Untiered,55,84,105,114,75,52
+506,Relicanth,Type Eau Type Roche,Glissade Tête de Roc Fermeté,Untiered,100,90,130,45,65,55
+507,Lovdisc,Type Eau,Glissade Hydratation,OU,43,30,55,40,65,97
+508,Draby,Type Dragon,Tête de Roc Sans Limite,LC,45,75,60,40,30,50
+509,Drackhaus,Type Dragon,Tête de Roc Envelocape,NFE,65,95,100,60,50,50
+510,Drattak,Type Dragon Type Vol,Intimidation Impudence,OU,95,135,80,110,80,100
+511,Méga Drattak,Type Dragon Type Vol,Peau Céleste,Untiered,95,145,130,120,90,120
+512,Terhal,Type Acier Type Psy,Corps Sain Light Metal,Untiered,40,55,80,35,60,30
+513,Métang,Type Acier Type Psy,Corps Sain Light Metal,Untiered,60,75,100,55,80,50
+514,Métalosse,Type Acier Type Psy,Corps Sain Light Metal,Untiered,80,135,130,95,90,70
+515,Méga Métalosse,Type Acier Type Psy,Griffe Dure,Untiered,80,145,150,105,110,110
+516,Regirock,Type Roche,Corps Sain Fermeté,Untiered,80,100,200,50,100,50
+517,Regice,Type Glace,Corps Sain Corps Gel,Untiered,80,50,100,100,200,50
+518,Registeel,Type Acier,Corps Sain Light Metal,Untiered,80,75,150,75,150,50
+519,Latias,Type Dragon Type Psy,Lévitation,Untiered,80,80,90,110,130,110
+520,Méga Latias,Type Dragon Type Psy,Lévitation,Untiered,80,100,120,140,150,110
+521,Latios,Type Dragon Type Psy,Lévitation,Untiered,80,90,80,130,110,110
+522,Méga Latios,Type Dragon Type Psy,Lévitation,Untiered,80,130,100,160,120,110
+523,Kyogre,Type Eau,Crachin,Untiered,100,100,90,150,140,90
+524,Primo Kyogre,Type Eau,Mer Primaire,Untiered,100,150,90,180,160,90
+525,Groudon,Type Sol,Sécheresse,Untiered,100,150,140,100,90,90
+526,Primo Groudon,Type Sol Type Feu,Terre Finale,Untiered,100,180,160,150,90,90
+527,Rayquaza,Type Dragon Type Vol,Air Lock,Untiered,105,150,90,150,90,95
+528,Méga Rayquaza,Type Dragon Type Vol,Souffle Delta,Untiered,105,180,100,180,100,115
+529,Jirachi,Type Acier Type Psy,Sérénité,Untiered,100,100,100,100,100,100
+530,Deoxys,Type Psy,Pression,Untiered,50,150,50,150,50,150
+531,Deoxys Défense,Type Psy,Pression,Untiered,50,70,160,70,160,90
+532,Deoxys Vitesse,Type Psy,Pression,Untiered,50,95,90,95,90,180
+533,Deoxys Attaque,Type Psy,Pression,Untiered,50,180,20,180,20,150
+534,Tortipouss,Type Plante,Engrais Coque Armure,Untiered,55,68,64,45,55,31
+535,Boskara,Type Plante,Engrais Coque Armure,Untiered,75,89,85,55,65,36
+536,Torterra,Type Plante Type Sol,Engrais Coque Armure,Untiered,95,109,105,75,85,56
+537,Ouisticram,Type Feu,Brasier Poing de Fer,Untiered,44,58,44,58,44,61
+538,Chimpenfeu,Type Feu Type Combat,Brasier Poing de Fer,Untiered,64,78,52,78,52,81
+539,Simiabraz,Type Feu Type Combat,Brasier Poing de Fer,Untiered,76,104,71,104,71,108
+540,Tiplouf,Type Eau,Torrent Acharné,Untiered,53,51,53,61,56,40
+541,Prinplouf,Type Eau,Torrent Acharné,Untiered,64,66,68,81,76,50
+542,Pingoléon,Type Eau Type Acier,Torrent Acharné,Untiered,84,86,88,111,101,60
+543,Étourmi,Type Normal Type Vol,Regard Vif Téméraire,LC,40,55,30,30,30,60
+544,Étourvol,Type Normal Type Vol,Intimidation Téméraire,NFE,55,75,50,40,40,80
+545,Étouraptor,Type Normal Type Vol,Intimidation Téméraire,OU,85,120,70,50,60,100
+546,Keunotor,Type Normal,Simple Inconscient Lunatique,Untiered,59,45,40,35,40,31
+547,Castorno,Type Normal Type Eau,Simple Inconscient Lunatique,Untiered,79,85,60,55,60,71
+548,Crikzik,Type Insecte,Mue Fuite,LC,37,25,41,25,41,25
+549,Mélokrik,Type Insecte,Essaim Technicien,OU,77,85,51,55,51,65
+550,Lixy,Type Électrik,Rivalité Intimidation Cran,LC,45,65,34,40,34,45
+551,Luxio,Type Électrik,Rivalité Intimidation Cran,NFE,60,85,49,60,49,60
+552,Luxray,Type Électrik,Rivalité Intimidation Cran,OU,80,120,79,95,79,70
+553,Rozbouton,Type Plante Type Poison,Médic Nature Point Poison Feuille Garde,Untiered,40,30,35,50,70,55
+554,Roserade,Type Plante Type Poison,Médic Nature Point Poison Technicien,Untiered,60,70,65,125,105,90
+555,Kranidos,Type Roche,Brise Moule Sans Limite,Untiered,67,125,40,30,30,58
+556,Charkos,Type Roche,Brise Moule Sans Limite,Untiered,97,165,60,65,50,58
+557,Dinoclier,Type Roche Type Acier,Fermeté Anti-Bruit,Untiered,30,42,118,42,88,30
+558,Bastiodon,Type Roche Type Acier,Fermeté Anti-Bruit,Untiered,60,52,168,47,138,30
+559,Cheniti Cape Plante,Type Insecte,Mue Envelocape,Untiered,40,29,45,29,45,36
+560,Cheniti Cape Déchet,Type Insecte,Mue Envelocape,Untiered,40,29,45,29,45,36
+561,Cheniti Cape Sable,Type Insecte,Mue Envelocape,Untiered,40,29,45,29,45,36
+562,Cheniselle Cape Plante,Type Insecte Type Plante,Anticipation Envelocape,Untiered,60,59,85,79,105,36
+563,Cheniselle Cape Déchet,Type Insecte Type Acier,Anticipation Envelocape,Untiered,60,69,95,69,95,36
+564,Cheniselle Cape Sable,Type Insecte Type Sol,Anticipation Envelocape,Untiered,60,79,105,59,85,36
+565,Papilord,Type Insecte Type Vol,Essaim Lentiteintée,Untiered,70,94,50,94,50,66
+566,Apitrini,Type Insecte Type Vol,Cherche Miel Agitation,LC,30,30,42,30,42,70
+567,Apireine,Type Insecte Type Vol,Pression Tension,OU,70,80,102,80,102,40
+568,Pachirisu,Type Électrik,Fuite Ramassage Absorb Volt,OU,60,45,70,45,90,95
+569,Mustébouée,Type Eau,Glissade Ignifu-Voile,LC,55,65,35,60,30,85
+570,Mustéflott,Type Eau,Glissade Ignifu-Voile,OU,85,105,55,85,50,115
+571,Ceribou,Type Plante,Chlorophylle,Untiered,45,35,45,62,53,35
+572,Ceriflor Temps Couvert,Type Plante,Don Floral,Untiered,70,60,70,87,78,85
+573,Ceriflor Temps Ensoleillé,Type Plante,Don Floral,Untiered,70,60,70,87,78,85
+574,Sancoki Ouest,Type Eau,Glue Lavabo Force Sable,LC,76,48,48,57,62,34
+575,Sancoki Est,Type Eau,Glue Lavabo Force Sable,LC,76,48,48,57,62,34
+576,Tritosor Ouest,Type Eau Type Sol,Glue Lavabo Force Sable,OU,111,83,68,92,82,39
+577,Tritosor Est,Type Eau Type Sol,Glue Lavabo Force Sable,OU,111,83,68,92,82,39
+578,Capidextre,Type Normal,Technicien Ramassage Multi-Coups,Untiered,75,100,66,60,66,115
+579,Baudrive,Type Spectre Type Vol,Boom Final Délestage Rage Brûlure,LC,90,50,34,60,44,70
+580,Grodrive,Type Spectre Type Vol,Boom Final Délestage Rage Brûlure,OU,150,80,44,90,54,80
+581,Laporeille,Type Normal,Fuite Maladresse Échauffement,Untiered,55,66,44,44,56,85
+582,Lockpin,Type Normal,Joli Sourire Maladresse Échauffement,Untiered,65,76,84,54,96,105
+583,Méga Lockpin,Type Normal Type Combat,Querelleur,Untiered,65,136,94,54,96,135
+584,Magirêve,Type Spectre,Lévitation,OU,60,60,60,105,105,105
+585,Corboss,Type Ténèbres Type Vol,Insomnia Chanceux Impudence,OU,100,125,52,105,52,71
+586,Chaglam,Type Normal,Échauffement Tempo Perso Regard Vif,Untiered,49,55,42,42,37,85
+587,Chaffreux,Type Normal,Isograisse Tempo Perso Acharné,Untiered,71,82,64,64,59,112
+588,Korillon,Type Psy,Lévitation,Untiered,45,30,50,65,50,45
+589,Moufouette,Type Poison Type Ténèbres,Puanteur Boom Final Regard Vif,LC,63,63,47,41,41,74
+590,Moufflair,Type Poison Type Ténèbres,Puanteur Boom Final Regard Vif,OU,103,93,67,71,61,84
+591,Archéomire,Type Acier Type Psy,Lévitation Ignifugé Heavy Metal,LC,57,24,86,24,86,23
+592,Archéodong,Type Acier Type Psy,Lévitation Ignifugé Heavy Metal,OU,67,89,116,79,116,33
+593,Manzaï,Type Roche,Fermeté Tête de Roc Phobique,LC,50,80,95,10,45,10
+594,Mime Jr.,Type Psy Type Fée,Anti-Bruit Filtre Technicien,Untiered,20,25,45,70,90,60
+595,Ptiravi,Type Normal,Médic Nature Sérénité Garde Amie,LC,100,5,5,15,65,30
+596,Pijako,Type Normal Type Vol,Regard Vif Pieds Confus Coeur de Coq,Untiered,76,65,45,92,42,91
+597,Spiritomb,Type Spectre Type Ténèbres,Pression Infiltration,OU,50,92,108,92,108,35
+598,Griknot,Type Dragon Type Sol,Voile Sable Peau Dure,LC,58,70,45,40,45,42
+599,Carmache,Type Dragon Type Sol,Voile Sable Peau Dure,NFE,68,90,65,50,55,82
+600,Carchacrok,Type Dragon Type Sol,Voile Sable Peau Dure,OU,108,130,95,80,85,102
+601,Méga Carchacrok,Type Dragon Type Sol,Force Sable,Untiered,108,170,115,120,95,92
+602,Goinfrex,Type Normal,Ramassage Isograisse Gloutonnerie,Untiered,135,85,40,40,85,5
+603,Riolu,Type Combat,Impassible Attention Farceur,LC,40,70,40,35,40,60
+604,Lucario,Type Combat Type Acier,Impassible Attention Coeur Noble,OU,70,110,70,115,70,90
+605,Méga Lucario,Type Combat Type Acier,Adaptabilité,Untiered,70,145,88,140,70,112
+606,Hippopotas,Type Sol,Sable Volant Force Sable,LC,68,72,78,38,42,32
+607,Hippodocus,Type Sol,Sable Volant Force Sable,OU,108,112,118,68,72,47
+608,Rapion,Type Poison Type Insecte,Armurbaston Sniper Regard Vif,Untiered,40,50,90,30,55,65
+609,Drascore,Type Poison Type Ténèbres,Armurbaston Sniper Regard Vif,Untiered,70,90,110,60,75,95
+610,Cradopaud,Type Poison Type Combat,Anticipation Peau Sèche Toxitouche,LC,48,61,40,61,40,50
+611,Coatox,Type Poison Type Combat,Anticipation Peau Sèche Toxitouche,OU,83,106,65,86,65,85
+612,Vortente,Type Plante,Lévitation,Untiered,74,100,72,90,72,46
+613,Écayon,Type Eau,Glissade Lavabo Ignifu-Voile,LC,49,49,56,49,61,66
+614,Luminéon,Type Eau,Glissade Lavabo Ignifu-Voile,OU,69,69,76,69,86,91
+615,Babimanta,Type Eau Type Vol,Glissade Absorb Eau Ignifu-Voile,Untiered,45,20,50,60,120,50
+616,Blizzi,Type Plante Type Glace,Alerte Neige Anti-Bruit,LC,60,62,50,62,60,40
+617,Blizzaroi,Type Plante Type Glace,Alerte Neige Anti-Bruit,OU,90,92,75,92,85,60
+618,Méga Blizzaroi,Type Plante Type Glace,Alerte Neige,Untiered,90,132,105,132,105,30
+619,Dimoret,Type Ténèbres Type Glace,Pression Pickpocket,OU,70,120,65,45,85,125
+620,Magnézone,Type Électrik Type Acier,Magnépiège Fermeté Analyste,OU,70,70,115,130,90,60
+621,Coudlangue,Type Normal,Tempo Perso Benêt Ciel Gris,Untiered,110,85,95,80,95,50
+622,Rhinastoc,Type Sol Type Roche,Paratonnerre Solide Roc Téméraire,Untiered,115,140,130,55,55,40
+623,Bouldeneu,Type Plante,Chlorophylle Feuille Garde Régé-Force,Untiered,100,100,125,110,50,50
+624,Élekable,Type Électrik,Motorisé Esprit Vital,Untiered,75,123,67,95,85,95
+625,Maganon,Type Feu,Corps Ardent Esprit Vital,Untiered,75,95,67,125,95,83
+626,Togekiss,Type Fée Type Vol,Agitation Sérénité Chanceux,Untiered,85,50,95,120,115,80
+627,Yanméga,Type Insecte Type Vol,Turbo Lentiteintée Fouille,Untiered,86,76,86,116,56,95
+628,Phyllali,Type Plante,Feuille Garde Chlorophylle,OU,65,110,130,60,65,95
+629,Givrali,Type Glace,Rideau Neige Corps Gel,OU,65,60,110,130,95,65
+630,Scorvol,Type Sol Type Vol,Hyper Cutter Voile Sable Soin Poison,Untiered,75,95,125,45,75,95
+631,Mammochon,Type Glace Type Sol,Benêt Rideau Neige Isograisse,Untiered,110,130,80,70,60,80
+632,Porygon-Z,Type Normal,Adaptabilité Télécharge Analyste,Untiered,85,80,70,135,75,90
+633,Gallame,Type Psy Type Combat,Impassible Incisif Coeur Noble,OU,68,125,65,65,115,80
+634,Méga Gallame,Type Psy Type Combat,Attention,Untiered,68,165,95,65,115,110
+635,Tarinorme,Type Roche Type Acier,Fermeté Magnépiège Force Sable,Untiered,60,55,145,75,150,40
+636,Noctunoir,Type Spectre,Pression Fouille,Untiered,45,100,135,65,135,45
+637,Momartik,Type Glace Type Spectre,Rideau Neige Corps Maudit,OU,70,80,70,80,70,110
+638,Motisma,Type Électrik Type Spectre,Lévitation,OU,50,50,77,95,77,91
+639,Motisma Lavage,Type Électrik Type Eau,Lévitation,OU,50,65,107,105,107,86
+640,Motisma Tonte,Type Électrik Type Plante,Lévitation,OU,50,65,107,105,107,86
+641,Motisma Froid,Type Électrik Type Glace,Lévitation,OU,50,65,107,105,107,86
+642,Motisma Chaleur,Type Électrik Type Feu,Lévitation,OU,50,65,107,105,107,86
+643,Motisma Hélice,Type Électrik Type Vol,Lévitation,OU,50,65,107,105,107,86
+644,Créhelf,Type Psy,Lévitation,Untiered,75,75,130,75,130,95
+645,Créfollet,Type Psy,Lévitation,Untiered,80,105,105,105,105,80
+646,Créfadet,Type Psy,Lévitation,Untiered,75,125,70,125,70,115
+647,Dialga,Type Acier Type Dragon,Pression Télépathe,Untiered,100,120,120,150,100,90
+648,Dialga Originel,Type Acier Type Dragon,Pression Télépathe,Untiered,100,100,120,150,120,90
+649,Palkia,Type Eau Type Dragon,Pression Télépathe,Untiered,90,120,100,150,120,100
+650,Palkia Originel,Type Eau Type Dragon,Pression Télépathe,Untiered,90,100,100,150,120,120
+651,Heatran,Type Feu Type Acier,Torche Corps Ardent,Untiered,91,90,106,130,106,77
+652,Regigigas,Type Normal,Début Calme,Untiered,110,160,110,80,110,100
+653,Giratina,Type Spectre Type Dragon,Pression Télépathe,Untiered,150,100,120,100,120,90
+654,Giratina Originel,Type Spectre Type Dragon,Lévitation,Untiered,150,120,100,120,100,90
+655,Cresselia,Type Psy,Lévitation,Untiered,120,70,110,75,120,85
+656,Phione,Type Eau,Hydratation,Untiered,80,80,80,80,80,80
+657,Manaphy,Type Eau,Hydratation,Untiered,100,100,100,100,100,100
+658,Darkrai,Type Ténèbres,Mauvais Rêve,Untiered,70,90,90,135,90,125
+659,Shaymin,Type Plante,Médic Nature,Untiered,100,100,100,100,100,100
+660,Shaymin Céleste,Type Plante Type Vol,Sérénité,Untiered,100,103,75,120,75,127
+661,Arceus,Type Normal,Multitype,Untiered,120,120,120,120,120,120
+662,Arceus Électrik,Type Électrik,Multitype,Untiered,120,120,120,120,120,120
+663,Arceus Feu,Type Feu,Multitype,Untiered,120,120,120,120,120,120
+664,Arceus Ténèbres,Type Ténèbres,Multitype,Untiered,120,120,120,120,120,120
+665,Arceus Dragon,Type Dragon,Multitype,Untiered,120,120,120,120,120,120
+666,Arceus Sol,Type Sol,Multitype,Untiered,120,120,120,120,120,120
+667,Arceus Fée,Type Fée,Multitype,Untiered,120,120,120,120,120,120
+668,Arceus Combat,Type Combat,Multitype,Untiered,120,120,120,120,120,120
+669,Arceus Psy,Type Psy,Multitype,Untiered,120,120,120,120,120,120
+670,Arceus Vol,Type Vol,Multitype,Untiered,120,120,120,120,120,120
+671,Arceus Roche,Type Roche,Multitype,Untiered,120,120,120,120,120,120
+672,Arceus Plante,Type Plante,Multitype,Untiered,120,120,120,120,120,120
+673,Arceus Insecte,Type Insecte,Multitype,Untiered,120,120,120,120,120,120
+674,Arceus Glace,Type Glace,Multitype,Untiered,120,120,120,120,120,120
+675,Arceus Poison,Type Poison,Multitype,Untiered,120,120,120,120,120,120
+676,Arceus Eau,Type Eau,Multitype,Untiered,120,120,120,120,120,120
+677,Arceus Spectre,Type Spectre,Multitype,Untiered,120,120,120,120,120,120
+678,Arceus Acier,Type Acier,Multitype,Untiered,120,120,120,120,120,120
+679,Victini,Type Psy Type Feu,Victorieux,Untiered,100,100,100,100,100,100
+680,Vipélierre,Type Plante,Engrais Contestation,Untiered,45,45,55,45,55,63
+681,Lianaja,Type Plante,Engrais Contestation,Untiered,60,60,75,60,75,83
+682,Majaspic,Type Plante,Engrais Contestation,Untiered,75,75,95,75,95,113
+683,Gruikui,Type Feu,Brasier Isograisse,Untiered,65,63,45,45,45,45
+684,Grotichon,Type Feu Type Combat,Brasier Isograisse,Untiered,90,93,55,70,55,55
+685,Roitiflam,Type Feu Type Combat,Brasier Téméraire,Untiered,110,123,65,100,65,65
+686,Moustillon,Type Eau,Torrent Coque Armure,Untiered,55,55,45,63,45,45
+687,Mateloutre,Type Eau,Torrent Coque Armure,Untiered,75,75,60,83,60,60
+688,Clamiral,Type Eau,Torrent Coque Armure,Untiered,95,100,85,108,70,70
+689,Clamiral de Hisui,Type Eau Type Ténèbres,Torrent Incisif,Untiered,90,108,80,100,65,85
+690,Ratentif,Type Normal,Fuite Regard Vif Analyste,Untiered,45,55,39,35,39,42
+691,Miradar,Type Normal,Lumiattirance Regard Vif Analyste,Untiered,60,85,69,60,69,77
+692,Ponchiot,Type Normal,Esprit Vital Ramassage Fuite,Untiered,45,60,45,25,45,55
+693,Ponchien,Type Normal,Intimidation Baigne Sable Querelleur,Untiered,65,80,65,35,65,60
+694,Mastouffe,Type Normal,Intimidation Baigne Sable Querelleur,Untiered,85,110,90,45,90,80
+695,Chacripan,Type Ténèbres,Échauffement Délestage Farceur,Untiered,41,50,37,50,37,66
+696,Léopardus,Type Ténèbres,Échauffement Délestage Farceur,Untiered,64,88,50,88,50,106
+697,Feuillajou,Type Plante,Gloutonnerie Engrais,Untiered,50,53,48,53,48,64
+698,Feuiloutan,Type Plante,Gloutonnerie Engrais,Untiered,75,98,63,98,63,101
+699,Flamajou,Type Feu,Gloutonnerie Brasier,Untiered,50,53,48,53,48,64
+700,Flamoutan,Type Feu,Gloutonnerie Brasier,Untiered,75,98,63,98,63,101
+701,Flotajou,Type Eau,Gloutonnerie Torrent,Untiered,50,53,48,53,48,64
+702,Flotoutan,Type Eau,Gloutonnerie Torrent,Untiered,75,98,63,98,63,101
+703,Munna,Type Psy,Prédiction Synchro Télépathe,Untiered,76,25,45,67,55,24
+704,Mushana,Type Psy,Prédiction Synchro Télépathe,Untiered,116,55,85,107,95,29
+705,Poichigeon,Type Normal Type Vol,Coeur de Coq Chanceux Rivalité,Untiered,50,55,50,36,30,43
+706,Colombeau,Type Normal Type Vol,Coeur de Coq Chanceux Rivalité,Untiered,62,77,62,50,42,65
+707,Déflaisan,Type Normal Type Vol,Coeur de Coq Chanceux Rivalité,Untiered,80,115,80,65,55,93
+708,Zébibron,Type Électrik,Paratonnerre Motorisé Herbivore,Untiered,45,60,32,50,32,76
+709,Zéblitz,Type Électrik,Paratonnerre Motorisé Herbivore,Untiered,75,100,63,80,63,116
+710,Nodulithe,Type Roche,Fermeté Armurouillée Force Sable,Untiered,55,75,85,25,25,15
+711,Géolithe,Type Roche,Fermeté Armurouillée Force Sable,Untiered,70,105,105,50,40,20
+712,Gigalithe,Type Roche,Fermeté Sable Volant Force Sable,Untiered,85,135,130,60,80,25
+713,Chovsourir,Type Psy Type Vol,Inconscient Maladresse Simple,Untiered,65,45,43,55,43,72
+714,Rhinolove,Type Psy Type Vol,Inconscient Maladresse Simple,Untiered,67,57,55,77,55,114
+715,Rototaupe,Type Sol,Baigne Sable Force Sable Brise Moule,Untiered,60,85,40,30,45,68
+716,Minotaupe,Type Sol Type Acier,Baigne Sable Force Sable Brise Moule,Untiered,110,135,60,50,65,88
+717,Nanméouïe,Type Normal,Coeur Soin Régé-Force Maladresse,Untiered,103,60,86,60,86,50
+718,Méga Nanméouïe,Type Normal Type Fée,Coeur Soin,Untiered,103,60,126,80,126,50
+719,Charpenti,Type Combat,Cran Sans Limite Poing de Fer,Untiered,75,80,55,25,35,35
+720,Ouvrifier,Type Combat,Cran Sans Limite Poing de Fer,Untiered,85,105,85,40,50,40
+721,Bétochef,Type Combat,Cran Sans Limite Poing de Fer,Untiered,105,140,95,55,65,45
+722,Tritonde,Type Eau,Glissade Hydratation Absorb Eau,Untiered,50,50,40,50,40,64
+723,Batracné,Type Eau Type Sol,Glissade Hydratation Absorb Eau,Untiered,75,65,55,65,55,69
+724,Crapustule,Type Eau Type Sol,Glissade Toxitouche Absorb Eau,Untiered,105,95,75,85,75,74
+725,Judokrak,Type Combat,Cran Attention Brise Moule,Untiered,120,100,85,30,85,45
+726,Karaclée,Type Combat,Fermeté Attention Brise Moule,Untiered,75,125,75,30,75,85
+727,Larveyette,Type Insecte Type Plante,Essaim Chlorophylle Envelocape,Untiered,45,53,70,40,60,42
+728,Couverdure,Type Insecte Type Plante,Feuille Garde Chlorophylle Envelocape,Untiered,55,63,90,50,80,42
+729,Manternel,Type Insecte Type Plante,Essaim Chlorophylle Envelocape,Untiered,75,103,80,70,80,92
+730,Venipatte,Type Insecte Type Poison,Point Poison Essaim Turbo,Untiered,30,45,59,30,39,57
+731,Scobolide,Type Insecte Type Poison,Point Poison Essaim Turbo,Untiered,40,55,99,40,79,47
+732,Brutapode,Type Insecte Type Poison,Point Poison Essaim Turbo,Untiered,60,100,89,55,69,112
+733,Doudouvet,Type Plante Type Fée,Farceur Infiltration Chlorophylle,Untiered,40,27,60,37,50,66
+734,Farfaduvet,Type Plante Type Fée,Farceur Infiltration Chlorophylle,Untiered,60,67,85,77,75,116
+735,Chlorobule,Type Plante,Chlorophylle Tempo Perso Feuille Garde,LC,45,35,50,70,50,30
+736,Fragilady,Type Plante,Chlorophylle Tempo Perso Feuille Garde,OU,70,60,75,110,75,90
+737,Fragilady de Hisui,Type Plante Type Combat,Chlorophylle Agitation Feuille Garde,Untiered,70,105,75,50,75,105
+738,Bargantua Motif Rouge,Type Eau,Téméraire Adaptabilité Brise Moule,OU,70,92,65,80,55,98
+739,Bargantua Motif Bleu,Type Eau,Tête de Roc Adaptabilité Brise Moule,OU,70,92,65,80,55,98
+740,Bargantua Motif Blanc,Type Eau,Phobique Adaptabilité Brise Moule,Untiered,70,92,65,80,55,98
+741,Mascaïman,Type Sol Type Ténèbres,Intimidation Impudence Colérique,LC,50,72,35,35,35,65
+742,Escroco,Type Sol Type Ténèbres,Intimidation Impudence Colérique,NFE,60,82,45,45,45,74
+743,Crocorible,Type Sol Type Ténèbres,Intimidation Impudence Colérique,OU,95,117,80,65,70,92
+744,Darumarond,Type Feu,Agitation Attention,Untiered,70,90,45,15,45,50
+745,Darumarond de Galar,Type Glace,Agitation Attention,Untiered,70,90,45,15,45,50
+746,Darumacho,Type Feu,Sans Limite Mode Transe,Untiered,105,140,55,30,55,95
+747,Darumacho de Galar Mode Transe,Type Glace Type Feu,Mode Transe,Untiered,105,160,55,30,55,135
+748,Darumacho Mode Transe,Type Feu Type Psy,Mode Transe,Untiered,105,30,105,140,105,55
+749,Darumacho de Galar,Type Glace,Entêtement Mode Transe,Untiered,105,140,55,30,55,95
+750,Maracachi,Type Plante,Absorb Eau Chlorophylle Lavabo,Untiered,75,86,67,106,67,60
+751,Crabicoque,Type Insecte Type Roche,Fermeté Coque Armure Armurouillée,Untiered,50,65,85,35,35,55
+752,Crabaraque,Type Insecte Type Roche,Fermeté Coque Armure Armurouillée,Untiered,70,105,125,65,75,45
+753,Baggiguane,Type Ténèbres Type Combat,Mue Impudence Intimidation,Untiered,50,75,70,35,70,48
+754,Baggaïd,Type Ténèbres Type Combat,Mue Impudence Intimidation,Untiered,65,90,115,45,115,58
+755,Cryptéro,Type Psy Type Vol,Peau Miracle Garde Magik Lentiteintée,Untiered,72,58,80,103,80,97
+756,Tutafeh,Type Spectre,Momie,Untiered,38,30,85,55,65,30
+757,Tutafeh de Galar,Type Sol Type Spectre,Âme Vagabonde,Untiered,38,55,85,30,65,30
+758,Tutankafer,Type Spectre,Momie,Untiered,58,50,145,95,105,30
+759,Carapagos,Type Eau Type Roche,Solide Roc Fermeté Glissade,Untiered,54,78,103,53,45,22
+760,Mégapagos,Type Eau Type Roche,Solide Roc Fermeté Glissade,Untiered,74,108,133,83,65,32
+761,Arkéapti,Type Roche Type Vol,Défaitiste,Untiered,55,112,45,74,45,70
+762,Aéroptéryx,Type Roche Type Vol,Défaitiste,Untiered,75,140,65,112,65,110
+763,Miamiasme,Type Poison,Puanteur Glue Boom Final,Untiered,50,50,62,40,62,65
+764,Miasmax,Type Poison,Puanteur Armurouillée Boom Final,Untiered,80,95,82,60,82,75
+765,Miasmax Gigamax,Type Poison,Puanteur Armurouillée Boom Final,Untiered,80,95,82,60,82,75
+766,Zorua,Type Ténèbres,Illusion,LC,40,65,40,80,40,65
+767,Zorua de Hisui,Type Normal Type Spectre,Illusion,Untiered,35,60,40,85,40,70
+768,Zoroark,Type Ténèbres,Illusion,OU,60,105,60,120,60,105
+769,Zoroark de Hisui,Type Normal Type Spectre,Illusion,Untiered,60,105,60,120,60,105
+770,Chinchidou,Type Normal,Joli Sourire Technicien Multi-Coups,Untiered,55,50,40,40,40,75
+771,Pashmilla,Type Normal,Joli Sourire Technicien Multi-Coups,Untiered,75,95,60,65,60,115
+772,Scrutella,Type Psy,Fouille Battant Marque Ombre,LC,45,30,50,55,65,45
+773,Mesmérella,Type Psy,Fouille Battant Marque Ombre,NFE,60,45,70,75,85,55
+774,Sidérella,Type Psy,Fouille Battant Marque Ombre,OU,70,55,95,95,110,65
+775,Nucléos,Type Psy,Envelocape Garde Magik Régé-Force,Untiered,45,30,40,105,50,20
+776,Méios,Type Psy,Envelocape Garde Magik Régé-Force,Untiered,65,40,50,125,60,30
+777,Symbios,Type Psy,Envelocape Garde Magik Régé-Force,Untiered,110,65,75,125,85,30
+778,Couaneton,Type Eau Type Vol,Regard Vif Coeur de Coq Hydratation,Untiered,62,44,50,44,50,55
+779,Lakmécygne,Type Eau Type Vol,Regard Vif Coeur de Coq Hydratation,Untiered,75,87,63,87,63,98
+780,Sorbébé,Type Glace,Corps Gel Rideau Neige Armurouillée,Untiered,36,50,50,65,60,44
+781,Sorboul,Type Glace,Corps Gel Rideau Neige Armurouillée,Untiered,51,65,65,80,75,59
+782,Sorbouboul,Type Glace,Corps Gel Alerte Neige Armurouillée,Untiered,71,95,85,110,95,79
+783,Vivaldaim du Printemps,Type Normal Type Plante,Chlorophylle Herbivore Sérénité,LC,60,60,50,40,50,75
+784,Vivaldaim de l'Automne,Type Normal Type Plante,Chlorophylle Herbivore Sérénité,LC,60,60,50,40,50,75
+785,Vivaldaim de l'Hiver,Type Normal Type Plante,Chlorophylle Herbivore Sérénité,LC,60,60,50,40,50,75
+786,Vivaldaim de l'Été,Type Normal Type Plante,Chlorophylle Herbivore Sérénité,LC,60,60,50,40,50,75
+787,Haydaim,Type Normal Type Plante,Chlorophylle Herbivore Sérénité,OU,80,100,70,60,70,95
+788,Haydaim de l'Été,Type Normal Type Plante,Chlorophylle Herbivore Sérénité,OU,80,100,70,60,70,95
+789,Haydaim de l'Automne,Type Normal Type Plante,Chlorophylle Herbivore Sérénité,OU,80,100,70,60,70,95
+790,Haydaim de l'Hiver,Type Normal Type Plante,Chlorophylle Herbivore Sérénité,OU,80,100,70,60,70,95
+791,Emolga,Type Électrik Type Vol,Statik Motorisé,Untiered,55,75,60,75,60,103
+792,Carabing,Type Insecte,Essaim Mue Annule Garde,Untiered,50,75,45,40,45,60
+793,Lançargot,Type Insecte Type Acier,Essaim Coque Armure Envelocape,Untiered,70,135,105,60,105,20
+794,Trompignon,Type Plante Type Poison,Pose Spore Régé-Force,LC,69,55,45,55,55,15
+795,Gaulet,Type Plante Type Poison,Pose Spore Régé-Force,OU,114,85,70,85,80,30
+796,Viskuse,Type Eau Type Spectre,Absorb Eau Corps Maudit Moiteur,Untiered,55,40,50,65,85,40
+797,Moyade,Type Eau Type Spectre,Absorb Eau Corps Maudit Moiteur,Untiered,100,60,70,85,105,60
+798,Mamanbo,Type Eau,Coeur Soin Hydratation Régé-Force,OU,165,75,80,40,45,65
+799,Statitik,Type Insecte Type Électrik,Oeil Composé Tension Essaim,Untiered,50,47,50,57,50,65
+800,Mygavolt,Type Insecte Type Électrik,Oeil Composé Tension Essaim,Untiered,70,77,60,97,60,108
+801,Grindur,Type Plante Type Acier,Épine de Fer,Untiered,44,50,91,24,86,10
+802,Noacier,Type Plante Type Acier,Épine de Fer Anticipation,Untiered,74,94,131,54,116,20
+803,Tic,Type Acier,Plus Minus Corps Sain,Untiered,40,55,70,45,60,30
+804,Clic,Type Acier,Plus Minus Corps Sain,Untiered,60,80,95,70,85,50
+805,Cliticlic,Type Acier,Plus Minus Corps Sain,Untiered,60,100,115,70,85,90
+806,Anchwatt,Type Électrik,Lévitation,LC,35,55,40,45,40,60
+807,Lampéroie,Type Électrik,Lévitation,NFE,65,85,70,75,70,40
+808,Ohmassacre,Type Électrik,Lévitation,OU,85,115,80,105,80,50
+809,Lewsor,Type Psy,Télépathe Synchro Analyste,Untiered,55,55,55,85,55,30
+810,Neitram,Type Psy,Télépathe Synchro Analyste,Untiered,75,75,75,125,95,40
+811,Funécire,Type Spectre Type Feu,Torche Corps Ardent Infiltration,Untiered,50,30,55,65,55,20
+812,Mélancolux,Type Spectre Type Feu,Torche Corps Ardent Infiltration,Untiered,60,40,60,95,60,55
+813,Lugulabre,Type Spectre Type Feu,Torche Corps Ardent Infiltration,Untiered,60,55,90,145,90,80
+814,Coupenotte,Type Dragon,Rivalité Brise Moule Tension,LC,46,87,60,30,40,57
+815,Incisache,Type Dragon,Rivalité Brise Moule Tension,NFE,66,117,70,40,50,67
+816,Tranchodon,Type Dragon,Rivalité Brise Moule Tension,OU,76,147,90,60,70,97
+817,Polarhume,Type Glace,Rideau Neige Chasse-Neige Phobique,LC,55,70,40,60,40,40
+818,Polagriffe,Type Glace,Rideau Neige Chasse-Neige Glissade,OU,95,130,80,70,80,50
+819,Hexagel,Type Glace,Lévitation,OU,80,50,50,95,135,105
+820,Escargaume,Type Insecte,Hydratation Coque Armure Envelocape,Untiered,50,40,85,40,65,25
+821,Limaspeed,Type Insecte,Hydratation Glue Délestage,Untiered,80,70,40,100,60,145
+822,Limonde,Type Sol Type Électrik,Statik Échauffement Voile Sable,Untiered,109,66,84,81,99,32
+823,Limonde de Galar,Type Sol Type Acier,Mimétisme,Untiered,109,81,99,66,84,32
+824,Kungfouine,Type Combat,Attention Régé-Force Téméraire,Untiered,45,85,50,55,50,65
+825,Shaofouine,Type Combat,Attention Régé-Force Téméraire,Untiered,65,125,60,95,60,105
+826,Drakkarmin,Type Dragon,Peau Dure Sans Limite Brise Moule,Untiered,77,120,90,60,90,48
+827,Gringolem,Type Sol Type Spectre,Poing de Fer Maladresse Annule Garde,Untiered,59,74,50,35,50,35
+828,Golemastoc,Type Sol Type Spectre,Poing de Fer Maladresse Annule Garde,Untiered,89,124,80,55,80,55
+829,Scalpion,Type Ténèbres Type Acier,Acharné Attention Pression,LC,45,85,70,40,40,60
+830,Scalproie,Type Ténèbres Type Acier,Acharné Attention Pression,NFE,65,125,100,60,70,70
+831,Frison,Type Normal,Téméraire Herbivore Anti-Bruit,Untiered,95,110,95,40,95,55
+832,Furaiglon,Type Normal Type Vol,Regard Vif Sans Limite Agitation,LC,70,83,50,37,50,60
+833,Gueriaigle,Type Normal Type Vol,Regard Vif Sans Limite Acharné,OU,100,123,75,57,75,80
+834,Gueriaigle de Hisui,Type Psy Type Vol,Regard Vif Sans Limite Lentiteintée,Untiered,110,83,70,112,70,65
+835,Vostourno,Type Ténèbres Type Vol,Coeur de Coq Envelocape Armurouillée,Untiered,70,55,75,45,65,60
+836,Vaututrice,Type Ténèbres Type Vol,Coeur de Coq Envelocape Armurouillée,Untiered,110,65,105,55,95,80
+837,Aflamanoir,Type Feu,Gloutonnerie Torche Écran Fumée,Untiered,85,97,66,105,66,65
+838,Fermite,Type Insecte Type Acier,Essaim Agitation Absentéisme,Untiered,58,109,112,48,48,109
+839,Solochi,Type Ténèbres Type Dragon,Agitation,LC,52,65,50,45,50,38
+840,Diamat,Type Ténèbres Type Dragon,Agitation,NFE,72,85,70,65,70,58
+841,Trioxhydre,Type Ténèbres Type Dragon,Lévitation,OU,92,105,90,125,90,98
+842,Pyronille,Type Insecte Type Feu,Corps Ardent Essaim,LC,55,85,55,50,55,60
+843,Pyrax,Type Insecte Type Feu,Corps Ardent Essaim,OU,85,60,65,135,105,100
+844,Cobaltium,Type Acier Type Combat,Coeur Noble,Untiered,91,90,129,90,72,108
+845,Terrakium,Type Roche Type Combat,Coeur Noble,Untiered,91,129,90,72,90,108
+846,Viridium,Type Plante Type Combat,Coeur Noble,Untiered,91,90,72,90,129,108
+847,Boréas,Type Vol,Farceur Acharné,Untiered,79,115,70,125,80,111
+848,Boréas Totémique,Type Vol,Régé-Force,Untiered,79,100,80,110,90,121
+849,Fulguris,Type Électrik Type Vol,Farceur Acharné,Untiered,79,115,70,125,80,111
+850,Fulguris Totémique,Type Électrik Type Vol,Absorb Volt,Untiered,79,105,70,145,80,101
+851,Reshiram,Type Dragon Type Feu,TurboBrasier,Untiered,100,120,100,150,120,90
+852,Zekrom,Type Dragon Type Électrik,Téra-Voltage,Untiered,100,150,120,120,100,90
+853,Démétéros,Type Sol Type Vol,Force Sable Sans Limite,Untiered,89,125,90,115,80,101
+854,Démétéros Totémique,Type Sol Type Vol,Intimidation,Untiered,89,145,90,105,80,91
+855,Kyurem,Type Dragon Type Glace,Pression,Untiered,125,130,90,130,90,95
+856,Kyurem Noir,Type Dragon Type Glace,Téra-Voltage,Untiered,125,170,100,120,90,95
+857,Kyurem Blanc,Type Dragon Type Glace,TurboBrasier,Untiered,125,120,90,170,100,95
+858,Keldeo,Type Eau Type Combat,Coeur Noble,Untiered,91,72,90,129,90,108
+859,Keldeo Décidé,Type Eau Type Combat,Coeur Noble,Untiered,91,72,90,129,90,108
+860,Meloetta,Type Normal Type Psy,Sérénité,Untiered,100,77,77,128,128,90
+861,Meloetta Danse,Type Normal Type Combat,Sérénité,Untiered,100,128,90,77,77,128
+862,Genesect,Type Insecte Type Acier,Télécharge,Untiered,71,120,95,120,95,99
+863,Genesect Cryo,Type Insecte Type Acier,Télécharge,Untiered,71,120,95,120,95,99
+864,Genesect Pyro,Type Insecte Type Acier,Télécharge,Untiered,71,120,95,120,95,99
+865,Genesect Aqua,Type Insecte Type Acier,Télécharge,Untiered,71,120,95,120,95,99
+866,Genesect Choc,Type Insecte Type Acier,Télécharge,Untiered,71,120,95,120,95,99
+867,Marisson,Type Plante,Engrais Pare-Balles,Untiered,56,61,65,48,45,38
+868,Boguérisse,Type Plante,Engrais Pare-Balles,Untiered,61,78,95,56,58,57
+869,Blindépique,Type Plante Type Combat,Engrais Pare-Balles,Untiered,88,107,122,74,75,64
+870,Feunnec,Type Feu,Brasier Magicien,Untiered,40,45,40,62,60,60
+871,Roussil,Type Feu,Brasier Magicien,Untiered,59,59,58,90,70,73
+872,Goupelin,Type Feu Type Psy,Brasier Magicien,Untiered,75,69,72,114,100,104
+873,Grenousse,Type Eau,Torrent Protéen,Untiered,41,56,40,62,44,71
+874,Croâporal,Type Eau,Torrent Protéen,Untiered,54,63,52,83,56,97
+875,Amphinobi,Type Eau Type Ténèbres,Torrent Synergie Protéen,Untiered,72,95,67,103,71,122
+876,Amphinobi de Sacha,Type Eau Type Ténèbres,Synergie,Untiered,72,145,67,153,71,132
+877,Sapereau,Type Normal,Ramassage Bajoues Coloforce,Untiered,38,36,38,32,36,57
+878,Excavarenne,Type Normal Type Sol,Ramassage Bajoues Coloforce,Untiered,85,56,77,50,77,78
+879,Passerouge,Type Normal Type Vol,Coeur de Coq Ailes Bourrasque,LC,45,50,43,40,38,62
+880,Braisillon,Type Feu Type Vol,Corps Ardent Ailes Bourrasque,NFE,62,73,55,56,52,84
+881,Flambusard,Type Feu Type Vol,Corps Ardent Ailes Bourrasque,OU,78,81,71,74,69,126
+882,Lépidonille,Type Insecte,Écran Poudre Oeil Composé Garde Amie,LC,38,35,40,27,25,35
+883,Pérégrain,Type Insecte,Mue Garde Amie,NFE,45,22,60,27,30,29
+884,Prismillon,Type Insecte Type Vol,Écran Poudre Oeil Composé Garde Amie,Untiered,80,52,50,90,50,89
+885,Prismillon Motif Monarchie,Type Insecte Type Vol,Écran Poudre Oeil Composé Garde Amie,Untiered,80,52,50,90,50,89
+886,Prismillon Motif Métropole,Type Insecte Type Vol,Écran Poudre Oeil Composé Garde Amie,Untiered,80,52,50,90,50,89
+887,Prismillon Motif Archipel,Type Insecte Type Vol,Écran Poudre Oeil Composé Garde Amie,Untiered,80,52,50,90,50,89
+888,Prismillon Motif Continent,Type Insecte Type Vol,Écran Poudre Oeil Composé Garde Amie,Untiered,80,52,50,90,50,89
+889,Prismillon Motif Rivage,Type Insecte Type Vol,Écran Poudre Oeil Composé Garde Amie,Untiered,80,52,50,90,50,89
+890,Prismillon Motif Soleil Levant,Type Insecte Type Vol,Écran Poudre Oeil Composé Garde Amie,Untiered,80,52,50,90,50,89
+891,Prismillon Motif Glace,Type Insecte Type Vol,Écran Poudre Oeil Composé Garde Amie,Untiered,80,52,50,90,50,89
+892,Prismillon Motif Sécheresse,Type Insecte Type Vol,Écran Poudre Oeil Composé Garde Amie,Untiered,80,52,50,90,50,89
+893,Prismillon Motif Verdure,Type Insecte Type Vol,Écran Poudre Oeil Composé Garde Amie,Untiered,80,52,50,90,50,89
+894,Prismillon Motif Jungle,Type Insecte Type Vol,Écran Poudre Oeil Composé Garde Amie,Untiered,80,52,50,90,50,89
+895,Prismillon Motif Zénith,Type Insecte Type Vol,Écran Poudre Oeil Composé Garde Amie,Untiered,80,52,50,90,50,89
+896,Prismillon Motif Mangrove,Type Insecte Type Vol,Écran Poudre Oeil Composé Garde Amie,Untiered,80,52,50,90,50,89
+897,Prismillon Motif Blizzard,Type Insecte Type Vol,Écran Poudre Oeil Composé Garde Amie,Untiered,80,52,50,90,50,89
+898,Prismillon Motif Fantaisie,Type Insecte Type Vol,Écran Poudre Oeil Composé Garde Amie,OU,80,52,50,90,50,89
+899,Prismillon Motif Delta,Type Insecte Type Vol,Écran Poudre Oeil Composé Garde Amie,Untiered,80,52,50,90,50,89
+900,Prismillon Motif Sable,Type Insecte Type Vol,Écran Poudre Oeil Composé Garde Amie,Untiered,80,52,50,90,50,89
+901,Prismillon Motif Banquise,Type Insecte Type Vol,Écran Poudre Oeil Composé Garde Amie,Untiered,80,52,50,90,50,89
+902,Prismillon Motif Pokéball,Type Insecte Type Vol,Écran Poudre Oeil Composé,Untiered,80,52,50,90,50,89
+903,Prismillon Motif Cyclone,Type Insecte Type Vol,Écran Poudre Oeil Composé Garde Amie,Untiered,80,52,50,90,50,89
+904,Hélionceau,Type Feu Type Normal,Rivalité Tension Impudence,LC,62,50,58,73,54,72
+905,Némélios,Type Feu Type Normal,Rivalité Tension Impudence,OU,86,68,72,109,66,106
+906,Flabébé Rouge,Type Fée,Flora-Voile Symbiose,LC,44,38,39,61,79,42
+907,Flabébé Orange,Type Fée,Flora-Voile Symbiose,LC,44,38,39,61,79,42
+908,Flabébé Blanche,Type Fée,Flora-Voile Symbiose,LC,44,38,39,61,79,42
+909,Flabébé Bleue,Type Fée,Flora-Voile Symbiose,LC,44,38,39,61,79,42
+910,Flabébé Jaune,Type Fée,Flora-Voile Symbiose,LC,44,38,39,61,79,42
+911,Floette Rouge,Type Fée,Flora-Voile Symbiose,NFE,54,45,47,75,98,52
+912,Floette Bleue,Type Fée,Flora-Voile Symbiose,NFE,54,45,47,75,98,52
+913,Floette Jaune,Type Fée,Flora-Voile Symbiose,NFE,54,45,47,75,98,52
+914,Floette Orange,Type Fée,Flora-Voile Symbiose,NFE,54,45,47,75,98,52
+915,Floette Blanche,Type Fée,Flora-Voile Symbiose,NFE,54,45,47,75,98,52
+916,Floette Fleur Éternelle,Type Fée,Flora-Voile,Untiered,74,65,67,125,128,92
+917,Florges Rouge,Type Fée,Flora-Voile Symbiose,OU,78,65,68,112,154,75
+918,Florges Bleue,Type Fée,Flora-Voile Symbiose,OU,78,65,68,112,154,75
+919,Florges Orange,Type Fée,Flora-Voile Symbiose,OU,78,65,68,112,154,75
+920,Florges Blanche,Type Fée,Flora-Voile Symbiose,OU,78,65,68,112,154,75
+921,Florges Jaune,Type Fée,Flora-Voile Symbiose,OU,78,65,68,112,154,75
+922,Cabriolaine,Type Plante,Herbivore Toison Herbue,LC,66,65,48,62,57,52
+923,Chevroum,Type Plante,Herbivore Toison Herbue,OU,123,100,62,97,81,68
+924,Pandespiègle,Type Combat,Poing de Fer Brise Moule Querelleur,Untiered,67,82,62,46,48,43
+925,Pandarbare,Type Combat Type Ténèbres,Poing de Fer Brise Moule Querelleur,Untiered,95,124,78,69,71,58
+926,Couafarel,Type Normal,Toison Épaisse,Untiered,75,80,60,65,90,102
+927,Couafarel Coupe Monsieur,Type Normal,Toison Épaisse,Untiered,75,80,60,65,90,102
+928,Couafarel Coupe Diamant,Type Normal,Toison Épaisse,Untiered,75,80,60,65,90,102
+929,Couafarel Coupe Reine,Type Normal,Toison Épaisse,Untiered,75,80,60,65,90,102
+930,Couafarel Coupe Madame,Type Normal,Toison Épaisse,Untiered,75,80,60,65,90,102
+931,Couafarel Coupe Pharahon,Type Normal,Toison Épaisse,Untiered,75,80,60,65,90,102
+932,Couafarel Coupe Étoile,Type Normal,Toison Épaisse,Untiered,75,80,60,65,90,102
+933,Couafarel Coupe Kabuki,Type Normal,Toison Épaisse,Untiered,75,80,60,65,90,102
+934,Couafarel Coupe Demoiselle,Type Normal,Toison Épaisse,Untiered,75,80,60,65,90,102
+935,Couafarel Coupe Coeur,Type Normal,Toison Épaisse,Untiered,75,80,60,65,90,102
+936,Psystigri,Type Psy,Regard Vif Infiltration Tempo Perso,Untiered,62,48,54,63,60,68
+937,Mistigrix Mâle,Type Psy,Regard Vif Infiltration Farceur,Untiered,74,48,76,83,81,104
+938,Mistigrix Femelle,Type Psy,Regard Vif Infiltration Battant,Untiered,74,48,76,83,81,104
+939,Monorpale,Type Acier Type Spectre,Annule Garde,Untiered,45,80,100,35,37,28
+940,Dimoclès,Type Acier Type Spectre,Annule Garde,Untiered,59,110,150,45,49,35
+941,Exagide,Type Acier Type Spectre,Déclic Tactique,Untiered,60,50,140,50,140,60
+942,Exagide Mode Assaut,Type Acier Type Spectre,Déclic Tactique,Untiered,60,140,50,140,50,60
+943,Fluvetin,Type Fée,Coeur Soin Aroma-Voile,Untiered,78,52,60,63,65,23
+944,Cocotine,Type Fée,Coeur Soin Aroma-Voile,Untiered,101,72,72,99,89,29
+945,Sucroquin,Type Fée,Gluco-Voile Délestage,Untiered,62,48,66,59,57,49
+946,Cupcanaille,Type Fée,Gluco-Voile Délestage,Untiered,82,80,86,85,75,72
+947,Sepiatop,Type Ténèbres Type Psy,Contestation Ventouse Infiltration,Untiered,53,54,53,37,46,45
+948,Sepiatroce,Type Ténèbres Type Psy,Contestation Ventouse Infiltration,Untiered,86,92,88,68,75,73
+949,Opermine,Type Roche Type Eau,Griffe Dure Sniper Pickpocket,Untiered,42,52,67,39,56,50
+950,Golgopathe,Type Roche Type Eau,Griffe Dure Sniper Pickpocket,Untiered,72,105,115,54,86,68
+951,Venalgue,Type Poison Type Eau,Point Poison Toxitouche Adaptabilité,LC,50,60,60,60,60,30
+952,Kravarech,Type Poison Type Dragon,Point Poison Toxitouche Adaptabilité,OU,65,75,90,97,123,44
+953,Flingouste,Type Eau,Méga Blaster,LC,50,53,62,58,63,44
+954,Gamblast,Type Eau,Méga Blaster,OU,71,73,88,120,89,59
+955,Galvaran,Type Électrik Type Normal,Peau Sèche Voile Sable Force Soleil,Untiered,44,38,33,61,43,70
+956,Iguolta,Type Électrik Type Normal,Peau Sèche Voile Sable Force Soleil,Untiered,62,55,52,109,94,109
+957,Ptyranidur,Type Roche Type Dragon,Prognathe Fermeté,Untiered,58,89,77,45,45,48
+958,Rexillius,Type Roche Type Dragon,Prognathe Tête de Roc,Untiered,82,121,119,69,59,71
+959,Amagara,Type Roche Type Glace,Peau Gelée Alerte Neige,Untiered,77,59,50,67,63,46
+960,Dragmara,Type Roche Type Glace,Peau Gelée Alerte Neige,Untiered,123,77,72,99,92,58
+961,Nymphali,Type Fée,Joli Sourire Peau Féérique,OU,95,65,65,110,130,60
+962,Brutalibré,Type Combat Type Vol,Échauffement Délestage Brise Moule,OU,78,92,75,74,63,118
+963,Dedenne,Type Électrik Type Fée,Bajoues Ramassage Plus,OU,67,58,57,81,67,101
+964,Strassie,Type Roche Type Fée,Corps Sain Fermeté,Untiered,50,50,150,50,150,50
+965,Mucuscule,Type Dragon,Herbivore Hydratation Poisseux,LC,45,50,35,55,75,40
+966,Colimucus,Type Dragon,Herbivore Hydratation Poisseux,NFE,68,75,53,83,113,60
+967,Colimucus de Hisui,Type Acier Type Dragon,Herbivore Coque Armure Poisseux,Untiered,58,75,83,83,113,40
+968,Muplodocus,Type Dragon,Herbivore Hydratation Poisseux,OU,90,100,70,110,150,80
+969,Muplodocus de Hisui,Type Acier Type Dragon,Herbivore Coque Armure Poisseux,Untiered,80,100,100,110,150,60
+970,Trousselin,Type Acier Type Fée,Farceur Magicien,OU,57,80,91,80,87,75
+971,Brocélôme,Type Spectre Type Plante,Médic Nature Fouille Récolte,Untiered,43,70,48,50,60,38
+972,Desséliande,Type Spectre Type Plante,Médic Nature Fouille Récolte,Untiered,85,110,76,65,82,56
+973,Pitrouille,Type Spectre Type Plante,Ramassage Fouille Insomnia,Untiered,49,66,70,44,55,51
+974,Pitrouille Mini,Type Spectre Type Plante,Ramassage Fouille Insomnia,Untiered,44,66,70,44,55,56
+975,Pitrouille Ultra,Type Spectre Type Plante,Ramassage Fouille Insomnia,Untiered,59,66,70,44,55,41
+976,Pitrouille Maxi,Type Spectre Type Plante,Ramassage Fouille Insomnia,Untiered,54,66,70,44,55,46
+977,Banshitrouye,Type Spectre Type Plante,Ramassage Fouille Insomnia,Untiered,65,90,122,58,75,84
+978,Banshitrouye Mini,Type Spectre Type Plante,Ramassage Fouille Insomnia,Untiered,55,85,122,58,75,99
+979,Banshitrouye Maxi,Type Spectre Type Plante,Ramassage Fouille Insomnia,Untiered,75,95,122,58,75,69
+980,Banshitrouye Ultra,Type Spectre Type Plante,Ramassage Fouille Insomnia,Untiered,85,100,122,58,75,54
+981,Grelaçon,Type Glace,Tempo Perso Corps Gel Fermeté,LC,55,69,85,32,35,28
+982,Séracrawl,Type Glace,Tempo Perso Corps Gel Fermeté,OU,95,117,184,44,46,28
+983,Séracrawl de Hisui,Type Glace Type Roche,Prognathe Corps Gel Fermeté,Untiered,95,127,184,34,36,38
+984,Sonistrelle,Type Vol Type Dragon,Fouille Infiltration Télépathe,LC,40,30,35,45,40,55
+985,Bruyverne,Type Vol Type Dragon,Fouille Infiltration Télépathe,OU,85,70,80,97,80,123
+986,Xerneas,Type Fée,Aura Féérique,Untiered,126,131,95,131,98,99
+987,Yveltal,Type Ténèbres Type Vol,Aura Ténébreuse,Untiered,126,131,95,131,98,99
+988,Zygarde,Type Dragon Type Sol,Aura Inversée Rassemblement,Untiered,108,100,121,81,95,95
+989,Zygarde Forme Parfaite,Type Dragon Type Sol,Rassemblement,Untiered,216,100,121,91,95,85
+990,Zygarde 10%,Type Dragon Type Sol,Aura Inversée Rassemblement,Untiered,54,100,71,61,85,115
+991,Diancie,Type Roche Type Fée,Corps Sain,Untiered,50,100,150,100,150,50
+992,Méga Diancie,Type Roche Type Fée,Miroir Magik,Untiered,50,160,110,160,110,110
+993,Hoopa,Type Psy Type Spectre,Magicien,Untiered,80,110,60,150,130,70
+994,Hoopa Déchaîné,Type Psy Type Ténèbres,Magicien,Untiered,80,160,60,170,130,80
+995,Volcanion,Type Feu Type Eau,Absorb Eau,Untiered,80,110,120,130,90,70
+996,Brindibou,Type Plante Type Vol,Engrais Longue Portée,Untiered,68,55,55,50,50,42
+997,Efflèche,Type Plante Type Vol,Engrais Longue Portée,Untiered,78,75,75,70,70,52
+998,Archéduc,Type Plante Type Spectre,Engrais Longue Portée,Untiered,78,107,75,100,100,70
+999,Archéduc de Hisui,Type Plante Type Combat,Engrais Querelleur,Untiered,88,112,80,95,95,60
+1000,Flamiaou,Type Feu,Brasier Intimidation,Untiered,45,65,40,60,40,70
+1001,Matoufeu,Type Feu,Brasier Intimidation,Untiered,65,85,50,80,50,90
+1002,Félinferno,Type Feu Type Ténèbres,Brasier Intimidation,Untiered,95,115,90,80,90,60
+1003,Otaquin,Type Eau,Torrent Hydrata-Son,Untiered,50,54,54,66,56,40
+1004,Otarlette,Type Eau,Torrent Hydrata-Son,Untiered,60,69,69,91,81,50
+1005,Oratoria,Type Eau Type Fée,Torrent Hydrata-Son,Untiered,80,74,74,126,116,60
+1006,Picassaut,Type Normal Type Vol,Regard Vif Multi-Coups Ramassage,Untiered,35,75,30,30,30,65
+1007,Piclairon,Type Normal Type Vol,Regard Vif Multi-Coups Ramassage,Untiered,55,85,50,40,50,75
+1008,Bazoucan,Type Normal Type Vol,Regard Vif Multi-Coups Sans Limite,Untiered,80,120,75,75,75,60
+1009,Manglouton,Type Normal,Filature Prognathe Adaptabilité,LC,48,70,30,30,30,45
+1010,Argouste,Type Normal,Filature Prognathe Adaptabilité,OU,88,110,60,55,60,45
+1011,Larvibule,Type Insecte,Essaim,Untiered,47,62,45,55,45,46
+1012,Chrysapile,Type Insecte Type Électrik,Batterie,Untiered,57,82,95,55,75,36
+1013,Lucanon,Type Insecte Type Électrik,Lévitation,Untiered,77,70,90,145,75,43
+1014,Crabagarre,Type Combat,Hyper Cutter Poing de Fer Colérique,LC,47,82,57,42,47,63
+1015,Crabominable,Type Combat Type Glace,Hyper Cutter Poing de Fer Colérique,OU,97,132,77,62,67,43
+1016,Plumeline Flamenco,Type Feu Type Vol,Danseuse,OU,75,70,70,98,70,93
+1017,Plumeline Buyō,Type Spectre Type Vol,Danseuse,OU,75,70,70,98,70,93
+1018,Plumeline Pom-Pom,Type Électrik Type Vol,Danseuse,OU,75,70,70,98,70,93
+1019,Plumeline Hula,Type Psy Type Vol,Danseuse,OU,75,70,70,98,70,93
+1020,Bombydou,Type Insecte Type Fée,Cherche Miel Écran Poudre Gluco-Voile,Untiered,40,45,40,55,40,84
+1021,Rubombelle,Type Insecte Type Fée,Cherche Miel Écran Poudre Gluco-Voile,Untiered,60,55,60,95,70,124
+1022,Rocabot,Type Roche,Regard Vif Esprit Vital Impassible,LC,45,65,40,30,40,60
+1023,Lougaroc Diurne,Type Roche,Regard Vif Baigne Sable Impassible,OU,75,115,65,55,65,112
+1024,Lougaroc Nocturne,Type Roche,Regard Vif Esprit Vital Annule Garde,OU,85,115,75,55,75,82
+1025,Lougaroc Crépusculaire,Type Roche,Griffe Dure,OU,75,117,65,55,65,110
+1026,Froussardine,Type Eau,Banc,Untiered,45,20,20,25,25,40
+1027,Froussardine Banc,Type Eau,Banc,Untiered,45,140,130,140,135,30
+1028,Vorastérie,Type Poison Type Eau,Cruauté Échauffement Régé-Force,LC,50,53,62,43,52,45
+1029,Prédastérie,Type Poison Type Eau,Cruauté Échauffement Régé-Force,OU,50,63,152,53,142,35
+1030,Tiboudet,Type Sol,Tempo Perso Endurance Attention,LC,70,100,70,45,55,45
+1031,Bourrinos,Type Sol,Tempo Perso Endurance Attention,OU,100,125,100,55,85,35
+1032,Araqua,Type Eau Type Insecte,Aquabulle Absorb Eau,Untiered,38,40,52,40,72,27
+1033,Tarenbulle,Type Eau Type Insecte,Aquabulle Absorb Eau,Untiered,68,70,92,50,132,42
+1034,Mimantis,Type Plante,Feuille Garde Contestation,LC,40,55,35,50,35,35
+1035,Floramantis,Type Plante,Feuille Garde Contestation,OU,70,105,90,80,90,45
+1036,Spododo,Type Plante Type Fée,Lumiattirance Pose Spore Cuvette,Untiered,40,35,55,65,75,15
+1037,Lampignon,Type Plante Type Fée,Lumiattirance Pose Spore Cuvette,Untiered,60,45,80,90,100,30
+1038,Tritox,Type Poison Type Feu,Corrosion Benêt,LC,48,44,40,71,40,77
+1039,Malamandre,Type Poison Type Feu,Corrosion Benêt,OU,68,64,60,111,60,117
+1040,Nounourson,Type Normal Type Combat,Boule de Poils Maladresse Joli Sourire,Untiered,70,75,50,45,50,50
+1041,Chelours,Type Normal Type Combat,Boule de Poils Maladresse Tension,Untiered,120,125,80,55,60,60
+1042,Croquine,Type Plante,Feuille Garde Benêt Gluco-Voile,LC,42,30,38,30,38,32
+1043,Candine,Type Plante,Feuille Garde Benêt Gluco-Voile,NFE,52,40,48,40,48,62
+1044,Sucreine,Type Plante,Feuille Garde Prestance Royale Gluco-Voile,OU,72,120,98,50,98,72
+1045,Guérilande,Type Fée,Flora-Voile Prioguérison Médic Nature,Untiered,51,52,90,82,110,100
+1046,Gouroutan,Type Normal Type Psy,Attention Télépathe Symbiose,OU,90,60,80,90,110,60
+1047,Quartermac,Type Combat,Receveur Acharné,OU,100,120,90,40,60,80
+1048,Sovkipou,Type Insecte Type Eau,Escampette,Untiered,25,35,40,20,30,80
+1049,Sarmuraï,Type Insecte Type Eau,Repli Tactique,Untiered,75,125,140,60,90,40
+1050,Bacabouh,Type Spectre Type Sol,Sable Humide Voile Sable,LC,55,55,80,70,45,15
+1051,Trépassable,Type Spectre Type Sol,Sable Humide Voile Sable,OU,85,75,110,100,75,35
+1052,Concombaffe,Type Eau,Expuls'Organes Inconscient,Untiered,55,60,130,30,130,5
+1053,Type:0,Type Normal,Armurbaston,Untiered,95,95,95,95,95,59
+1054,Silvallié,Type Normal,Système Alpha,Untiered,95,95,95,95,95,95
+1055,Silvallié Électrik,Type Électrik,Système Alpha,Untiered,95,95,95,95,95,95
+1056,Silvallié Combat,Type Combat,Système Alpha,Untiered,95,95,95,95,95,95
+1057,Silvallié Ténèbres,Type Ténèbres,Système Alpha,Untiered,95,95,95,95,95,95
+1058,Silvallié Insecte,Type Insecte,Système Alpha,Untiered,95,95,95,95,95,95
+1059,Silvallié Poison,Type Poison,Système Alpha,Untiered,95,95,95,95,95,95
+1060,Silvallié Psy,Type Psy,Système Alpha,Untiered,95,95,95,95,95,95
+1061,Silvallié Fée,Type Fée,Système Alpha,Untiered,95,95,95,95,95,95
+1062,Silvallié Acier,Type Acier,Système Alpha,Untiered,95,95,95,95,95,95
+1063,Silvallié Feu,Type Feu,Système Alpha,Untiered,95,95,95,95,95,95
+1064,Silvallié Vol,Type Vol,Système Alpha,Untiered,95,95,95,95,95,95
+1065,Silvallié Sol,Type Sol,Système Alpha,Untiered,95,95,95,95,95,95
+1066,Silvallié Dragon,Type Dragon,Système Alpha,Untiered,95,95,95,95,95,95
+1067,Silvallié Roche,Type Roche,Système Alpha,Untiered,95,95,95,95,95,95
+1068,Silvallié Spectre,Type Spectre,Système Alpha,Untiered,95,95,95,95,95,95
+1069,Silvallié Plante,Type Plante,Système Alpha,Untiered,95,95,95,95,95,95
+1070,Silvallié Eau,Type Eau,Système Alpha,Untiered,95,95,95,95,95,95
+1071,Silvallié Glace,Type Glace,Système Alpha,Untiered,95,95,95,95,95,95
+1072,Météno Rouge,Type Roche Type Vol,Bouclier-Carcan,Untiered,60,100,60,100,60,120
+1073,Météno Jaune,Type Roche Type Vol,Bouclier-Carcan,Untiered,60,100,60,100,60,120
+1074,Météno Vert,Type Roche Type Vol,Bouclier-Carcan,Untiered,60,100,60,100,60,120
+1075,Météno Bleu,Type Roche Type Vol,Bouclier-Carcan,Untiered,60,100,60,100,60,120
+1076,Météno Orange,Type Roche Type Vol,Bouclier-Carcan,Untiered,60,100,60,100,60,120
+1077,Météno Violet,Type Roche Type Vol,Bouclier-Carcan,Untiered,60,100,60,100,60,120
+1078,Météno Météore,Type Roche Type Vol,Bouclier-Carcan,Untiered,60,60,100,60,100,60
+1079,Météno Indigo,Type Roche Type Vol,Bouclier-Carcan,Untiered,60,100,60,100,60,120
+1080,Dodoala,Type Normal,Hypersommeil,OU,65,115,65,75,95,65
+1081,Boumata,Type Feu Type Dragon,Coque Armure,Untiered,60,78,135,91,85,36
+1082,Togedemaru,Type Électrik Type Acier,Épine de Fer Paratonnerre Fermeté,Untiered,65,98,63,40,73,96
+1083,Mimiqui,Type Spectre Type Fée,Fantômasque,OU,55,90,80,50,105,96
+1084,Mimiqui Démasqué,Type Spectre Type Fée,Fantômasque,OU,55,90,80,50,105,96
+1085,Denticrisse,Type Eau Type Psy,Corps Coloré Prognathe Peau Miracle,OU,68,105,70,70,70,92
+1086,Draïeul,Type Normal Type Dragon,Dracolère Herbivore Ciel Gris,Untiered,78,60,85,135,91,36
+1087,Sinistrail,Type Spectre Type Plante,Expert Acier,Untiered,70,131,100,86,90,40
+1088,Bébécaille,Type Dragon,Pare-Balles Anti-Bruit Envelocape,Untiered,45,55,65,45,45,45
+1089,Écaïd,Type Dragon Type Combat,Pare-Balles Anti-Bruit Envelocape,Untiered,55,75,90,65,70,65
+1090,Ékaïser,Type Dragon Type Combat,Pare-Balles Anti-Bruit Envelocape,Untiered,75,110,125,100,105,85
+1091,Tokorico,Type Électrik Type Fée,Créa-Élec Télépathe,Untiered,70,115,85,95,75,130
+1092,Tokopiyon,Type Psy Type Fée,Créa-Psy Télépathe,Untiered,70,85,75,130,115,95
+1093,Tokotoro,Type Plante Type Fée,Créa-Herbe Télépathe,Untiered,70,130,115,85,95,75
+1094,Tokopisco,Type Eau Type Fée,Créa-Brume Télépathe,Untiered,70,75,115,95,130,85
+1095,Cosmog,Type Psy,Inconscient,Untiered,43,29,31,29,31,37
+1096,Cosmovum,Type Psy,Fermeté,Untiered,43,29,131,29,131,37
+1097,Solgaleo,Type Psy Type Acier,Métallo-Garde,Untiered,137,137,107,113,89,97
+1098,Lunala,Type Psy Type Spectre,Spectro-Bouclier,Untiered,137,113,89,137,107,97
+1099,Zéroïd,Type Roche Type Poison,Boost Chimère,Untiered,109,53,47,127,131,103
+1100,Mouscoto,Type Insecte Type Combat,Boost Chimère,Untiered,107,139,139,53,53,79
+1101,Cancrelove,Type Insecte Type Combat,Boost Chimère,Untiered,71,137,37,137,37,151
+1102,Câblifère,Type Électrik,Boost Chimère,Untiered,83,89,71,173,71,83
+1103,Bamboiselle,Type Acier Type Vol,Boost Chimère,Untiered,97,101,103,107,101,61
+1104,Katagami,Type Plante Type Acier,Boost Chimère,Untiered,59,181,131,59,31,109
+1105,Engloutyran,Type Ténèbres Type Dragon,Boost Chimère,Untiered,223,101,53,97,53,43
+1106,Necrozma,Type Psy,Prisme-Armure,Untiered,97,107,101,127,89,79
+1107,Necrozma Ailes de l'Aurore,Type Psy Type Spectre,Prisme-Armure,Untiered,97,113,109,157,127,77
+1108,Necrozma Crinière du Couchant,Type Psy Type Acier,Prisme-Armure,Untiered,97,157,127,113,109,77
+1109,Ultra Necrozma,Type Psy Type Dragon,Cérébro-Force,Untiered,97,167,97,167,97,129
+1110,Magearna,Type Acier Type Fée,Animacoeur,Untiered,80,95,115,130,115,65
+1111,Magearna Couleur du Passé,Type Acier Type Fée,Animacoeur,Untiered,80,95,115,130,115,65
+1112,Marshadow,Type Combat Type Spectre,Technicien,Untiered,90,125,80,90,90,125
+1113,Vémini,Type Poison,Boost Chimère,Untiered,67,73,67,73,67,73
+1114,Mandrillon,Type Poison Type Dragon,Boost Chimère,Untiered,73,73,73,127,73,121
+1115,Ama-Ama,Type Roche Type Acier,Boost Chimère,Untiered,61,131,211,53,101,13
+1116,Pierroteknik,Type Feu Type Spectre,Boost Chimère,Untiered,53,127,53,151,79,107
+1117,Zeraora,Type Électrik,Absorb Volt,Untiered,88,112,75,102,80,143
+1118,Meltan,Type Acier,Magnépiège,Untiered,46,65,65,55,35,34
+1119,Melmetal,Type Acier,Poing de Fer,Untiered,135,143,143,80,65,34
+1120,Melmetal Gigamax,Type Acier,Poing de Fer,Untiered,135,143,143,80,65,34
+1121,Ouistempo,Type Plante,Engrais Créa-Herbe,Untiered,50,65,50,40,40,65
+1122,Badabouin,Type Plante,Engrais Créa-Herbe,Untiered,70,85,70,55,60,80
+1123,Gorythmic,Type Plante,Engrais Créa-Herbe,Untiered,100,125,90,60,70,85
+1124,Gorythmic Gigamax,Type Plante,Engrais Créa-Herbe,Untiered,100,125,90,60,70,85
+1125,Flambino,Type Feu,Brasier Libéro,Untiered,50,71,40,40,40,69
+1126,Lapyro,Type Feu,Brasier Libéro,Untiered,65,86,60,55,60,94
+1127,Pyrobut,Type Feu,Brasier Libéro,Untiered,80,116,75,65,75,119
+1128,Pyrobut Gigamax,Type Feu,Brasier Libéro,Untiered,80,116,75,65,75,119
+1129,Larméléon,Type Eau,Torrent Sniper,Untiered,50,40,40,70,40,70
+1130,Arrozard,Type Eau,Torrent Sniper,Untiered,65,60,55,95,55,90
+1131,Lézargus,Type Eau,Torrent Sniper,Untiered,70,85,65,125,65,120
+1132,Lézargus Gigamax,Type Eau,Torrent Sniper,Untiered,70,85,65,125,65,120
+1133,Rongourmand,Type Normal,Bajoues Gloutonnerie,LC,70,55,55,35,35,25
+1134,Rongrigou,Type Normal,Bajoues Gloutonnerie,OU,120,95,95,55,75,20
+1135,Minisange,Type Vol,Regard Vif Tension Coeur de Coq,LC,38,47,35,33,35,57
+1136,Bleuseille,Type Vol,Regard Vif Tension Coeur de Coq,NFE,68,67,55,43,55,77
+1137,Corvaillus,Type Vol Type Acier,Pression Tension Armure Miroir,OU,98,87,105,53,85,67
+1138,Corvaillus Gigamax,Type Vol Type Acier,Pression Tension Armure Miroir,Untiered,98,87,105,53,85,67
+1139,Larvadar,Type Insecte,Essaim Oeil Composé Télépathe,Untiered,25,20,20,25,45,45
+1140,Coléodôme,Type Insecte Type Psy,Essaim Oeil Composé Télépathe,Untiered,50,35,80,50,90,30
+1141,Astronelle,Type Insecte Type Psy,Essaim Fouille Télépathe,Untiered,60,45,110,80,120,90
+1142,Astronelle Gigamax,Type Insecte Type Psy,Essaim Fouille Télépathe,Untiered,60,45,110,80,120,90
+1143,Goupilou,Type Ténèbres,Fuite Délestage Filature,Untiered,40,28,28,47,52,50
+1144,Roublenard,Type Ténèbres,Fuite Délestage Filature,Untiered,70,58,58,87,92,90
+1145,Tournicoton,Type Plante,Effilochage Régé-Force Pose Spore,Untiered,40,40,60,40,60,10
+1146,Blancoton,Type Plante,Effilochage Régé-Force Pose Spore,Untiered,60,50,90,80,120,60
+1147,Moumouton,Type Normal,Boule de Poils Fuite Pare-Balles,Untiered,42,40,55,40,45,48
+1148,Moumouflon,Type Normal,Boule de Poils Impassible Pare-Balles,Untiered,72,80,100,60,90,88
+1149,Khélocrok,Type Eau,Prognathe Coque Armure Glissade,LC,50,64,50,38,38,44
+1150,Torgamord,Type Eau Type Roche,Prognathe Coque Armure Glissade,OU,90,115,90,48,68,74
+1151,Torgamord Gigamax,Type Eau Type Roche,Prognathe Coque Armure Glissade,Untiered,90,115,90,48,68,74
+1152,Voltoutou,Type Électrik,Ramasse Ball Phobique,Untiered,59,45,50,40,50,26
+1153,Fulgudog,Type Électrik,Prognathe Battant,Untiered,69,90,60,90,60,121
+1154,Charbi,Type Roche,Turbine Ignifugé Torche,LC,30,40,50,40,50,30
+1155,Wagomine,Type Roche Type Feu,Turbine Corps Ardent Torche,NFE,80,60,90,60,70,50
+1156,Monthracite,Type Roche Type Feu,Turbine Corps Ardent Torche,OU,110,80,120,80,90,30
+1157,Monthracite Gigamax,Type Roche Type Feu,Turbine Corps Ardent Torche,Untiered,110,80,120,80,90,30
+1158,Verpom,Type Plante Type Dragon,Mûrissement Gloutonnerie Pare-Balles,LC,40,40,80,40,40,20
+1159,Pomdrapi,Type Plante Type Dragon,Mûrissement Gloutonnerie Agitation,OU,70,110,80,95,60,70
+1160,Pomdrapi Gigamax,Type Plante Type Dragon,Mûrissement Gloutonnerie Agitation,Untiered,70,110,80,95,60,70
+1161,Dratatin,Type Plante Type Dragon,Mûrissement Gloutonnerie Isograisse,OU,110,85,80,100,80,30
+1162,Dratatin Gigamax,Type Plante Type Dragon,Mûrissement Gloutonnerie Isograisse,Untiered,110,85,80,100,80,30
+1163,Dunaja,Type Sol,Expul’Sable Mue Voile Sable,LC,52,57,75,35,50,46
+1164,Dunaconda,Type Sol,Expul’Sable Mue Voile Sable,OU,72,107,125,65,70,71
+1165,Dunaconda Gigamax,Type Sol,Expul’Sable Mue Voile Sable,Untiered,72,107,125,65,70,71
+1166,Nigosier,Type Vol Type Eau,Dégobage,Untiered,70,85,55,85,95,85
+1167,Nigosier Gobe-Tout,Type Vol Type Eau,Dégobage,Untiered,70,85,55,85,95,85
+1168,Nigosier Gobe-Chu,Type Vol Type Eau,Dégobage,Untiered,70,85,55,85,95,85
+1169,Embrochet,Type Eau,Glissade Propulseur,LC,41,63,40,40,30,66
+1170,Hastacuda,Type Eau,Glissade Propulseur,OU,61,123,60,60,50,136
+1171,Toxizap,Type Électrik Type Poison,Phobique Statik Maladresse,LC,40,38,35,54,35,40
+1172,Salarsen Forme Aigüe,Type Électrik Type Poison,Punk Rock Plus Technicien,OU,75,98,70,114,70,75
+1173,Salarsen Forme Grave,Type Électrik Type Poison,Punk Rock Minus Technicien,OU,75,98,70,114,70,75
+1174,Salarsen Forme Aigüe Gigamax,Type Électrik Type Poison,Punk Rock Plus Technicien,Untiered,75,98,70,114,70,75
+1175,Salarsen Forme Grave Gigamax,Type Électrik Type Poison,Punk Rock Minus Technicien,Untiered,75,98,70,114,70,75
+1176,Grillepattes,Type Feu Type Insecte,Torche Écran Fumée Corps Ardent,Untiered,50,65,45,50,50,45
+1177,Scolocendre,Type Feu Type Insecte,Torche Écran Fumée Corps Ardent,Untiered,100,115,65,90,90,65
+1178,Scolocendre Gigamax,Type Feu Type Insecte,Torche Écran Fumée Corps Ardent,Untiered,100,115,65,90,90,65
+1179,Poulpaf,Type Combat,Échauffement Technicien,Untiered,50,68,60,50,50,32
+1180,Krakos,Type Combat,Échauffement Technicien,Untiered,80,118,90,70,80,42
+1181,Théffroi,Type Spectre,Armurouillée Corps Maudit,LC,40,45,45,74,54,50
+1182,Théffroi Authentique,Type Spectre,Armurouillée Corps Maudit,LC,40,45,45,74,54,50
+1183,Polthégeist,Type Spectre,Armurouillée Corps Maudit,OU,60,65,65,134,114,70
+1184,Polthégeist Authentique,Type Spectre,Armurouillée Corps Maudit,OU,60,65,65,134,114,70
+1185,Bibichut,Type Psy,Coeur Soin Anticipation Miroir Magik,LC,42,30,45,56,53,39
+1186,Chapotus,Type Psy,Coeur Soin Anticipation Miroir Magik,NFE,57,40,65,86,73,49
+1187,Sorcilence,Type Psy Type Fée,Coeur Soin Anticipation Miroir Magik,OU,57,90,95,136,103,29
+1188,Sorcilence Gigamax,Type Psy Type Fée,Coeur Soin Anticipation Miroir Magik,Untiered,57,90,95,136,103,29
+1189,Grimalin,Type Ténèbres Type Fée,Farceur Fouille Pickpocket,LC,45,45,30,55,40,50
+1190,Fourbelin,Type Ténèbres Type Fée,Farceur Fouille Pickpocket,NFE,65,60,45,75,55,70
+1191,Angoliath,Type Ténèbres Type Fée,Farceur Fouille Pickpocket,OU,95,120,65,95,75,60
+1192,Angoliath Gigamax,Type Ténèbres Type Fée,Farceur Fouille Pickpocket,Untiered,95,120,65,95,75,60
+1193,Ixon,Type Ténèbres Type Normal,Téméraire Cran Acharné,Untiered,93,90,101,60,81,95
+1194,Berserkatt,Type Acier,Armurbaston Griffe Dure Boost Acier,OU,70,110,100,50,60,50
+1195,Corayôme,Type Spectre,Armurouillée Corps Condamné,Untiered,60,95,50,145,130,30
+1196,Palarticho,Type Combat,Impassible Querelleur,Untiered,62,135,95,68,82,65
+1197,M. Glaquette,Type Glace Type Psy,Pieds Confus Brise-Barrière Corps Gel,Untiered,80,85,75,110,100,70
+1198,Tutétékri,Type Sol Type Spectre,Âme Vagabonde,Untiered,58,95,145,50,105,30
+1199,Crèmy,Type Fée,Gluco-Voile Aroma-Voile,Untiered,45,40,40,50,61,34
+1200,Charmilly,Type Fée,Gluco-Voile Aroma-Voile,Untiered,65,60,75,110,121,64
+1201,Charmilly Lait Citron,Type Fée,Gluco-Voile Aroma-Voile,Untiered,65,60,75,110,121,64
+1202,Charmilly Lait Salé,Type Fée,Gluco-Voile Aroma-Voile,Untiered,65,60,75,110,121,64
+1203,Charmilly Mélange Rubis,Type Fée,Gluco-Voile Aroma-Voile,Untiered,65,60,75,110,121,64
+1204,Charmilly Mélange Caramel,Type Fée,Gluco-Voile Aroma-Voile,Untiered,65,60,75,110,121,64
+1205,Charmilly Gigamax,Type Fée,Gluco-Voile Aroma-Voile,Untiered,65,60,75,110,121,64
+1206,Charmilly Lait Rubis,Type Fée,Gluco-Voile Aroma-Voile,Untiered,65,60,75,110,121,64
+1207,Charmilly Lait Menthe,Type Fée,Gluco-Voile Aroma-Voile,Untiered,65,60,75,110,121,64
+1208,Charmilly Lait Matcha,Type Fée,Gluco-Voile Aroma-Voile,Untiered,65,60,75,110,121,64
+1209,Charmilly Mélange Tricolore,Type Fée,Gluco-Voile Aroma-Voile,Untiered,65,60,75,110,121,64
+1210,Hexadron,Type Combat,Armurbaston Acharné,OU,65,100,100,70,60,75
+1211,Wattapik,Type Électrik,Paratonnerre Créa-Élec,OU,48,101,95,91,85,15
+1212,Frissonille,Type Glace Type Insecte,Écran Poudre Écailles Glacées,LC,30,25,35,45,30,20
+1213,Beldeneige,Type Glace Type Insecte,Écran Poudre Écailles Glacées,OU,70,65,60,125,90,65
+1214,Dolman,Type Roche,Cercle d’Énergie,OU,100,125,135,20,20,70
+1215,Bekaglaçon Tête de Gel,Type Glace,Tête de Gel,OU,75,80,110,65,90,50
+1216,Bekaglaçon Tête Dégel,Type Glace,Tête de Gel,OU,75,80,70,65,50,130
+1217,Wimessir,Type Psy Type Normal,Attention Synchro Créa-Psy,OU,60,65,55,105,95,95
+1218,Wimessir Femelle,Type Psy Type Normal,Tempo Perso Synchro Créa-Psy,OU,70,55,65,95,105,85
+1219,Morpeko,Type Électrik Type Ténèbres,Déclic Fringale,Untiered,58,95,58,70,58,97
+1220,Morpeko Affamé,Type Électrik Type Ténèbres,Déclic Fringale,Untiered,58,95,58,70,58,97
+1221,Charibari,Type Acier,Sans Limite Heavy Metal,LC,72,80,49,40,49,40
+1222,Pachyradjah,Type Acier,Sans Limite Heavy Metal,OU,122,130,69,80,69,30
+1223,Pachyradjah Gigamax,Type Acier,Sans Limite Heavy Metal,Untiered,122,130,69,80,69,30
+1224,Galvagon,Type Électrik Type Dragon,Absorb Volt Agitation Baigne Sable,Untiered,90,100,90,80,70,75
+1225,Galvagla,Type Électrik Type Glace,Absorb Volt Statik Chasse-Neige,Untiered,90,100,90,90,80,55
+1226,Hydragon,Type Eau Type Dragon,Absorb Eau Prognathe Baigne Sable,Untiered,90,90,100,70,80,75
+1227,Hydragla,Type Eau Type Glace,Absorb Eau Corps Gel Chasse-Neige,Untiered,90,90,100,80,90,55
+1228,Duralugon,Type Acier Type Dragon,Light Metal Heavy Metal Nerfs d’Acier,Untiered,70,95,115,120,50,85
+1229,Duralugon Gigamax,Type Acier Type Dragon,Light Metal Heavy Metal Nerfs d’Acier,Untiered,70,95,115,120,50,85
+1230,Fantyrm,Type Dragon Type Spectre,Corps Sain Infiltration Corps Maudit,LC,28,60,30,40,30,82
+1231,Dispareptil,Type Dragon Type Spectre,Corps Sain Infiltration Corps Maudit,NFE,68,80,50,60,50,102
+1232,Lanssorien,Type Dragon Type Spectre,Corps Sain Infiltration Corps Maudit,OU,88,120,75,100,75,142
+1233,Zacian,Type Fée,Lame Indomptable,Untiered,92,120,115,80,115,138
+1234,Zacian Épée Suprême,Type Fée Type Acier,Lame Indomptable,Untiered,92,150,115,80,115,148
+1235,Zamazenta,Type Combat,Égide Inflexible,Untiered,92,120,115,80,115,138
+1236,Zamazenta Bouclier Suprême,Type Combat Type Acier,Égide Inflexible,Untiered,92,120,140,80,140,128
+1237,Éthernatos,Type Poison Type Dragon,Pression,Untiered,140,85,95,145,95,130
+1238,Éthernatos Infinimax,Type Poison Type Dragon,Pression,Untiered,255,115,250,125,250,130
+1239,Wushours,Type Combat,Attention Annule Garde,Untiered,60,90,60,53,50,72
+1240,Shifours Poing Final,Type Combat Type Ténèbres,Poing Invisible,Untiered,100,130,100,63,60,97
+1241,Shifours Mille Poings,Type Combat Type Eau,Poing Invisible,Untiered,100,130,100,63,60,97
+1242,Shifours Poing Final Gigamax,Type Combat Type Ténèbres,Poing Invisible,Untiered,100,130,100,63,60,97
+1243,Shifours Mille Poings Gigamax,Type Combat Type Eau,Poing Invisible,Untiered,100,130,100,63,60,97
+1244,Zarude,Type Ténèbres Type Plante,Feuille Garde,Untiered,105,120,105,70,95,105
+1245,Zarude Papa,Type Ténèbres Type Plante,Feuille Garde,Untiered,105,120,105,70,95,105
+1246,Regieleki,Type Électrik,Transistor,Untiered,80,100,50,100,50,200
+1247,Regidrago,Type Dragon,Dent de Dragon,Untiered,200,100,50,100,50,80
+1248,Blizzeval,Type Glace,Blanche Ruade,Untiered,100,145,130,65,110,30
+1249,Spectreval,Type Spectre,Sombre Ruade,Untiered,100,65,60,145,80,130
+1250,Sylveroy,Type Psy Type Plante,Tension,Untiered,100,80,80,80,80,80
+1251,Sylveroy Cavalier du Froid,Type Psy Type Glace,Osmose Équine,Untiered,100,165,150,85,130,50
+1252,Sylveroy Cavalier d'Effroi,Type Psy Type Spectre,Osmose Équine,Untiered,100,85,80,165,100,150
+1253,Cerbyllin,Type Normal Type Psy,Intimidation Fouille Herbivore,Untiered,103,105,72,105,75,65
+1254,Hachécateur,Type Insecte Type Roche,Essaim Sans Limite Incisif,Untiered,70,130,95,45,75,85
+1255,Ursaking,Type Sol Type Normal,Cran Pare-Balles Tension,Untiered,130,140,105,45,80,50
+1256,Paragruel Mâle,Type Eau Type Spectre,Glissade Adaptabilité Brise Moule,Untiered,120,112,65,80,75,78
+1257,Paragruel Femelle,Type Eau Type Spectre,Glissade Adaptabilité Brise Moule,Untiered,120,92,65,100,75,78
+1258,Farfurex,Type Combat Type Poison,Pression Délestage Toxitouche,Untiered,80,130,60,40,80,120
+1259,Qwilpik,Type Ténèbres Type Poison,Point Poison Glissade Intimidation,Untiered,85,115,95,65,65,85
+1260,Amovénus,Type Fée Type Vol,Joli Sourire Contestation,Untiered,74,115,70,135,80,106
+1261,Amovénus Totémique,Type Fée Type Vol,Envelocape,Untiered,74,115,110,135,100,46
+1262,Poussacha,Type Plante,Engrais Protéen,LC,40,61,54,45,45,65
+1263,Matourgeon,Type Plante,Engrais Protéen,NFE,61,80,63,60,63,83
+1264,Miascarade,Type Plante Type Ténèbres,Engrais Protéen,OU,76,110,70,81,70,123
+1265,Chochodile,Type Feu,Brasier Inconscient,LC,67,45,59,63,40,36
+1266,Crocogril,Type Feu,Brasier Inconscient,NFE,81,55,78,90,58,49
+1267,Flâmigator,Type Feu Type Spectre,Brasier Inconscient,OU,104,75,100,110,75,66
+1268,Coiffeton,Type Eau,Torrent Impudence,LC,55,65,45,50,45,50
+1269,Canarbello,Type Eau,Torrent Impudence,NFE,70,85,65,65,60,65
+1270,Palmaval,Type Eau Type Combat,Torrent Impudence,OU,85,120,80,85,75,85
+1271,Gourmelet,Type Normal,Aroma-Voile Gloutonnerie Isograisse,LC,54,45,40,35,45,35
+1272,Fragroin,Type Normal,Odeur Tenace Gloutonnerie Isograisse,OU,110,100,75,59,80,65
+1273,Fragroin Femelle,Type Normal,Aroma-Voile Gloutonnerie Isograisse,OU,115,90,70,59,90,65
+1274,Deusolourdo,Type Normal,Sérénité Fuite Phobique,OU,125,100,80,85,75,55
+1275,Deusolourdo 3 Segments,Type Normal,Sérénité Fuite Phobique,OU,125,100,80,85,75,55
+1276,Tissenboule,Type Insecte,Insomnia Filature,LC,35,41,45,29,40,20
+1277,Filentrappe,Type Insecte,Insomnia Filature,OU,60,79,92,52,86,35
+1278,Lilliterelle,Type Insecte,Essaim Lentiteintée,LC,33,46,40,21,25,45
+1279,Gambex,Type Insecte Type Ténèbres,Essaim Lentiteintée,OU,71,102,78,52,55,92
+1280,Léboulérou,Type Insecte,Oeil Composé Mue,LC,41,50,60,31,58,30
+1281,Bérasca,Type Insecte Type Psy,Synchro Télépathe,OU,75,50,85,115,100,45
+1282,Toutombe,Type Spectre,Ramassage Boule de Poils,LC,50,61,60,30,55,34
+1283,Tomberro,Type Spectre,Baigne Sable Boule de Poils,Uber,72,101,100,50,97,68
+1284,Flotillon,Type Psy,Anticipation Fouille Turbo,LC,30,35,30,55,40,75
+1285,Cléopsytra,Type Psy,Opportuniste Fouille Turbo,OU,95,60,60,101,60,105
+1286,Farigiraf,Type Normal Type Psy,Ruminant Armure Caudale Herbivore,OU,120,90,70,110,70,60
+1287,Taupikeau,Type Eau,Poisseux Phobique Voile Sable,LC,10,55,25,35,25,95
+1288,Triopikeau,Type Eau,Poisseux Phobique Voile Sable,OU,35,100,50,50,70,120
+1289,Oyacata,Type Eau,Inconscient Benêt Ignifu-Voile,OU,150,100,115,65,65,35
+1290,Délestin,Type Eau Type Psy,Brise Moule Incisif,OU,90,102,73,78,65,70
+1291,Dofin,Type Eau,Ignifu-Voile,LC,70,45,40,45,40,75
+1292,Superdofin,Type Eau,Supermutation,OU,100,70,72,53,62,100
+1293,Superdofin Héros,Type Eau,Supermutation,OU,100,160,97,106,87,100
+1294,Olivini,Type Plante Type Normal,Matinal Récolte,LC,41,35,45,58,51,30
+1295,Olivado,Type Plante Type Normal,Matinal Récolte,NFE,52,53,60,78,78,33
+1296,Arboliva,Type Plante Type Normal,Semencier Récolte,OU,78,69,90,125,109,39
+1297,Pimito,Type Plante,Chlorophylle Insomnia Maladresse,LC,52,62,40,62,40,50
+1298,Scovilain,Type Plante Type Feu,Chlorophylle Insomnia Lunatique,OU,65,108,65,108,65,75
+1299,Têtampoule,Type Électrik,Tempo Perso Statik Moiteur,LC,61,31,41,59,35,45
+1300,Ampibidou,Type Électrik,Grecharge Statik Moiteur,OU,109,64,91,103,83,45
+1301,Vrombi,Type Acier Type Poison,Envelocape Début Calme,LC,45,70,63,30,45,47
+1302,Vrombotor,Type Acier Type Poison,Envelocape Filtre,OU,80,119,90,54,67,90
+1303,Ferdeter,Type Acier,Absorbe-Terre Voile Sable,OU,70,85,145,60,55,65
+1304,Compagnol,Type Normal,Fuite Ramassage Tempo Perso,NFE,50,50,45,40,45,75
+1305,Famignol,Type Normal,Garde Amie Bajoues Technicien,OU,74,75,70,65,75,111
+1306,Famignol à 4,Type Normal,Garde Amie Bajoues Technicien,OU,74,75,70,65,75,111
+1307,Piétacé,Type Glace,Isograisse Rideau Neige Sans Limite,LC,108,68,45,30,40,43
+1308,Balbalèze,Type Glace,Isograisse Chasse-Neige Sans Limite,OU,170,113,65,45,55,73
+1309,Frigodo,Type Dragon Type Glace,Thermodynamique Corps Gel,LC,65,75,45,35,45,55
+1310,Cryodo,Type Dragon Type Glace,Thermodynamique Corps Gel,NFE,90,95,66,45,65,62
+1311,Glaivodo,Type Dragon Type Glace,Thermodynamique Corps Gel,OU,115,145,92,75,86,87
+1312,Nigirigon Courbé,Type Dragon Type Eau,Commandant Lavabo,OU,68,50,60,120,95,82
+1313,Nigirigon Affalé,Type Dragon Type Eau,Commandant Lavabo,OU,68,50,60,120,95,82
+1314,Nigirigon Raide,Type Dragon Type Eau,Commandant Lavabo,OU,68,50,60,120,95,82
+1315,Motorizard,Type Dragon Type Normal,Mue Régé-Force,OU,70,95,65,85,65,121
+1316,Pohm,Type Électrik,Statik Médic Nature Poing de Fer,LC,45,50,20,40,25,60
+1317,Pohmotte,Type Électrik Type Combat,Absorb Volt Médic Nature Poing de Fer,NFE,60,75,40,50,40,85
+1318,Pohmarmotte,Type Électrik Type Combat,Absorb Volt Médic Nature Poing de Fer,OU,70,115,70,70,60,105
+1319,Zapétrel,Type Électrik Type Vol,Turbine Éolienne Absorb Volt Battant,LC,40,40,35,55,40,70
+1320,Fulgulairo,Type Électrik Type Vol,Turbine Éolienne Absorb Volt Battant,OU,70,70,60,105,60,125
+1321,Lestombaile,Type Vol Type Ténèbres,Coeur de Coq Regard Vif Porte-Roche,OU,70,103,85,60,85,82
+1322,Tapatoès Vert,Type Normal Type Vol,Intimidation Agitation Cran,OU,82,96,51,45,51,92
+1323,Tapatoès Blanc,Type Normal Type Vol,Intimidation Agitation Sans Limite,OU,82,96,51,45,51,92
+1324,Tapatoès Bleu,Type Normal Type Vol,Intimidation Agitation Cran,OU,82,96,51,45,51,92
+1325,Tapatoès Jaune,Type Normal Type Vol,Intimidation Agitation Sans Limite,OU,82,96,51,45,51,92
+1326,Flamenroule,Type Vol Type Combat,Querelleur Pieds Confus Collab,OU,82,115,74,75,64,90
+1327,Craparoi,Type Roche,Courroupace Coque Armure Régé-Force,OU,70,100,115,35,55,75
+1328,Selutin,Type Roche,Sel Purificateur Fermeté Corps Sain,LC,55,55,75,35,35,25
+1329,Amassel,Type Roche,Sel Purificateur Fermeté Corps Sain,NFE,60,60,100,35,65,35
+1330,Gigansel,Type Roche,Sel Purificateur Fermeté Corps Sain,OU,100,100,130,45,90,35
+1331,Germéclat,Type Roche Type Poison,Dépôt Toxique Corrosion,LC,48,35,42,105,60,60
+1332,Floréclat,Type Roche Type Poison,Dépôt Toxique Corrosion,OU,83,55,90,130,81,86
+1333,Gribouraigne,Type Poison Type Normal,Délestage Pickpocket Farceur,LC,40,65,35,40,35,75
+1334,Tag-Tag,Type Poison Type Normal,Délestage Toxitouche Farceur,OU,63,95,65,80,72,110
+1335,Pâtachiot,Type Fée,Tempo Perso Maladresse,LC,37,55,70,30,55,65
+1336,Briochien,Type Fée,Bien Cuit,OU,57,80,115,50,80,95
+1337,Grondogue,Type Ténèbres,Intimidation Fuite Filature,LC,60,78,60,40,51,51
+1338,Dogrino,Type Ténèbres,Intimidation Chien de Garde Filature,OU,80,120,90,60,70,85
+1339,Virovent,Type Plante Type Spectre,Aéroporté Infiltration,LC,40,65,30,45,35,60
+1340,Virevorreur,Type Plante Type Spectre,Aéroporté Infiltration,OU,55,115,70,80,70,90
+1341,Gimmighoul,Type Spectre,Phobique,LC,45,30,70,75,70,10
+1342,Gromago,Type Acier Type Spectre,Corps en Or,OU,87,60,95,133,91,84
+1343,Fort-Ivoire,Type Sol Type Combat,Paléosynthèse,OU,115,131,131,53,53,87
+1344,Fongus-Furie,Type Plante Type Ténèbres,Paléosynthèse,OU,111,127,99,79,99,55
+1345,Pelage-Sablé,Type Électrik Type Sol,Paléosynthèse,OU,85,81,97,121,85,101
+1346,Hurle-Queue,Type Fée Type Psy,Paléosynthèse,OU,115,65,99,65,115,111
+1347,Flotte-Mèche,Type Spectre Type Fée,Paléosynthèse,Uber,55,55,55,135,135,135
+1348,Rampe-Ailes,Type Insecte Type Combat,Paléosynthèse,OU,85,135,79,85,105,81
+1349,Rugit-Lune,Type Dragon Type Ténèbres,Paléosynthèse,OU,105,139,71,55,101,119
+1350,Roue-de-Fer,Type Sol Type Acier,Charge Quantique,OU,90,112,120,72,70,106
+1351,Mite-de-Fer,Type Feu Type Poison,Charge Quantique,OU,80,70,60,140,110,110
+1352,Paume-de-Fer,Type Combat Type Électrik,Charge Quantique,OU,154,140,108,50,68,50
+1353,Têtes-de-Fer,Type Ténèbres Type Vol,Charge Quantique,OU,94,80,86,122,80,108
+1354,Épine-de-Fer,Type Roche Type Électrik,Charge Quantique,OU,100,134,110,70,84,72
+1355,Hotte-de-Fer,Type Glace Type Eau,Charge Quantique,OU,56,80,114,124,60,136
+1356,Garde-de-Fer,Type Fée Type Combat,Charge Quantique,OU,74,130,90,120,60,116
+1357,Dinglu,Type Ténèbres Type Sol,Urne du Fléau,OU,155,110,125,55,80,45
+1358,Baojian,Type Ténèbres Type Glace,Épée du Fléau,OU,80,120,80,90,65,135
+1359,Chongjian,Type Ténèbres Type Plante,Bois du Fléau,OU,85,85,100,95,135,70
+1360,Yuyu,Type Ténèbres Type Feu,Perles du Fléau,OU,55,80,80,135,120,100
+1361,Koraidon,Type Combat Type Dragon,Pouls Orichalque,Uber,100,135,115,85,100,135
+1362,Miraidon,Type Électrik Type Dragon,Moteur à Hadrons,Uber,100,85,100,135,115,135
+1363,Forgerette,Type Fée Type Acier,Brise Moule Tempo Perso Pickpocket,LC,50,45,45,35,64,58
+1364,Forgella,Type Fée Type Acier,Brise Moule Tempo Perso Pickpocket,NFE,65,55,55,45,82,78
+1365,Forgelina,Type Fée Type Acier,Brise Moule Tempo Perso Pickpocket,OU,85,75,77,70,105,94
+1366,Charbambin,Type Feu,Torche Corps Ardent,LC,40,50,40,50,40,35
+1367,Carmadura,Type Feu Type Psy,Torche Armurouillée,OU,85,60,100,125,80,75
+1368,Malvalame,Type Feu Type Spectre,Torche Armurouillée,OU,75,125,80,60,100,85
+1369,Terracool,Type Sol Type Plante,Force Fongique,LC,40,40,35,50,100,70
+1370,Terracruel,Type Sol Type Plante,Force Fongique,OU,80,70,65,80,120,100
+1371,Scalpereur,Type Ténèbres Type Acier,Acharné Général Suprême Pression,OU,100,135,120,60,85,50
+1372,Terraiste,Type Poison Type Sol,Point Poison Absorb Eau Inconscient,OU,130,75,60,45,100,20
+1373,Courrousinge,Type Combat Type Spectre,Esprit Vital Attention Acharné,OU,110,115,80,50,90,90

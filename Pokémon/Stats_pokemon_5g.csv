@@ -1,0 +1,731 @@
+1,Bulbizarre,Plante Poison,Engrais Chlorophylle,45,49,49,65,65,45,1
+2,Herbizarre,Plante Poison,Engrais Chlorophylle,60,62,63,80,80,60,1
+3,Florizarre,Plante Poison,Engrais Chlorophylle,80,82,83,100,100,80,1
+4,Salamèche,Feu,Brasier Force-Soleil,39,52,43,60,50,65,1
+5,Reptincel,Feu,Brasier Force-Soleil,58,64,58,80,65,80,1
+6,Dracaufeu,Feu Vol,Brasier Force-Soleil,78,84,78,109,85,100,1
+7,Carapuce,Eau,Torrent Cuvette,44,48,65,50,64,43,1
+8,Carabaffe,Eau,Torrent Cuvette,59,63,80,65,80,58,1
+9,Tortank,Eau,Torrent Cuvette,79,83,100,85,105,78,1
+10,Chenipan,Insecte,Écran-Poudre Fuite,45,30,35,20,20,45,1
+11,Chrysacier,Insecte,Mue,50,20,55,25,25,30,1
+12,Papilusion,Insecte Vol,Oeil-Composé Lentiteintée,60,45,50,80,80,70,1
+13,Aspicot,Insecte Poison,Écran-Poudre Fuite,40,35,30,20,20,50,1
+14,Coconfort,Insecte Poison,Mue,45,25,50,25,25,35,1
+15,Dardargnan,Insecte Poison,Essaim Sniper,65,80,40,45,80,75,1
+16,Roucool,Normal Vol,Regard-Vif Pieds-Confus Coeur-de-Coq,40,45,40,35,35,56,1
+17,Roucoups,Normal Vol,Regard-Vif Pieds-Confus Coeur-de-Coq,63,60,55,50,50,71,1
+18,Roucarnage,Normal Vol,Regard-Vif Pieds-Confus Coeur-de-Coq,83,80,75,70,70,91,1
+19,Rattata,Normal,Fuite Cran Agitation,30,56,35,25,35,72,1
+20,Rattatac,Normal,Fuite Cran Agitation,55,81,60,50,70,97,1
+21,Piafabec,Normal Vol,Regard-Vif Sniper,40,60,30,31,31,70,1
+22,Rapasdepic,Normal Vol,Regard-Vif Sniper,65,90,65,61,61,100,1
+23,Abo,Poison,Intimidation Mue Tension,35,60,44,40,54,55,1
+24,Arbok,Poison,Intimidation Mue Tension,60,85,69,65,79,80,1
+25,Pikachu,Électrik,Statik Paratonnerre,35,55,30,50,40,90,1
+26,Raichu,Électrik,Statik Paratonnerre,60,90,55,90,80,100,1
+27,Sabelette,Sol,Voile-Sable Baigne-Sable,50,75,85,20,30,40,1
+28,Sablaireau,Sol,Voile-Sable Baigne-Sable,75,100,110,45,55,65,1
+29,Nidoran Femelle,Poison,Point-Poison Rivalité Agitation,55,47,52,40,40,41,1
+30,Nidorina,Poison,Point-Poison Rivalité Agitation,70,62,67,55,55,56,1
+31,Nidoqueen,Poison Sol,Point-Poison Rivalité Sans-Limite,90,82,87,75,85,76,1
+32,Nidoran Mâle,Poison,Point-Poison Rivalité Agitation,46,57,40,40,40,50,1
+33,Nidorino,Poison,Point-Poison Rivalité Agitation,61,72,57,55,55,65,1
+34,Nidoking,Poison Sol,Point-Poison Rivalité Sans-Limite,81,92,77,85,75,85,1
+35,Mélofée,Normal,Joli Sourire Garde-Magik Garde-Amie,70,45,48,60,65,35,1
+36,Mélodelfe,Normal,Joli Sourire Garde-Magik Inconscient,95,70,73,85,90,60,1
+37,Goupix,Feu,Torche Sécheresse,38,41,40,50,65,65,1
+38,Feunard,Feu,Torche Sécheresse,73,76,75,81,100,100,1
+39,Rondoudou,Normal,Joli Sourire Garde-Amie,115,45,20,45,25,20,1
+40,Grodoudou,Normal,Joli Sourire Fouille,140,70,45,75,50,45,1
+41,Nosferapti,Poison Vol,Attention Infiltration,40,45,35,30,40,55,1
+42,Nosferalto,Poison Vol,Attention Infiltration,75,80,70,65,75,90,1
+43,Mystherbe,Plante Poison,Chlorophylle Fuite,45,50,55,75,65,30,1
+44,Ortide,Plante Poison,Chlorophylle Puanteur,60,65,70,85,75,40,1
+45,Rafflesia,Plante Poison,Chlorophylle Pose-Spore,75,80,85,100,90,50,1
+46,Paras,Insecte Plante,Pose-Spore Peau-Sèche Moiteur,35,70,55,45,55,25,1
+47,Parasect,Insecte Plante,Pose-Spore Peau-Sèche Moiteur,60,95,80,60,80,30,1
+48,Mimitoss,Insecte Poison,Oeil-Composé Lentiteintée Fuite,60,55,50,40,55,45,1
+49,Aéromite,Insecte Poison,Écran-Poudre Lentiteintée Peau-Miracle,70,65,60,90,75,90,1
+50,Taupiqueur,Sol,Voile-Sable Piège-Sable Force-Sable,10,55,25,35,45,95,1
+51,Triopikeur,Sol,Voile-Sable Piège-Sable Force-Sable,35,80,50,50,70,120,1
+52,Miaouss,Normal,Ramassage Technicien Tension,40,45,35,40,40,90,1
+53,Persian,Normal,Échauffement Technicien Tension,65,70,60,65,65,115,1
+54,Psykokwak,Eau,Moiteur Ciel-Gris Glissade,50,52,48,65,50,55,1
+55,Akwakwak,Eau,Moiteur Ciel-Gris Glissade,80,82,78,95,80,85,1
+56,Férosinge,Combat,Esprit-Vital Colérique Acharné,40,80,35,35,45,70,1
+57,Colossinge,Combat,Esprit-Vital Colérique Acharné,65,105,60,60,70,95,1
+58,Caninos,Feu,Intimidation Torche Coeur-Noble,55,70,45,70,50,60,1
+59,Arcanin,Feu,Intimidation Torche Coeur-Noble,90,110,80,100,80,95,1
+60,Ptitard,Eau,Absorb-Eau Moiteur Glissade,40,50,40,40,40,90,1
+61,Têtarte,Eau,Absorb-Eau Moiteur Glissade,65,65,65,50,50,90,1
+62,Tartard,Eau Combat,Absorb-Eau Moiteur Glissade,90,85,95,70,90,70,1
+63,Abra,Psy,Synchro Attention Garde-Magik,25,20,15,105,55,90,1
+64,Kadabra,Psy,Synchro Attention Garde-Magik,40,35,30,120,70,105,1
+65,Alakazam,Psy,Synchro Attention Garde-Magik,55,50,45,135,85,120,1
+66,Machoc,Combat,Cran Annule-Garde Impassible,70,80,50,35,35,35,1
+67,Machopeur,Combat,Cran Annule-Garde Impassible,80,100,70,50,60,45,1
+68,Mackogneur,Combat,Cran Annule-Garde Impassible,90,130,80,65,85,55,1
+69,Chétiflor,Plante Poison,Chlorophylle Gloutonnerie,50,75,35,70,30,40,1
+70,Boustiflor,Plante Poison,Chlorophylle Gloutonnerie,65,90,50,85,45,55,1
+71,Empiflor,Plante Poison,Chlorophylle Gloutonnerie,80,105,65,100,60,70,1
+72,Tentacool,Eau Poison,Corps-Sain Suintement Cuvette,40,40,35,50,100,70,1
+73,Tentacruel,Eau Poison,Corps-Sain Suintement Cuvette,80,70,65,80,120,100,1
+74,Racaillou,Roche Sol,Tête-de-Roc Fermeté Voile-Sable,40,80,100,30,30,20,1
+75,Gravalanch,Roche Sol,Tête-de-Roc Fermeté Voile-Sable,55,95,115,45,45,35,1
+76,Grolem,Roche Sol,Tête-de-Roc Fermeté Voile-Sable,80,110,130,55,65,45,1
+77,Ponyta,Feu,Fuite Torche Corps-Ardent,50,85,55,65,65,90,1
+78,Galopa,Feu,Fuite Torche Corps-Ardent,65,100,70,80,80,105,1
+79,Ramoloss,Eau Psy,Benêt Tempo-Perso Régé-Force,90,65,65,40,40,15,1
+80,Flagadoss,Eau Psy,Benêt Tempo-Perso Régé-Force,95,75,110,100,80,30,1
+81,Magnéti,Électrik Acier,Magnépiège Fermeté Analyste,25,35,70,95,55,45,1
+82,Magnéton,Électrik Acier,Magnépiège Fermeté Analyste,50,60,95,120,70,70,1
+83,Canarticho,Normal Vol,Regard-Vif Attention Acharné,52,65,55,58,62,60,1
+84,Doduo,Normal Vol,Fuite Matinal Pieds-Confus,35,85,45,35,35,75,1
+85,Dodrio,Normal Vol,Fuite Matinal Pieds-Confus,60,110,70,60,60,100,1
+86,Otaria,Eau,Isograisse Hydratation Corps-Gel,65,45,55,45,70,45,1
+87,Lamantine,Eau Glace,Isograisse Hydratation Corps-Gel,90,70,80,70,95,70,1
+88,Tadmorv,Poison,Puanteur Glue Toxitouche,80,80,50,40,50,25,1
+89,Grotadmorv,Poison,Puanteur Glue Toxitouche,105,105,75,65,100,50,1
+90,Kokiyas,Eau,Coque-Armure Multi-Coups Envelocape,30,65,100,45,25,40,1
+91,Crustabri,Eau Glace,Coque-Armure Multi-Coups Envelocape,50,95,180,85,45,70,1
+92,Fantominus,Spectre Poison,Lévitation,30,35,30,100,35,80,1
+93,Spectrum,Spectre Poison,Lévitation,45,50,45,115,55,95,1
+94,Ectoplasma,Spectre Poison,Lévitation,60,65,60,130,75,110,1
+95,Onix,Roche Sol,Tête-de-Roc Fermeté Armurouillée,35,45,160,30,45,70,1
+96,Soporifik,Psy,Insomnia Prédiction Attention,60,48,45,43,90,42,1
+97,Hypnomade,Psy,Insomnia Prédiction Attention,85,73,70,73,115,67,1
+98,Krabby,Eau,Hyper-Cutter Coque-Armure Sans-Limite,30,105,90,25,25,50,1
+99,Krabboss,Eau,Hyper-Cutter Coque-Armure Sans-Limite,55,130,115,50,50,75,1
+100,Voltorbe,Électrik,Anti-Bruit Statik Boom-Final,40,30,50,55,55,100,1
+101,Électrode,Électrik,Anti-Bruit Statik Boom-Final,60,50,70,80,80,140,1
+102,Noeunoeuf,Plante Psy,Chlorophylle Récolte,60,40,80,60,45,40,1
+103,Noadkoko,Plante Psy,Chlorophylle Récolte,95,95,85,125,65,55,1
+104,Osselait,Sol,Tête-de-Roc Paratonnerre Armurbaston,50,50,95,40,50,35,1
+105,Ossatueur,Sol,Tête-de-Roc Paratonnerre Armurbaston,60,80,110,50,80,45,1
+106,Kicklee,Combat,Échauffement Téméraire Délestage,50,120,53,35,110,87,1
+107,Tygnon,Combat,Regard-Vif Poing-de-Fer Attention,50,105,79,35,110,76,1
+108,Excelangue,Normal,Tempo-Perso Benêt Ciel-Gris,90,55,75,60,75,30,1
+109,Smogo,Poison,Lévitation,40,65,95,60,45,35,1
+110,Smogogo,Poison,Lévitation,65,90,120,85,70,60,1
+111,Rhinocorne,Sol Roche,Paratonnerre Tête-de-Roc Téméraire,80,85,95,30,30,25,1
+112,Rhinoféros,Sol Roche,Paratonnerre Tête-de-Roc Téméraire,105,130,120,45,45,40,1
+113,Leveinard,Normal,Médic-Nature Sérénité Coeur-Soin,250,5,5,35,105,50,1
+114,Saquedeneu,Plante,Chlorophylle Feuille-Garde Régé-Force,65,55,115,100,40,60,1
+115,Kangourex,Normal,Matinal Querelleur Attention,105,95,80,40,80,90,1
+116,Hypotrempe,Eau,Glissade Sniper Moiteur,30,40,70,70,25,60,1
+117,Hypocéan,Eau,Point-Poison Sniper Moiteur,55,65,95,95,45,85,1
+118,Poissirène,Eau,Glissade Ignifu-Voile Paratonnerre,45,67,60,35,50,63,1
+119,Poissoroy,Eau,Glissade Ignifu-Voile Paratonnerre,80,92,65,65,80,68,1
+120,Stari,Eau,Lumiattirance Médic-Nature Analyste,30,45,55,70,55,85,1
+121,Staross,Eau Psy,Lumiattirance Médic-Nature Analyste,60,75,85,100,85,115,1
+122,M. Mime,Psy,Anti-Bruit Filtre Technicien,40,45,65,100,120,90,1
+123,Insécateur,Insecte Vol,Essaim Technicien Impassible,70,110,80,55,80,105,1
+124,Lippoutou,Glace Psy,Benêt Prédiction Peau-Sèche,65,50,35,115,95,95,1
+125,Élektek,Électrik,Statik Esprit-Vital,65,83,57,95,85,105,1
+126,Magmar,Feu,Corps-Ardent Esprit-Vital,65,95,57,100,85,93,1
+127,Scarabrute,Insecte,Hyper-Cutter Brise-Moule Impudence,65,125,100,55,70,85,1
+128,Tauros,Normal,Intimidation Colérique Sans-Limite,75,100,95,40,70,110,1
+129,Magicarpe,Eau,Glissade Phobique,20,10,55,15,20,80,1
+130,Léviator,Eau Vol,Intimidation Impudence,95,125,79,60,100,81,1
+131,Lokhlass,Eau Glace,Absorb-Eau Coque-Armure Hydratation,130,85,80,85,95,60,1
+132,Métamorph,Normal,Échauffement Imposteur,48,48,48,48,48,48,1
+133,Évoli,Normal,Fuite Adaptabilité Anticipation,55,55,50,45,65,55,1
+134,Aquali,Eau,Absorb-Eau Hydratation,130,65,60,110,95,65,1
+135,Voltali,Électrik,Absorb-Volt Pied-Véloce,65,65,60,110,95,130,1
+136,Pyroli,Feu,Torche Cran,65,130,60,95,110,65,1
+137,Porygon,Normal,Calque Télécharge Analyste,65,60,70,85,75,40,1
+138,Amonita,Roche Eau,Glissade Coque-Armure Armurouillée,35,40,100,90,55,35,1
+139,Amonistar,Roche Eau,Glissade Coque-Armure Armurouillée,70,60,125,115,70,55,1
+140,Kabuto,Roche Eau,Glissade Armurbaston Armurouillée,30,80,90,55,45,55,1
+141,Kabutops,Roche Eau,Glissade Armurbaston Armurouillée,60,115,105,65,70,80,1
+142,Ptéra,Roche Vol,Tête-de-Roc Pression Tension,80,105,65,60,75,130,1
+143,Ronflex,Normal,Vaccin Isograisse Gloutonnerie,160,110,65,65,110,30,1
+144,Artikodin,Glace Vol,Pression Rideau-Neige,90,85,100,95,125,85,1
+145,Électhor,Électrik Vol,Pression Paratonnerre,90,90,85,125,90,100,1
+146,Sulfura,Feu Vol,Pression Corps-Ardent,90,100,90,125,85,90,1
+147,Minidraco,Dragon,Mue Écaille-Spéciale,41,64,45,50,50,50,1
+148,Draco,Dragon,Mue Écaille-Spéciale,61,84,65,70,70,70,1
+149,Dracolosse,Dragon Vol,Attention Multiécaille,91,134,95,100,100,80,1
+150,Mewtwo,Psy,Pression Tension,106,110,90,154,90,130,1
+151,Mew,Psy,Synchro,100,100,100,100,100,100,1
+152,Germignon,Plante,Engrais Feuille-Garde,45,49,65,49,65,45,2
+153,Macronium,Plante,Engrais Feuille-Garde,60,62,80,63,80,60,2
+154,Méganium,Plante,Engrais Feuille-Garde,80,82,100,83,100,80,2
+155,Héricendre,Feu,Brasier Torche,39,52,43,60,50,65,2
+156,Feurisson,Feu,Brasier Torche,58,64,58,80,65,80,2
+157,Typhlosion,Feu,Brasier Torche,78,84,78,109,85,100,2
+158,Kaiminus,Eau,Torrent Sans-Limite,50,65,64,44,48,43,2
+159,Crocrodil,Eau,Torrent Sans-Limite,65,80,80,59,63,58,2
+160,Aligatueur,Eau,Torrent Sans-Limite,85,105,100,79,83,78,2
+161,Fouinette,Normal,Fuite Regard-Vif Fouille,35,46,34,35,45,20,2
+162,Fouinar,Normal,Fuite Regard-Vif Fouille,85,76,64,45,55,90,2
+163,Hoothoot,Normal Vol,Insomnia Regard-Vif Lentiteintée,60,30,30,36,56,50,2
+164,Noarfang,Normal Vol,Insomnia Regard-Vif Lentiteintée,100,50,50,76,96,70,2
+165,Coxy,Insecte Vol,Essaim Matinal Phobique,40,20,30,40,80,55,2
+166,Coxyclaque,Insecte Vol,Essaim Matinal Poing-de-Fer,55,35,50,55,110,85,2
+167,Mimigal,Insecte Poison,Essaim Insomnia Sniper,40,60,40,40,40,30,2
+168,Migalos,Insecte Poison,Essaim Insomnia Sniper,70,90,70,60,60,40,2
+169,Nostenfer,Poison Vol,Attention Infiltration,85,90,80,70,80,130,2
+170,Loupio,Eau Électrik,Absorb-Volt Lumiattirance Absorb-Eau,75,38,38,56,56,67,2
+171,Lanturn,Eau Électrik,Absorb-Volt Lumiattirance Absorb-Eau,125,58,58,76,76,67,2
+172,Pichu,Électrik,Statik Paratonnerre,20,40,15,35,35,60,2
+173,Mélo,Normal,Joli Sourire Garde-Magik Garde-Amie,50,25,28,45,55,15,2
+174,Toudoudou,Normal,Joli Sourire Garde-Amie,90,30,15,40,20,15,2
+175,Togepi,Normal,Agitation Sérénité Chanceux,35,20,65,40,65,20,2
+176,Togetic,Normal Vol,Agitation Sérénité Chanceux,55,40,85,80,105,40,2
+177,Natu,Psy Vol,Synchro Matinal Miroir-Magik,40,50,45,70,45,70,2
+178,Xatu,Psy Vol,Synchro Matinal Miroir-Magik,65,75,70,95,70,95,2
+179,Wattouat,Électrik,Statik Plus,55,40,40,65,45,35,2
+180,Lainergie,Électrik,Statik Plus,70,55,55,80,60,45,2
+181,Pharamp,Électrik,Statik Plus,90,75,75,115,90,55,2
+182,Joliflor,Plante,Chlorophylle Coeur-Soin,75,80,85,90,100,50,2
+183,Marill,Eau,Isograisse Coloforce Herbivore,70,20,50,20,50,40,2
+184,Azumarill,Eau,Isograisse Coloforce Herbivore,100,50,80,50,80,50,2
+185,Simularbre,Roche,Fermeté Tête-de-Roc Phobique,70,100,115,30,65,30,2
+186,Tarpaud,Eau,Absorb-Eau Moiteur Crachin,90,75,75,90,100,70,2
+187,Granivol,Plante Vol,Chlorophylle Feuille-Garde Infiltration,35,35,40,35,55,50,2
+188,Floravol,Plante Vol,Chlorophylle Feuille-Garde Infiltration,55,45,50,45,65,80,2
+189,Cotovol,Plante Vol,Chlorophylle Feuille-Garde Infiltration,75,55,70,55,85,110,2
+190,Capumain,Normal,Fuite Ramassage Multi-Coups,55,70,55,40,55,85,2
+191,Tournegrin,Plante,Chlorophylle Force-Soleil Matinal,30,30,30,30,30,30,2
+192,Héliatronc,Plante,Chlorophylle Force-Soleil Matinal,75,75,55,105,85,30,2
+193,Yanma,Insecte Vol,Turbo Oeil-Composé Fouille,65,65,45,75,45,95,2
+194,Axoloto,Eau Sol,Moiteur Absorb-Eau Inconscient,55,45,45,25,25,15,2
+195,Maraiste,Eau Sol,Moiteur Absorb-Eau Inconscient,95,85,85,65,65,35,2
+196,Mentali,Psy,Synchro Miroir-Magik,65,65,60,130,95,110,2
+197,Noctali,Ténèbres,Synchro Attention,95,65,110,60,130,65,2
+198,Cornèbre,Ténèbres Vol,Insomnia Chanceux Farceur,60,85,42,85,42,91,2
+199,Roigada,Eau Psy,Benêt Tempo-Perso Régé-Force,95,75,80,100,110,30,2
+200,Feuforêve,Spectre,Lévitation,60,60,60,85,85,85,2
+201,Zarbi A,Psy,Lévitation,48,72,48,72,48,48,2
+201,Zarbi G,Psy,Lévitation,48,72,48,72,48,48,2
+201,Zarbi H,Psy,Lévitation,48,72,48,72,48,48,2
+201,Zarbi I,Psy,Lévitation,48,72,48,72,48,48,2
+201,Zarbi D,Psy,Lévitation,48,72,48,72,48,48,2
+201,Zarbi F,Psy,Lévitation,48,72,48,72,48,48,2
+201,Zarbi N,Psy,Lévitation,48,72,48,72,48,48,2
+201,Zarbi C,Psy,Lévitation,48,72,48,72,48,48,2
+201,Zarbi E,Psy,Lévitation,48,72,48,72,48,48,2
+201,Zarbi B,Psy,Lévitation,48,72,48,72,48,48,2
+201,Zarbi L,Psy,Lévitation,48,72,48,72,48,48,2
+201,Zarbi M,Psy,Lévitation,48,72,48,72,48,48,2
+201,Zarbi R,Psy,Lévitation,48,72,48,72,48,48,2
+201,Zarbi O,Psy,Lévitation,48,72,48,72,48,48,2
+201,Zarbi J,Psy,Lévitation,48,72,48,72,48,48,2
+201,Zarbi T,Psy,Lévitation,48,72,48,72,48,48,2
+201,Zarbi Y,Psy,Lévitation,48,72,48,72,48,48,2
+201,Zarbi K,Psy,Lévitation,48,72,48,72,48,48,2
+201,Zarbi U,Psy,Lévitation,48,72,48,72,48,48,2
+201,Zarbi P,Psy,Lévitation,48,72,48,72,48,48,2
+201,Zarbi !,Psy,Lévitation,48,72,48,72,48,48,2
+201,Zarbi Q,Psy,Lévitation,48,72,48,72,48,48,2
+201,Zarbi S,Psy,Lévitation,48,72,48,72,48,48,2
+201,Zarbi Z,Psy,Lévitation,48,72,48,72,48,48,2
+201,Zarbi W,Psy,Lévitation,48,72,48,72,48,48,2
+201,Zarbi X,Psy,Lévitation,48,72,48,72,48,48,2
+201,Zarbi V,Psy,Lévitation,48,72,48,72,48,48,2
+201,Zarbi ?,Psy,Lévitation,48,72,48,72,48,48,2
+202,Qulbutoké,Psy,Marque-Ombre Télépathe,190,33,58,33,58,33,2
+203,Girafarig,Normal Psy,Attention Matinal Herbivore,70,80,65,90,65,85,2
+204,Pomdepik,Insecte,Fermeté Envelocape,50,65,90,35,35,15,2
+205,Foretress,Insecte Acier,Fermeté Envelocape,75,90,140,60,60,40,2
+206,Insolourdo,Normal,Sérénité Fuite Phobique,100,70,70,65,65,45,2
+207,Scorplane,Sol Vol,Hyper-Cutter Voile-Sable Vaccin,65,75,105,35,65,85,2
+208,Steelix,Acier Sol,Tête-de-Roc Fermeté Sans-Limite,75,85,200,55,65,30,2
+209,Snubbull,Normal,Intimidation Fuite Phobique,60,80,50,40,40,30,2
+210,Granbull,Normal,Intimidation Pied-Véloce Phobique,90,120,75,60,60,45,2
+211,Qwilfish,Eau Poison,Point-Poison Glissade Intimidation,65,95,75,55,55,85,2
+212,Cizayox,Insecte Acier,Essaim Technicien Light-Metal,70,130,100,55,80,65,2
+213,Caratroc,Insecte Roche,Fermeté Gloutonnerie Contestation,20,10,230,10,230,5,2
+214,Scarhino,Insecte Combat,Essaim Cran Impudence,80,125,75,40,95,85,2
+215,Farfuret,Ténèbres Glace,Attention Regard-Vif Pickpocket,55,95,55,35,75,115,2
+216,Teddiursa,Normal,Ramassage Pied-Véloce Cherche-Miel,60,80,50,50,50,40,2
+217,Ursaring,Normal,Cran Pied-Véloce Tension,90,130,75,75,75,55,2
+218,Limagma,Feu,Armumagma Corps-Ardent Armurouillée,40,40,40,70,40,20,2
+219,Volcaropod,Feu Roche,Armumagma Corps-Ardent Armurouillée,50,50,120,80,80,30,2
+220,Marcacrin,Glace Sol,Benêt Rideau-Neige Isograisse,50,50,40,30,30,50,2
+221,Cochignon,Glace Sol,Benêt Rideau-Neige Isograisse,100,100,80,60,60,50,2
+222,Corayon,Eau Roche,Agitation Médic-Nature Régé-Force,55,55,85,65,85,35,2
+223,Rémoraid,Eau,Agitation Sniper Lunatique,35,65,35,65,35,65,2
+224,Octillery,Eau,Ventouse Sniper Lunatique,75,105,75,105,75,45,2
+225,Cadoizo,Glace Vol,Esprit-Vital Agitation Insomnia,45,55,45,65,45,75,2
+226,Démanta,Eau Vol,Glissade Absorb-Eau Ignifu-Voile,65,40,70,80,140,70,2
+227,Airmure,Acier Vol,Regard-Vif Fermeté Armurouillée,65,80,140,40,70,70,2
+228,Malosse,Ténèbres Feu,Matinal Torche Tension,45,60,30,80,50,65,2
+229,Démolosse,Ténèbres Feu,Matinal Torche Tension,75,90,50,110,80,95,2
+230,Hyporoi,Eau Dragon,Glissade Sniper Moiteur,75,95,95,95,95,85,2
+231,Phanpy,Sol,Ramassage Voile-Sable,90,60,60,40,40,40,2
+232,Donphan,Sol,Fermeté Voile-Sable,90,120,120,60,60,50,2
+233,Porygon2,Normal,Calque Télécharge Analyste,85,80,90,105,95,60,2
+234,Cerfrousse,Normal,Intimidation Fouille Herbivore,73,95,62,85,65,85,2
+235,Queulorior,Normal,Tempo-Perso Technicien Lunatique,55,20,35,20,45,75,2
+236,Debugant,Combat,Cran Impassible Esprit-Vital,35,35,35,35,35,35,2
+237,Kapoera,Combat,Intimidation Technicien Impassible,50,95,95,35,110,70,2
+238,Lippouti,Glace Psy,Benêt Prédiction Hydratation,45,30,15,85,65,65,2
+239,Élekid,Électrik,Statik Esprit-Vital,45,63,37,65,55,95,2
+240,Magby,Feu,Corps-Ardent Esprit-Vital,45,75,37,70,55,83,2
+241,Écrémeuh,Normal,Isograisse Querelleur Herbivore,95,80,105,40,70,100,2
+242,Leuphorie,Normal,Médic-Nature Sérénité Coeur-Soin,255,10,10,75,135,55,2
+243,Raikou,Électrik,Pression Absorb-Volt,90,85,75,115,100,115,2
+244,Entei,Feu,Pression Torche,115,115,85,90,75,100,2
+245,Suicune,Eau,Pression Absorb-Eau,100,75,115,90,115,85,2
+246,Embrylex,Roche Sol,Cran Voile-Sable,50,64,50,45,50,41,2
+247,Ymphect,Roche Sol,Mue,70,84,70,65,70,51,2
+248,Tyranocif,Roche Ténèbres,Sable-Volant Tension,100,134,110,95,100,61,2
+249,Lugia,Psy Vol,Pression Multiécaille,106,90,130,90,154,110,2
+250,Ho-Oh,Feu Vol,Pression Régé-Force,106,130,90,110,154,90,2
+251,Celebi,Psy Plante,Médic-Nature,100,100,100,100,100,100,2
+252,Arcko,Plante,Engrais Délestage,40,45,35,65,55,70,3
+253,Massko,Plante,Engrais Délestage,50,65,45,85,65,95,3
+254,Jungko,Plante,Engrais Délestage,70,85,65,105,85,120,3
+255,Poussifeu,Feu,Brasier Turbo,45,60,40,70,50,45,3
+256,Galifeu,Feu Combat,Brasier Turbo,60,85,60,85,60,55,3
+257,Braségali,Feu Combat,Brasier Turbo,80,120,70,110,70,80,3
+258,Gobou,Eau,Torrent Moiteur,50,70,50,50,50,40,3
+259,Flobio,Eau Sol,Torrent Moiteur,70,85,70,60,70,50,3
+260,Laggron,Eau Sol,Torrent Moiteur,100,110,90,85,90,60,3
+261,Medhyèna,Ténèbres,Fuite Pied-Véloce Phobique,35,55,35,30,30,35,3
+262,Grahyèna,Ténèbres,Intimidation Pied-Véloce Impudence,70,90,70,60,60,70,3
+263,Zigzaton,Normal,Ramassage Gloutonnerie Pied-Véloce,38,30,41,30,41,60,3
+264,Linéon,Normal,Ramassage Gloutonnerie Pied-Véloce,78,70,61,50,61,100,3
+265,Chenipotte,Insecte,Écran-Poudre Fuite,45,45,35,20,30,20,3
+266,Armulys,Insecte,Mue,50,35,55,25,25,15,3
+267,Charmillon,Insecte Vol,Essaim Rivalité,60,70,50,90,50,65,3
+268,Blindalys,Insecte,Mue,50,35,55,25,25,15,3
+269,Papinox,Insecte Poison,Écran-Poudre Oeil-Composé,60,50,70,50,90,65,3
+270,Nénupiot,Eau Plante,Glissade Cuvette Tempo-Perso,40,30,30,40,50,30,3
+271,Lombre,Eau Plante,Glissade Cuvette Tempo-Perso,60,50,50,60,70,50,3
+272,Ludicolo,Eau Plante,Glissade Cuvette Tempo-Perso,80,70,70,90,100,70,3
+273,Grainipiot,Plante,Chlorophylle Matinal Pickpocket,40,40,50,30,30,30,3
+274,Pifeuil,Plante Ténèbres,Chlorophylle Matinal Pickpocket,70,70,40,60,40,60,3
+275,Tengalice,Plante Ténèbres,Chlorophylle Matinal Pickpocket,90,100,60,90,60,80,3
+276,Nirondelle,Normal Vol,Cran Querelleur,40,55,30,30,30,85,3
+277,Hélédelle,Normal Vol,Cran Querelleur,60,85,60,50,50,125,3
+278,Goélise,Eau Vol,Regard-Vif Cuvette,40,30,30,55,30,85,3
+279,Bekipan,Eau Vol,Regard-Vif Cuvette,60,50,100,85,70,65,3
+280,Tarsal,Psy,Synchro Calque Télépathe,28,25,25,45,35,40,3
+281,Kirlia,Psy,Synchro Calque Télépathe,38,35,35,65,55,50,3
+282,Gardevoir,Psy,Synchro Calque Télépathe,68,65,65,125,115,80,3
+283,Arakdo,Insecte Eau,Glissade Cuvette,40,30,32,50,52,65,3
+284,Maskadra,Insecte Vol,Intimidation Tension,70,60,62,80,82,60,3
+285,Balignon,Plante,Pose-Spore Soin-Poison Pied-Véloce,60,40,60,40,60,35,3
+286,Chapignon,Plante Combat,Pose-Spore Soin-Poison Technicien,60,130,80,60,60,70,3
+287,Parecool,Normal,Absentéisme,60,60,60,35,35,30,3
+288,Vigoroth,Normal,Esprit-Vital,80,80,80,55,55,90,3
+289,Monaflèmit,Normal,Absentéisme,150,160,100,95,65,100,3
+290,Ningale,Insecte Sol,Oeil-Composé Fuite,31,45,90,30,30,40,3
+291,Ninjask,Insecte Vol,Turbo Infiltration,61,90,45,50,50,160,3
+292,Munja,Insecte Spectre,Garde-Mystik,1,90,45,30,30,40,3
+293,Chuchmur,Normal,Anti-Bruit Phobique,64,51,23,51,23,28,3
+294,Ramboum,Normal,Anti-Bruit Querelleur,84,71,43,71,43,48,3
+295,Brouhabam,Normal,Anti-Bruit Querelleur,104,91,63,91,63,68,3
+296,Makuhita,Combat,Isograisse Cran Sans-Limite,72,60,30,20,30,25,3
+297,Hariyama,Combat,Isograisse Cran Sans-Limite,144,120,60,40,60,50,3
+298,Azurill,Normal,Isograisse Coloforce Herbivore,50,20,40,20,40,20,3
+299,Tarinor,Roche,Fermeté Magnépiège Force-Sable,30,45,135,45,90,30,3
+300,Skitty,Normal,Joli Sourire Normalise Peau-Miracle,50,45,45,35,35,50,3
+301,Delcatty,Normal,Joli Sourire Normalise Peau-Miracle,70,65,65,55,55,70,3
+302,Ténéfix,Ténèbres Spectre,Regard-Vif Frein Farceur,50,75,75,65,65,50,3
+303,Mysdibule,Acier,Hyper-Cutter Intimidation Sans-Limite,50,85,85,55,55,50,3
+304,Galekid,Acier Roche,Fermeté Tête-de-Roc Heavy-Metal,50,70,100,40,40,30,3
+305,Galegon,Acier Roche,Fermeté Tête-de-Roc Heavy-Metal,60,90,140,50,50,40,3
+306,Galeking,Acier Roche,Fermeté Tête-de-Roc Heavy-Metal,70,110,180,60,60,50,3
+307,Méditikka,Combat Psy,Force-Pure Télépathe,30,40,55,40,55,60,3
+308,Charmina,Combat Psy,Force-Pure Télépathe,60,60,75,60,75,80,3
+309,Dynavolt,Électrik,Statik Paratonnerre Minus,40,45,40,65,40,65,3
+310,Élecsprint,Électrik,Statik Paratonnerre Minus,70,75,60,105,60,105,3
+311,Posipi,Électrik,Plus,60,50,40,85,75,95,3
+312,Négapi,Électrik,Minus,60,40,50,75,85,95,3
+313,Muciole,Insecte,Lumiattirance Essaim Farceur,65,73,55,47,75,85,3
+314,Lumivole,Insecte,Benêt Lentiteintée Farceur,65,47,55,73,75,85,3
+315,Rosélia,Plante Poison,Médic-Nature Point-Poison Feuille-Garde,50,60,45,100,80,65,3
+316,Gloupti,Poison,Suintement Glue Gloutonnerie,70,43,53,43,53,40,3
+317,Avaltout,Poison,Suintement Glue Gloutonnerie,100,73,83,73,83,55,3
+318,Carvanha,Eau Ténèbres,Peau-Dure Turbo,45,90,20,65,20,65,3
+319,Sharpedo,Eau Ténèbres,Peau-Dure Turbo,70,120,40,95,40,95,3
+320,Wailmer,Eau,Ignifu-Voile Benêt Pression,130,70,35,70,35,60,3
+321,Wailord,Eau,Ignifu-Voile Benêt Pression,170,90,45,90,45,60,3
+322,Chamallot,Feu Sol,Benêt Simple Tempo-Perso,60,60,40,65,45,35,3
+323,Camérupt,Feu Sol,Armumagma Solide-Roc Colérique,70,100,70,105,75,40,3
+324,Chartor,Feu,Écran-Fumée Coque-Armure,70,85,140,85,70,20,3
+325,Spoink,Psy,Isograisse Tempo-Perso Gloutonnerie,60,25,35,70,80,60,3
+326,Groret,Psy,Isograisse Tempo-Perso Gloutonnerie,80,45,65,90,110,80,3
+327,Spinda,Normal,Tempo-Perso Pieds-Confus Contestation,60,60,60,60,60,60,3
+328,Kraknoix,Sol,Hyper-Cutter Piège-Sable Sans-Limite,45,100,45,45,45,10,3
+329,Vibraninf,Sol Dragon,Lévitation,50,70,50,50,50,70,3
+330,Libégon,Sol Dragon,Lévitation,80,100,80,80,80,100,3
+331,Cacnea,Plante,Voile-Sable Absorb-Eau,50,85,40,85,40,35,3
+332,Cacturne,Plante Ténèbres,Voile-Sable Absorb-Eau,70,115,60,115,60,55,3
+333,Tylton,Normal Vol,Médic-Nature Ciel-Gris,45,40,60,40,75,50,3
+334,Altaria,Dragon Vol,Médic-Nature Ciel-Gris,75,70,90,70,105,80,3
+335,Mangriff,Normal,Vaccin Rage-Poison,73,115,60,60,60,90,3
+336,Séviper,Poison,Mue Infiltration,73,100,60,100,60,65,3
+337,Séléroc,Roche Psy,Lévitation,70,55,65,95,85,70,3
+338,Solaroc,Roche Psy,Lévitation,70,95,85,55,65,70,3
+339,Barloche,Eau Sol,Benêt Anticipation Hydratation,50,48,43,46,41,60,3
+340,Barbicha,Eau Sol,Benêt Anticipation Hydratation,110,78,73,76,71,60,3
+341,Écrapince,Eau,Hyper-Cutter Coque-Armure Adaptabilité,43,80,65,50,35,35,3
+342,Colhomard,Eau Ténèbres,Hyper-Cutter Coque-Armure Adaptabilité,63,120,85,90,55,55,3
+343,Balbuto,Sol Psy,Lévitation,40,40,55,40,70,55,3
+344,Kaorine,Sol Psy,Lévitation,60,70,105,70,120,75,3
+345,Lilia,Roche Plante,Ventouse Lavabo,66,41,77,61,87,23,3
+346,Vacilys,Roche Plante,Ventouse Lavabo,86,81,97,81,107,43,3
+347,Anorith,Roche Insecte,Armurbaston Glissade,45,95,50,40,50,75,3
+348,Armaldo,Roche Insecte,Armurbaston Glissade,75,125,100,70,80,45,3
+349,Barpau,Eau,Glissade Adaptabilité,20,15,20,10,55,80,3
+350,Milobellus,Eau,Écaille-Spéciale,95,60,79,100,125,81,3
+351,Morphéo,Normal,Météo,70,70,70,70,70,70,3
+351,Morphéo Eau de Pluie,Eau,Météo,70,70,70,70,70,70,3
+351,Morphéo Solaire,Feu,Météo,70,70,70,70,70,70,3
+351,Morphéo Blizzard,Glace,Météo,70,70,70,70,70,70,3
+352,Kecleon,Normal,Déguisement,60,90,70,60,120,40,3
+353,Polichombr,Spectre,Insomnia Fouille Corps-Maudit,44,75,35,63,33,45,3
+354,Branette,Spectre,Insomnia Fouille Corps-Maudit,64,115,65,83,63,65,3
+355,Skelénox,Spectre,Lévitation,20,40,90,30,90,25,3
+356,Téraclope,Spectre,Pression,40,70,130,60,130,25,3
+357,Tropius,Plante Vol,Chlorophylle Force-Soleil Récolte,99,68,83,72,87,51,3
+358,Éoko,Psy,Lévitation,65,50,70,95,80,65,3
+359,Absol,Ténèbres,Pression Chanceux Coeur-Noble,65,130,60,75,60,75,3
+360,Okéoké,Psy,Marque-Ombre Télépathe,95,23,48,23,48,23,3
+361,Stalgamin,Glace,Attention Corps-Gel Lunatique,50,50,50,50,50,50,3
+362,Oniglali,Glace,Attention Corps-Gel Lunatique,80,80,80,80,80,80,3
+363,Obalie,Glace Eau,Isograisse Corps-Gel Benêt,70,40,50,55,50,25,3
+364,Phogleur,Glace Eau,Isograisse Corps-Gel Benêt,90,60,70,75,70,45,3
+365,Kaimorse,Glace Eau,Isograisse Corps-Gel Benêt,110,80,90,95,90,65,3
+366,Coquiperl,Eau,Coque-Armure Phobique,35,64,85,74,55,32,3
+367,Serpang,Eau,Glissade Ignifu-Voile,55,104,105,94,75,52,3
+368,Rosabyss,Eau,Glissade Hydratation,55,84,105,114,75,52,3
+369,Relicanth,Eau Roche,Glissade Tête-de-Roc Fermeté,100,90,130,45,65,55,3
+370,Lovdisc,Eau,Glissade Hydratation,43,30,55,40,65,97,3
+371,Draby,Dragon,Tête-de-Roc Sans-Limite,45,75,60,40,30,50,3
+372,Drackhaus,Dragon,Tête-de-Roc Envelocape,65,95,100,60,50,50,3
+373,Drattak,Dragon Vol,Intimidation Impudence,95,135,80,110,80,100,3
+374,Terhal,Acier Psy,Corps-Sain Light-Metal,40,55,80,35,60,30,3
+375,Métang,Acier Psy,Corps-Sain Light-Metal,60,75,100,55,80,50,3
+376,Métalosse,Acier Psy,Corps-Sain Light-Metal,80,135,130,95,90,70,3
+377,Regirock,Roche,Corps-Sain Fermeté,80,100,200,50,100,50,3
+378,Regice,Glace,Corps-Sain Corps-Gel,80,50,100,100,200,50,3
+379,Registeel,Acier,Corps-Sain Light-Metal,80,75,150,75,150,50,3
+380,Latias,Dragon Psy,Lévitation,80,80,90,110,130,110,3
+381,Latios,Dragon Psy,Lévitation,80,90,80,130,110,110,3
+382,Kyogre,Eau,Crachin,100,100,90,150,140,90,3
+383,Groudon,Sol,Sécheresse,100,150,140,100,90,90,3
+384,Rayquaza,Dragon Vol,Air-Lock,105,150,90,150,90,95,3
+385,Jirachi,Acier Psy,Sérénité,100,100,100,100,100,100,3
+386,Deoxys,Psy,Pression,50,150,50,150,50,150,3
+386,Deoxys Attaque,Psy,Pression,50,180,20,180,20,150,3
+386,Deoxys Défense,Psy,Pression,50,70,160,70,160,90,3
+386,Deoxys Vitesse,Psy,Pression,50,95,90,95,90,180,3
+387,Tortipouss,Plante,Engrais Coque-Armure,55,68,64,45,55,31,4
+388,Boskara,Plante,Engrais Coque-Armure,75,89,85,55,65,36,4
+389,Torterra,Plante Sol,Engrais Coque-Armure,95,109,105,75,85,56,4
+390,Ouisticram,Feu,Brasier Poing-de-Fer,44,58,44,58,44,61,4
+391,Chimpenfeu,Feu Combat,Brasier Poing-de-Fer,64,78,52,78,52,81,4
+392,Simiabraz,Feu Combat,Brasier Poing-de-Fer,76,104,71,104,71,108,4
+393,Tiplouf,Eau,Torrent Acharné,53,51,53,61,56,40,4
+394,Prinplouf,Eau,Torrent Acharné,64,66,68,81,76,50,4
+395,Pingoléon,Eau Acier,Torrent Acharné,84,86,88,111,101,60,4
+396,Étourmi,Normal Vol,Regard-Vif,40,55,30,30,30,60,4
+397,Étourvol,Normal Vol,Intimidation Téméraire,55,75,50,40,40,80,4
+398,Étouraptor,Normal Vol,Intimidation Téméraire,85,120,70,50,50,100,4
+399,Keunotor,Normal,Simple Inconscient Lunatique,59,45,40,35,40,31,4
+400,Castorno,Normal Eau,Simple Inconscient Lunatique,79,85,60,55,60,71,4
+401,Crikzik,Insecte,Mue Fuite,37,25,41,25,41,25,4
+402,Mélokrik,Insecte,Essaim Technicien,77,85,51,55,51,65,4
+403,Lixy,Électrik,Rivalité Intimidation Cran,45,65,34,40,34,45,4
+404,Luxio,Électrik,Rivalité Intimidation Cran,60,85,49,60,49,60,4
+405,Luxray,Électrik,Rivalité Intimidation Cran,80,120,79,95,79,70,4
+406,Rozbouton,Plante Poison,Médic-Nature Point-Poison Feuille-Garde,40,30,35,50,70,55,4
+407,Roserade,Plante Poison,Médic-Nature Point-Poison Technicien,60,70,55,125,105,90,4
+408,Kranidos,Roche,Brise-Moule Sans-Limite,67,125,40,30,30,58,4
+409,Charkos,Roche,Brise-Moule Sans-Limite,97,165,60,65,50,58,4
+410,Dinoclier,Roche Acier,Fermeté Anti-Bruit,30,42,118,42,88,30,4
+411,Bastiodon,Roche Acier,Fermeté Anti-Bruit,60,52,168,47,138,30,4
+412,Cheniti Cape Plante,Insecte,Mue Envelocape,40,29,45,29,45,36,4
+412,Cheniti Cape Sable,Insecte,Mue Envelocape,40,29,45,29,45,36,4
+412,Cheniti Cape Déchet,Insecte,Mue Envelocape,40,29,45,29,45,36,4
+413,Cheniselle Cape Plante,Insecte Plante,Anticipation Envelocape,60,59,85,79,105,36,4
+413,Cheniselle Cape Sable,Insecte Sol,Anticipation Envelocape,60,79,105,59,85,36,4
+413,Cheniselle Cape Déchet,Insecte Acier,Anticipation Envelocape,60,69,95,69,95,36,4
+414,Papilord,Insecte Vol,Essaim Lentiteintée,70,94,50,94,50,66,4
+415,Apitrini,Insecte Vol,Cherche-Miel Agitation,30,30,42,30,42,70,4
+416,Apireine,Insecte Vol,Pression Tension,70,80,102,80,102,40,4
+417,Pachirisu,Électrik,Fuite Ramassage Absorb-Volt,60,45,70,45,90,95,4
+418,Mustébouée,Eau,Glissade Ignifu-Voile,55,65,35,60,30,85,4
+419,Mustéflott,Eau,Glissade Ignifu-Voile,85,105,55,85,50,115,4
+420,Ceribou,Plante,Chlorophylle,45,35,45,62,53,35,4
+421,Ceriflor Temps Couvert,Plante,Don-Floral,70,60,70,87,78,85,4
+421,Ceriflor Temps Ensoleillé,Plante,Don-Floral,70,60,70,87,78,85,4
+422,Sancoki Ouest,Eau,Glue Lavabo Force-Sable,76,48,48,57,62,34,4
+422,Sancoki Est,Eau,Glue Lavabo Force-Sable,76,48,48,57,62,34,4
+423,Tritosor Ouest,Eau Sol,Glue Lavabo Force-Sable,111,83,68,92,82,39,4
+423,Tritosor Est,Eau Sol,Glue Lavabo Force-Sable,111,83,68,92,82,39,4
+424,Capidextre,Normal,Technicien Ramassage Multi-Coups,75,100,66,60,66,115,4
+425,Baudrive,Spectre Vol,Boom-Final Délestage Rage-Brûlure,90,50,34,60,44,70,4
+426,Grodrive,Spectre Vol,Boom-Final Délestage Rage-Brûlure,150,80,44,90,54,80,4
+427,Laporeille,Normal,Fuite Maladresse Échauffement,55,66,44,44,56,85,4
+428,Lockpin,Normal,Joli Sourire Maladresse Échauffement,65,76,84,54,96,105,4
+429,Magirêve,Spectre,Lévitation,60,60,60,105,105,105,4
+430,Corboss,Ténèbres Vol,Insomnia Chanceux Impudence,100,125,52,105,52,71,4
+431,Chaglam,Normal,Échauffement Tempo-Perso Regard-Vif,49,55,42,42,37,85,4
+432,Chaffreux,Normal,Isograisse Tempo-Perso Acharné,71,82,64,64,59,112,4
+433,Korillon,Psy,Lévitation,45,30,50,65,50,45,4
+434,Moufouette,Poison Ténèbres,Puanteur Boom-Final Regard-Vif,63,63,47,41,41,74,4
+435,Moufflair,Poison Ténèbres,Puanteur Boom-Final Regard-Vif,103,93,67,71,61,84,4
+436,Archéomire,Acier Psy,Lévitation Ignifugé Heavy-Metal,57,24,86,24,86,23,4
+437,Archéodong,Acier Psy,Lévitation Ignifugé Heavy-Metal,67,89,116,79,116,33,4
+438,Manzaï,Roche,Fermeté Tête-de-Roc Phobique,50,80,95,10,45,10,4
+439,Mime Jr.,Psy,Anti-Bruit Filtre Technicien,20,25,45,70,90,60,4
+440,Ptiravi,Normal,Médic-Nature Sérénité Garde-Amie,100,5,5,15,65,30,4
+441,Pijako,Normal Vol,Regard-Vif Pieds-Confus Coeur-de-Coq,76,65,45,92,42,91,4
+442,Spiritomb,Spectre Ténèbres,Pression Infiltration,50,92,108,92,108,35,4
+443,Griknot,Dragon Sol,Voile-Sable Peau-Dure,58,70,45,40,45,42,4
+444,Carmache,Dragon Sol,Voile-Sable Peau-Dure,68,90,65,50,55,82,4
+445,Carchacrok,Dragon Sol,Voile-Sable Peau-Dure,108,130,95,80,85,102,4
+446,Goinfrex,Normal,Ramassage Isograisse Gloutonnerie,135,85,40,40,85,5,4
+447,Riolu,Combat,Impassible Attention Farceur,40,70,40,35,40,60,4
+448,Lucario,Combat Acier,Impassible Attention Coeur-Noble,70,110,70,115,70,90,4
+449,Hippopotas,Sol,Sable-Volant Force-Sable,68,72,78,38,42,32,4
+450,Hippodocus,Sol,Sable-Volant Force-Sable,108,112,118,68,72,47,4
+451,Rapion,Poison Insecte,Armurbaston Sniper Regard-Vif,40,50,90,30,55,65,4
+452,Drascore,Poison Ténèbres,Armurbaston Sniper Regard-Vif,70,90,110,60,75,95,4
+453,Cradopaud,Poison Combat,Anticipation Peau-Sèche Toxitouche,48,61,40,61,40,50,4
+454,Coatox,Poison Combat,Anticipation Peau-Sèche Toxitouche,83,106,65,86,65,85,4
+455,Vortente,Plante,Lévitation,74,100,72,90,72,46,4
+456,Écayon,Eau,Glissade Lavabo Ignifu-Voile,49,49,56,49,61,66,4
+457,Luminéon,Eau,Glissade Lavabo Ignifu-Voile,69,69,76,69,86,91,4
+458,Babimanta,Eau Vol,Glissade Absorb-Eau Ignifu-Voile,45,20,50,60,120,50,4
+459,Blizzi,Plante Glace,Alerte-Neige Anti-Bruit,60,62,50,62,60,40,4
+460,Blizzaroi,Plante Glace,Alerte-Neige Anti-Bruit,90,92,75,92,85,60,4
+461,Dimoret,Ténèbres Glace,Pression Pickpocket,70,120,65,45,85,125,4
+462,Magnézone,Électrik Acier,Magnépiège Fermeté Analyste,70,70,115,130,90,60,4
+463,Coudlangue,Normal,Tempo-Perso Benêt Ciel-Gris,110,85,95,80,95,50,4
+464,Rhinastoc,Sol Roche,Paratonnerre Solide-Roc Téméraire,115,140,130,55,55,40,4
+465,Bouldeneu,Plante,Chlorophylle Feuille-Garde Régé-Force,100,100,125,110,50,50,4
+466,Élekable,Électrik,Motorisé Esprit-Vital,75,123,67,95,85,95,4
+467,Maganon,Feu,Corps-Ardent Esprit-Vital,75,95,67,125,95,83,4
+468,Togekiss,Normal Vol,Agitation Sérénité Chanceux,85,50,95,120,115,80,4
+469,Yanméga,Insecte Vol,Turbo Lentiteintée Fouille,86,76,86,116,56,95,4
+470,Phyllali,Plante,Feuille-Garde Chlorophylle,65,110,130,60,65,95,4
+471,Givrali,Glace,Rideau-Neige Corps-Gel,65,60,110,130,95,65,4
+472,Scorvol,Sol Vol,Hyper-Cutter Voile-Sable Soin-Poison,75,95,125,45,75,95,4
+473,Mammochon,Glace Sol,Benêt Rideau-Neige Isograisse,110,130,80,70,60,80,4
+474,Porygon-Z,Normal,Adaptabilité Télécharge Analyste,85,80,70,135,75,90,4
+475,Gallame,Psy Combat,Impassible Coeur-Noble,68,125,65,65,115,80,4
+476,Tarinorme,Roche Acier,Fermeté Magnépiège Force-Sable,60,55,145,75,150,40,4
+477,Noctunoir,Spectre,Pression,45,100,135,65,135,45,4
+478,Momartik,Glace Spectre,Rideau-Neige Corps-Maudit,70,80,70,80,70,110,4
+479,Motisma,Électrik Spectre,Lévitation,50,50,77,95,77,91,4
+479,Motisma Chaleur,Électrik Feu,Lévitation,50,65,107,105,107,86,4
+479,Motisma Froid,Électrik Glace,Lévitation,50,65,107,105,107,86,4
+479,Motisma Lavage,Électrik Eau,Lévitation,50,65,107,105,107,86,4
+479,Motisma Hélice,Électrik Vol,Lévitation,50,65,107,105,107,86,4
+479,Motisma Tonte,Électrik Plante,Lévitation,50,65,107,105,107,86,4
+480,Créhelf,Psy,Lévitation,75,75,130,75,130,95,4
+481,Créfollet,Psy,Lévitation,80,105,105,105,105,80,4
+482,Créfadet,Psy,Lévitation,75,125,70,125,70,115,4
+483,Dialga,Acier Dragon,Pression Télépathe,100,120,120,150,100,90,4
+484,Palkia,Eau Dragon,Pression Télépathe,90,120,100,150,120,100,4
+485,Heatran,Feu Acier,Torche Corps-Ardent,91,90,106,130,106,77,4
+486,Regigigas,Normal,Début-Calme,110,160,110,80,110,100,4
+487,Giratina,Spectre Dragon,Pression Télépathe,150,100,120,100,120,90,4
+487,Giratina Originel,Spectre Dragon,Lévitation,150,120,100,120,100,90,4
+488,Cresselia,Psy,Lévitation,120,70,120,75,130,85,4
+489,Phione,Eau,Hydratation,80,80,80,80,80,80,4
+490,Manaphy,Eau,Hydratation,100,100,100,100,100,100,4
+491,Darkrai,Ténèbres,Mauvais-Rêve,70,90,90,135,90,125,4
+492,Shaymin,Plante,Médic-Nature,100,100,100,100,100,100,4
+492,Shaymin Céleste,Plante Vol,Sérénité,100,103,75,120,75,127,4
+493,Arceus,Normal,Multitype,120,120,120,120,120,120,4
+493,Arceus Insecte,Insecte,Multitype,120,120,120,120,120,120,4
+493,Arceus Dragon,Dragon,Multitype,120,120,120,120,120,120,4
+493,Arceus Ténèbres,Ténèbres,Multitype,120,120,120,120,120,120,4
+493,Arceus Électrik,Électrik,Multitype,120,120,120,120,120,120,4
+493,Arceus Vol,Vol,Multitype,120,120,120,120,120,120,4
+493,Arceus Combat,Combat,Multitype,120,120,120,120,120,120,4
+493,Arceus Spectre,Spectre,Multitype,120,120,120,120,120,120,4
+493,Arceus Sol,Sol,Multitype,120,120,120,120,120,120,4
+493,Arceus Feu,Feu,Multitype,120,120,120,120,120,120,4
+493,Arceus Plante,Plante,Multitype,120,120,120,120,120,120,4
+493,Arceus Glace,Glace,Multitype,120,120,120,120,120,120,4
+493,Arceus Psy,Psy,Multitype,120,120,120,120,120,120,4
+493,Arceus Roche,Roche,Multitype,120,120,120,120,120,120,4
+493,Arceus Acier,Acier,Multitype,120,120,120,120,120,120,4
+493,Arceus Poison,Poison,Multitype,120,120,120,120,120,120,4
+493,Arceus Eau,Eau,Multitype,120,120,120,120,120,120,4
+494,Victini,Psy Feu,Victorieux,100,100,100,100,100,100,5
+495,Vipélierre,Plante,Engrais Contestation,45,45,55,45,55,63,5
+496,Lianaja,Plante,Engrais Contestation,60,60,75,60,75,83,5
+497,Majaspic,Plante,Engrais Contestation,75,75,95,75,95,113,5
+498,Gruikui,Feu,Brasier Isograisse,65,63,45,45,45,45,5
+499,Grotichon,Feu Combat,Brasier Isograisse,90,93,55,70,55,55,5
+500,Roitiflam,Feu Combat,Brasier Téméraire,110,123,65,100,65,65,5
+501,Moustillon,Eau,Torrent Coque-Armure,55,55,45,63,45,45,5
+502,Mateloutre,Eau,Torrent Coque-Armure,75,75,60,83,60,60,5
+503,Clamiral,Eau,Torrent Coque-Armure,95,100,85,108,70,70,5
+504,Ratentif,Normal,Fuite Regard-Vif Analyste,45,55,39,35,39,42,5
+505,Miradar,Normal,Lumiattirance Regard-Vif Analyste,60,85,69,60,69,77,5
+506,Ponchiot,Normal,Esprit-Vital Ramassage Fuite,45,60,45,25,45,55,5
+507,Ponchien,Normal,Intimidation Baigne-Sable Querelleur,65,80,65,35,65,60,5
+508,Mastouffe,Normal,Intimidation Baigne-Sable Querelleur,85,100,90,45,90,80,5
+509,Chacripan,Ténèbres,Échauffement Délestage Farceur,41,50,37,50,37,66,5
+510,Léopardus,Ténèbres,Échauffement Délestage Farceur,64,88,50,88,50,106,5
+511,Feuillajou,Plante,Gloutonnerie Engrais,50,53,48,53,48,64,5
+512,Feuiloutan,Plante,Gloutonnerie Engrais,75,98,63,98,63,101,5
+513,Flamajou,Feu,Gloutonnerie Brasier,50,53,48,53,48,64,5
+514,Flamoutan,Feu,Gloutonnerie Brasier,75,98,63,98,63,101,5
+515,Flotajou,Eau,Gloutonnerie Torrent,50,53,48,53,48,64,5
+516,Flotoutan,Eau,Gloutonnerie Torrent,75,98,63,98,63,101,5
+517,Munna,Psy,Prédiction Synchro Télépathe,76,25,45,67,55,24,5
+518,Mushana,Psy,Prédiction Synchro Télépathe,116,55,85,107,95,29,5
+519,Poichigeon,Normal Vol,Coeur-de-Coq Chanceux Rivalité,50,55,50,36,30,43,5
+520,Colombeau,Normal Vol,Coeur-de-Coq Chanceux Rivalité,62,77,62,50,42,65,5
+521,Déflaisan,Normal Vol,Coeur-de-Coq Chanceux Rivalité,80,105,80,65,55,93,5
+522,Zébibron,Électrik,Paratonnerre Motorisé Herbivore,45,60,32,50,32,76,5
+523,Zéblitz,Électrik,Paratonnerre Motorisé Herbivore,75,100,63,80,63,116,5
+524,Nodulithe,Roche,Fermeté Force-Sable,55,75,85,25,25,15,5
+525,Géolithe,Roche,Fermeté Force-Sable,70,105,105,50,40,20,5
+526,Gigalithe,Roche,Fermeté Force-Sable,85,135,130,60,70,25,5
+527,Chovsourir,Psy Vol,Inconscient Maladresse Simple,55,45,43,55,43,72,5
+528,Rhinolove,Psy Vol,Inconscient Maladresse Simple,67,57,55,77,55,114,5
+529,Rototaupe,Sol,Baigne-Sable Force-Sable Brise-Moule,60,85,40,30,45,68,5
+530,Minotaupe,Sol Acier,Baigne-Sable Force-Sable Brise-Moule,110,135,60,50,65,88,5
+531,Nanméouïe,Normal,Coeur-Soin Régé-Force Maladresse,103,60,86,60,86,50,5
+532,Charpenti,Combat,Cran Sans-Limite Poing-de-Fer,75,80,55,25,35,35,5
+533,Ouvrifier,Combat,Cran Sans-Limite Poing-de-Fer,85,105,85,40,50,40,5
+534,Bétochef,Combat,Cran Sans-Limite Poing-de-Fer,105,140,95,55,65,45,5
+535,Tritonde,Eau,Glissade Hydratation Absorb-Eau,50,50,40,50,40,64,5
+536,Batracné,Eau Sol,Glissade Hydratation Absorb-Eau,75,65,55,65,55,69,5
+537,Crapustule,Eau Sol,Glissade Toxitouche Absorb-Eau,105,85,75,85,75,74,5
+538,Judokrak,Combat,Cran Attention Brise-Moule,120,100,85,30,85,45,5
+539,Karaclée,Combat,Fermeté Attention Brise-Moule,75,125,75,30,75,85,5
+540,Larveyette,Insecte Plante,Essaim Chlorophylle Envelocape,45,53,70,40,60,42,5
+541,Couverdure,Insecte Plante,Feuille-Garde Chlorophylle Envelocape,55,63,90,50,80,42,5
+542,Manternel,Insecte Plante,Essaim Chlorophylle Envelocape,75,103,80,70,70,92,5
+543,Venipatte,Insecte Poison,Point-Poison Essaim Pied-Véloce,30,45,59,30,39,57,5
+544,Scobolide,Insecte Poison,Point-Poison Essaim Pied-Véloce,40,55,99,40,79,47,5
+545,Brutapode,Insecte Poison,Point-Poison Essaim Pied-Véloce,60,90,89,55,69,112,5
+546,Doudouvet,Plante,Farceur Infiltration Chlorophylle,40,27,60,37,50,66,5
+547,Farfaduvet,Plante,Farceur Infiltration Chlorophylle,60,67,85,77,75,116,5
+548,Chlorobule,Plante,Chlorophylle Tempo-Perso Feuille-Garde,45,35,50,70,50,30,5
+549,Fragilady,Plante,Chlorophylle Tempo-Perso Feuille-Garde,70,60,75,110,75,90,5
+550,Bargantua Motif Rouge,Eau,Téméraire Adaptabilité Brise-Moule,70,92,65,80,55,98,5
+550,Bargantua Motif Bleu,Eau,Tête-de-Roc Adaptabilité Brise-Moule,70,92,65,80,55,98,5
+551,Mascaïman,Sol Ténèbres,Intimidation Impudence Colérique,50,72,35,35,35,65,5
+552,Escroco,Sol Ténèbres,Intimidation Impudence Colérique,60,82,45,45,45,74,5
+553,Crocorible,Sol Ténèbres,Intimidation Impudence Colérique,95,117,70,65,70,92,5
+554,Darumarond,Feu,Agitation Attention,70,90,45,15,45,50,5
+555,Darumacho,Feu,Sans-Limite Mode-Transe,105,140,55,30,55,95,5
+555,Darumacho Mode-Transe,Feu Psy,Mode-Transe,105,30,105,140,105,55,5
+556,Maracachi,Plante,Absorb-Eau Chlorophylle Lavabo,75,86,67,106,67,60,5
+557,Crabicoque,Insecte Roche,Fermeté Coque-Armure Armurouillée,50,65,85,35,35,55,5
+558,Crabaraque,Insecte Roche,Fermeté Coque-Armure Armurouillée,70,95,125,65,75,45,5
+559,Baggiguane,Ténèbres Combat,Mue Impudence Intimidation,50,75,70,35,70,48,5
+560,Baggaïd,Ténèbres Combat,Mue Impudence Intimidation,65,90,115,45,115,58,5
+561,Cryptéro,Psy Vol,Peau-Miracle Garde-Magik Lentiteintée,72,58,80,103,80,97,5
+562,Tutafeh,Spectre,Momie,38,30,85,55,65,30,5
+563,Tutankafer,Spectre,Momie,58,50,145,95,105,30,5
+564,Carapagos,Eau Roche,Solide-Roc Fermeté Glissade,54,78,103,53,45,22,5
+565,Mégapagos,Eau Roche,Solide-Roc Fermeté Glissade,74,108,133,83,65,32,5
+566,Arkéapti,Roche Vol,Défaitiste,55,112,45,74,45,70,5
+567,Aéroptéryx,Roche Vol,Défaitiste,75,140,65,112,65,110,5
+568,Miamiasme,Poison,Puanteur Glue Boom-Final,50,50,62,40,62,65,5
+569,Miasmax,Poison,Puanteur Armurouillée Boom-Final,80,95,82,60,82,75,5
+570,Zorua,Ténèbres,Illusion,40,65,40,80,40,65,5
+571,Zoroark,Ténèbres,Illusion,60,105,60,120,60,105,5
+572,Chinchidou,Normal,Joli Sourire Technicien Multi-Coups,55,50,40,40,40,75,5
+573,Pashmilla,Normal,Joli Sourire Technicien Multi-Coups,75,95,60,65,60,115,5
+574,Scrutella,Psy,Fouille Marque-Ombre,45,30,50,55,65,45,5
+575,Mesmérella,Psy,Fouille Marque-Ombre,60,45,70,75,85,55,5
+576,Sidérella,Psy,Fouille Marque-Ombre,70,55,95,95,110,65,5
+577,Nucléos,Psy,Envelocape Garde-Magik Régé-Force,45,30,40,105,50,20,5
+578,Méios,Psy,Envelocape Garde-Magik Régé-Force,65,40,50,125,60,30,5
+579,Symbios,Psy,Envelocape Garde-Magik Régé-Force,110,65,75,125,85,30,5
+580,Couaneton,Eau Vol,Regard-Vif Coeur-de-Coq Hydratation,62,44,50,44,50,55,5
+581,Lakmécygne,Eau Vol,Regard-Vif Coeur-de-Coq Hydratation,75,87,63,87,63,98,5
+582,Sorbébé,Glace,Corps-Gel Armurouillée,36,50,50,65,60,44,5
+583,Sorboul,Glace,Corps-Gel Armurouillée,51,65,65,80,75,59,5
+584,Sorbouboul,Glace,Corps-Gel Armurouillée,71,95,85,110,95,79,5
+585,Vivaldaim du Printemps,Normal Plante,Chlorophylle Herbivore Sérénité,60,60,50,40,50,75,5
+585,Vivaldaim de l'Hiver,Normal Plante,Chlorophylle Herbivore Sérénité,60,60,50,40,50,75,5
+585,Vivaldaim de l'Été,Normal Plante,Chlorophylle Herbivore Sérénité,60,60,50,40,50,75,5
+585,Vivaldaim de l'Automne,Normal Plante,Chlorophylle Herbivore Sérénité,60,60,50,40,50,75,5
+586,Haydaim du Printemps,Normal Plante,Chlorophylle Herbivore Sérénité,80,100,70,60,70,95,5
+586,Haydaim de l'Été,Normal Plante,Chlorophylle Herbivore Sérénité,80,100,70,60,70,95,5
+586,Haydaim de l'Automne,Normal Plante,Chlorophylle Herbivore Sérénité,80,100,70,60,70,95,5
+586,Haydaim de l'Hiver,Normal Plante,Chlorophylle Herbivore Sérénité,80,100,70,60,70,95,5
+587,Emolga,Électrik Vol,Statik Motorisé,55,75,60,75,60,103,5
+588,Carabing,Insecte,Essaim Mue Annule-Garde,50,75,45,40,45,60,5
+589,Lançargot,Insecte Acier,Essaim Coque-Armure Envelocape,70,135,105,60,105,20,5
+590,Trompignon,Plante Poison,Pose-Spore Régé-Force,69,55,45,55,55,15,5
+591,Gaulet,Plante Poison,Pose-Spore Régé-Force,114,85,70,85,80,30,5
+592,Viskuse,Eau Spectre,Absorb-Eau Corps-Maudit Moiteur,55,40,50,65,85,40,5
+593,Moyade,Eau Spectre,Absorb-Eau Corps-Maudit Moiteur,100,60,70,85,105,60,5
+594,Mamanbo,Eau,Coeur-Soin Hydratation Régé-Force,165,75,80,40,45,65,5
+595,Statitik,Insecte Électrik,Oeil-Composé Tension Essaim,50,47,50,57,50,65,5
+596,Mygavolt,Insecte Électrik,Oeil-Composé Tension Essaim,70,77,60,97,60,108,5
+597,Grindur,Plante Acier,Épine-de-Fer,44,50,91,24,86,10,5
+598,Noacier,Plante Acier,Épine-de-Fer,74,94,131,54,116,20,5
+599,Tic,Acier,Plus Minus Corps-Sain,40,55,70,45,60,30,5
+600,Clic,Acier,Plus Minus Corps-Sain,60,80,95,70,85,50,5
+601,Cliticlic,Acier,Plus Minus Corps-Sain,60,100,115,70,85,90,5
+602,Anchwatt,Électrik,Lévitation,35,55,40,45,40,60,5
+603,Lampéroie,Électrik,Lévitation,65,85,70,75,70,40,5
+604,Ohmassacre,Électrik,Lévitation,85,115,80,105,80,50,5
+605,Lewsor,Psy,Télépathe Synchro Analyste,55,55,55,85,55,30,5
+606,Neitram,Psy,Télépathe Synchro Analyste,75,75,75,125,95,40,5
+607,Funécire,Spectre Feu,Torche Corps-Ardent Marque-Ombre,50,30,55,65,55,20,5
+608,Mélancolux,Spectre Feu,Torche Corps-Ardent Marque-Ombre,60,40,60,95,60,55,5
+609,Lugulabre,Spectre Feu,Torche Corps-Ardent Marque-Ombre,60,55,90,145,90,80,5
+610,Coupenotte,Dragon,Rivalité Brise-Moule Tension,46,87,60,30,40,57,5
+611,Incisache,Dragon,Rivalité Brise-Moule Tension,66,117,70,40,50,67,5
+612,Tranchodon,Dragon,Rivalité Brise-Moule Tension,76,147,90,60,70,97,5
+613,Polarhume,Glace,Rideau-Neige Phobique,55,70,40,60,40,40,5
+614,Polagriffe,Glace,Rideau-Neige Glissade,95,110,80,70,80,50,5
+615,Hexagel,Glace,Lévitation,70,50,30,95,135,105,5
+616,Escargaume,Insecte,Hydratation Coque-Armure Envelocape,50,40,85,40,65,25,5
+617,Limaspeed,Insecte,Hydratation Glue Délestage,80,70,40,100,60,145,5
+618,Limonde,Sol Électrik,Statik Échauffement Voile-Sable,109,66,84,81,99,32,5
+619,Kungfouine,Combat,Attention Régé-Force Téméraire,45,85,50,55,50,65,5
+620,Shaofouine,Combat,Attention Régé-Force Téméraire,65,125,60,95,60,105,5
+621,Drakkarmin,Dragon,Peau-Dure Sans-Limite Brise-Moule,77,120,90,60,90,48,5
+622,Gringolem,Sol Spectre,Poing-de-Fer Maladresse Annule-Garde,59,74,50,35,50,35,5
+623,Golemastoc,Sol Spectre,Poing-de-Fer Maladresse Annule-Garde,89,124,80,55,80,55,5
+624,Scalpion,Ténèbres Acier,Acharné Attention Pression,45,85,70,40,40,60,5
+625,Scalproie,Ténèbres Acier,Acharné Attention Pression,65,125,100,60,70,70,5
+626,Frison,Normal,Téméraire Herbivore Anti-Bruit,95,110,95,40,95,55,5
+627,Furaiglon,Normal Vol,Regard-Vif Sans-Limite Agitation,70,83,50,37,50,60,5
+628,Gueriaigle,Normal Vol,Regard-Vif Sans-Limite Acharné,100,123,75,57,75,80,5
+629,Vostourno,Ténèbres Vol,Coeur-de-Coq Envelocape Armurouillée,70,55,75,45,65,60,5
+630,Vaututrice,Ténèbres Vol,Coeur-de-Coq Envelocape Armurouillée,110,65,105,55,95,80,5
+631,Aflamanoir,Feu,Gloutonnerie Torche Écran-Fumée,85,97,66,105,66,65,5
+632,Fermite,Insecte Acier,Essaim Agitation Absentéisme,58,109,112,48,48,109,5
+633,Solochi,Ténèbres Dragon,Agitation,52,65,50,45,50,38,5
+634,Diamat,Ténèbres Dragon,Agitation,72,85,70,65,70,58,5
+635,Trioxhydre,Ténèbres Dragon,Lévitation,92,105,90,125,90,98,5
+636,Pyronille,Insecte Feu,Corps-Ardent Essaim,55,85,55,50,55,60,5
+637,Pyrax,Insecte Feu,Corps-Ardent Essaim,85,60,65,135,105,100,5
+638,Cobaltium,Acier Combat,Coeur-Noble,91,90,129,90,72,108,5
+639,Terrakium,Roche Combat,Coeur-Noble,91,129,90,72,90,108,5
+640,Viridium,Plante Combat,Coeur-Noble,91,90,72,90,129,108,5
+641,Boréas,Vol,Farceur Acharné,79,115,70,125,80,111,5
+641,Boréas Totémique,Vol,Régé-Force,79,100,80,110,90,121,5
+642,Fulguris,Électrik Vol,Farceur Acharné,79,115,70,125,80,111,5
+642,Fulguris Totémique,Électrik Vol,Absorb-Volt,79,105,70,145,80,101,5
+643,Reshiram,Dragon Feu,TurboBrasier,100,120,100,150,120,90,5
+644,Zekrom,Dragon Électrik,Téra-Voltage,100,150,120,120,100,90,5
+645,Démétéros,Sol Vol,Force-Sable Sans-Limite,89,125,90,115,80,101,5
+645,Démétéros Totémique,Sol Vol,Intimidation,89,145,90,105,80,91,5
+646,Kyurem,Dragon Glace,Pression,125,130,90,130,90,95,5
+646,Kyurem Noir,Dragon Glace,Téra-Voltage,125,170,100,120,90,95,5
+646,Kyurem Blanc,Dragon Glace,TurboBrasier,125,120,90,170,100,95,5
+647,Keldeo,Eau Combat,Coeur-Noble,91,72,90,129,90,108,5
+647,Keldeo Décidé,Eau Combat,Coeur-Noble,91,72,90,129,90,108,5
+648,Meloetta,Normal Psy,Sérénité,100,77,77,128,128,90,5
+648,Meloetta Danse,Normal Combat,Sérénité,100,128,90,77,77,128,5
+649,Genesect,Insecte Acier,Télécharge,71,120,95,120,95,99,5
+649,Genesect Choc,Insecte Acier,Télécharge,71,120,95,120,95,99,5
+649,Genesect Aqua,Insecte Acier,Télécharge,71,120,95,120,95,99,5
+649,Genesect Pyro,Insecte Acier,Télécharge,71,120,95,120,95,99,5
+649,Genesect Cryo,Insecte Acier,Télécharge,71,120,95,120,95,99,5
