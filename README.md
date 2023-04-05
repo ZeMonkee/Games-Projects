@@ -10,4 +10,5 @@ Pokémon (Actuellement en développement, 2 joueurs) :
 - Importer tous les fichiers dans un IDE Python avec une console.
 - Exécutez les fichiers, puis lancez dans la console la fonction jeu().
 
+----------
 Léo PERIOU
